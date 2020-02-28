@@ -3,7 +3,7 @@
 "materials":[{"name":"weapon_test.Material","id":"weapon_test.Material","ambient":[0.8,0.8,0.8],"diffuse":[0.64,0.64,0.64],"specular":[0.5,0.5,0.5],"emissive":[0,0,0],"specularPower":50,"alpha":1,"backFaceCulling":true,"checkReadyOnlyOnce":false,"maxSimultaneousLights":4}],
 "multiMaterials":[],
 "skeletons":[],
-"meshes":[{"name":"Cube","id":"Cube","materialId":"weapon_test.Material","billboardMode":0,"position":[0,0,0],"rotation":[0,0,-1.5708],"scaling":[0.0351,0.0351,0.0351],"isVisible":true,"freezeWorldMatrix":false,"isEnabled":true,"checkCollisions":false,"receiveShadows":false,"pickable":true,"tags":""
+"meshes":[{"name":"Cube","id":"Cube","materialId":"weapon_test.Material","billboardMode":0,"position":[0,0,0],"rotation":[1.5708,0,0],"scaling":[0.0351,0.0351,0.0351],"isVisible":true,"freezeWorldMatrix":false,"isEnabled":true,"checkCollisions":false,"receiveShadows":false,"pickable":true,"tags":""
 ,"positions":[1,-1,-1,-1,-1,1,1,-1,1,-1,46.0055,1,1,46.0055,-1,1,46.0055,1,-1,-1,-1,-1,46.0055,-1]
 ,"normals":[0.577,-0.577,-0.577,-0.577,-0.577,0.577,0.577,-0.577,0.577,-0.577,0.577,0.577,0.577,0.577,-0.577,0.577,0.577,0.577,-0.577,-0.577,-0.577,-0.577,0.577,-0.577]
 ,"indices":[0,1,2,3,4,5,5,0,2,4,6,0,7,1,6,2,3,5,0,6,1,3,7,4,5,4,0,4,7,6,7,3,1,2,1,3]
