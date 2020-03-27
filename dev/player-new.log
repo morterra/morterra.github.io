@@ -1,0 +1,82 @@
+Exporter version: 5.6.4, Blender version: 2.79 (sub 0)
+========= Conversion from Blender to Babylon.js =========
+	Scene settings used :
+		export scope        :  ALL
+		inline textures     :  false
+		Positions Precision :  5
+		Normals Precision   :  5
+		UVs Precision       :  5
+		Vert Color Precision:  5
+		Mat Weight Precision:  5
+		texture directory   :  C:\Users\Levi\Desktop\morterra.github.io\dev\
+	Python World class constructor completed
+	WARNING: No active camera has been assigned, or is not in a currently selected Blender layer
+	processing begun of skeleton:  Armature, id:  0
+		processing begun of bone:  Pole Target.L, index:  0
+		processing begun of bone:  Pole Target.R, index:  1
+		processing begun of bone:  Ankle_L.001, index:  2
+		processing begun of bone:  Ankle_R.001, index:  3
+		processing begun of bone:  Base, index:  4
+		processing begun of bone:  Thigh_L, index:  5
+		processing begun of bone:  Leg_L, index:  6
+		processing begun of bone:  Foot_L, index:  7
+		processing begun of bone:  Thigh_R, index:  8
+		processing begun of bone:  Leg_R, index:  9
+		processing begun of bone:  Foot_R, index:  10
+		processing begun of bone:  Stomach, index:  11
+		processing begun of bone:  Chest, index:  12
+		processing begun of bone:  Neck, index:  13
+		processing begun of bone:  Head, index:  14
+		processing begun of bone:  Bicep_L, index:  15
+		processing begun of bone:  Arm_L, index:  16
+		processing begun of bone:  Hand_L, index:  17
+		processing begun of bone:  Thumb_L, index:  18
+		processing begun of bone:  Hand_L.001, index:  19
+		processing begun of bone:  Hand_Hold_L, index:  20
+		processing begun of bone:  Bicep_R, index:  21
+		processing begun of bone:  Arm_R, index:  22
+		processing begun of bone:  Hand_R, index:  23
+		processing begun of bone:  Thumb_R, index:  24
+		processing begun of bone:  Hand_Hold_R, index:  25
+		processing begun of bone:  Hand_R.001, index:  26
+		processing action ArmatureAction:  in[0 - 691], out[0 - 691]
+	processing begun of mesh:  Hair
+		WARNING: No materials have been assigned: 
+		num positions      :  67
+		num normals        :  67
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  390
+		Skeleton stats:  
+			Total Influencers:  67
+			Avg # of influencers per vertex:  1
+			Highest # of influencers observed:  1, num vertices with this:  67
+			exported as 1 influencers
+			num skeletonWeights and skeletonIndices:  268
+	processing begun of mesh:  Player
+		processing begun of Standard material:  Skin1
+		num positions      :  406
+		num normals        :  406
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  1624
+		num indices        :  2382
+		Skeleton stats:  
+			Total Influencers:  1122
+			Avg # of influencers per vertex:  2.7635
+			Highest # of influencers observed:  6, num vertices with this:  6
+			exported as 6 influencers
+			num skeletonWeights and skeletonIndices:  3248
+	processing begun of mesh:  Loincloth
+		WARNING: No materials have been assigned: 
+		num positions      :  28
+		num normals        :  28
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  156
+========= Writing of scene file started =========
+========= Writing of scene file completed =========
+========= end of processing =========
+elapsed time:  0 min, 1.2441 secs
