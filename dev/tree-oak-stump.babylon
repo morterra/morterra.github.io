@@ -1,0 +1,22 @@
+{"producer":{"name":"Blender","version":"2.82 (sub 7)","exporter_version":"6.3.1","file":"tree_oak_stump.babylon"},
+"autoClear":true,"clearColor":[0.0509,0.0509,0.0509],"gravity":[0,-9.81,0],
+"materials":[{"name":"Oak","id":"Oak","customType":"BABYLON.PBRMaterial","backFaceCulling":true,"checkReadyOnlyOnce":false,"maxSimultaneousLights":4,"environmentIntensity":1,"albedo":[0.0908,0.0369,0.0037],"reflectivity":[0,0,0],"metallic":0},
+{"name":"Cylinder.006_baked","id":"Cylinder.006_baked","customType":"BABYLON.PBRMaterial","backFaceCulling":true,"checkReadyOnlyOnce":false,"maxSimultaneousLights":4,"environmentIntensity":1,"albedo":[0.4233,0.2874,0.1329],"reflectivity":[0,0,0],"roughness":0,"alpha":1,"transparencyMode":0,"alphaCutOff":0.4,"metallic":0}],
+"multiMaterials":[{"name":"tree_oak_stump.Multimaterial#0","id":"tree_oak_stump.Multimaterial#0","materials":["Oak","Cylinder.006_baked"]}],
+"skeletons":[],
+"meshes":[{"name":"Cylinder.006","id":"Cylinder.006","materialId":"tree_oak_stump.Multimaterial#0","billboardMode":0,"position":[-0.1313,0.9365,-0.2887],"rotation":[0,0,0],"scaling":[1.25,1,1.25],"isVisible":true,"freezeWorldMatrix":false,"isEnabled":true,"checkCollisions":false,"receiveShadows":false,"pickable":true,"tags":""
+,"positions":[-0.9511,-1,0.309,0.9511,-1,0.309,0.5878,-1,-0.809,-0.9511,0.0442,0.309,0,-1,1,-0.9511,-1,0.309,0.9511,0.0396,0.309,0,-1,1,0,0.0766,1,0.9511,0.0396,0.309,0.5878,-1,-0.809,0.9511,-1,0.309,-0.5967,0.0393,-0.7991,0.5878,-1,-0.809,0.5878,0.0693,-0.809,-0.5967,0.0393,-0.7991,-0.9511,-1,0.309
+,-0.5878,-1,-0.809,-0.5878,-1,-0.809,0,-1,1,0,0.0766,1,0.9511,-1,0.309,0,-1,1,0.9511,0.0396,0.309,0.5878,0.0693,-0.809,0.5878,-1,-0.809,-0.5967,0.0393,-0.7991,-0.5878,-1,-0.809,0.5878,-1,-0.809,-0.5967,0.0393,-0.7991,-0.9511,0.0442,0.309,-0.9511,-1,0.309,-0.5967,0.0393,-0.7991,0.5878,0.0693,-0.809
+,0.9511,0.0396,0.309,0.9511,0.0396,0.309,0,0.0766,1,-0.5967,0.0393,-0.7991,0,0.0766,1,-0.9511,0.0442,0.309,-0.5967,0.0393,-0.7991]
+,"normals":[0,-1,0,0,-1,0,0,-1,0,-0.588,0,0.809,-0.588,0,0.809,-0.588,0,0.809,0.588,0,0.809,0.588,0,0.809,0.588,0,0.809,0.951,0,-0.309,0.951,0,-0.309,0.951,0,-0.309,-0.008,0,-1,-0.008,0,-1,-0.008,0,-1,-0.951,-0.005,-0.309,-0.951,-0.005,-0.309
+,-0.951,-0.005,-0.309,0,-1,0,0,-1,0,-0.588,0,0.809,0.588,0,0.809,0.588,0,0.809,0.951,0,-0.309,0.951,0,-0.309,0.951,0,-0.309,0,0.009,-1,0,0.009,-1,0,0.009,-1,-0.952,0,-0.305,-0.952,0,-0.305,-0.952,0,-0.305,-0.025,0.999,0.035,-0.025,0.999,0.035
+,-0.025,0.999,0.035,0.019,0.999,-0.027,0.019,0.999,-0.027,0.019,0.999,-0.027,-0.025,1,-0.012,-0.025,1,-0.012,-0.025,1,-0.012]
+,"indices":[0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,2,18,0,0,19,1,3,20,4,6,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40]
+,"subMeshes":[{"materialIndex":0,"verticesStart":0,"verticesCount":32,"indexStart":0,"indexCount":39},{"materialIndex":1,"verticesStart":32,"verticesCount":9,"indexStart":39,"indexCount":9}]
+,"instances":[]}
+],
+"morphTargetManagers":[],
+"cameras":[],
+"lights":[],
+"shadowGenerators":[]
+}
