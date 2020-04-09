@@ -1,6 +1,6 @@
 {"producer":{"name":"Blender","version":"2.82 (sub 7)","exporter_version":"6.3.1","file":"corn_empty.babylon"},
 "autoClear":true,"clearColor":[0.0509,0.0509,0.0509],"gravity":[0,-9.81,0],
-"materials":[{"name":"CornPlant","id":"CornPlant","customType":"BABYLON.PBRMaterial","backFaceCulling":true,"checkReadyOnlyOnce":false,"maxSimultaneousLights":4,"environmentIntensity":1,"albedo":[0,0.314,0],"reflectivity":[0,0,0],"metallic":0}],
+"materials":[{"name":"CornPlant","id":"CornPlant","customType":"BABYLON.PBRMaterial","backFaceCulling":false,"checkReadyOnlyOnce":false,"maxSimultaneousLights":4,"environmentIntensity":1,"albedo":[0,0.314,0],"reflectivity":[0,0,0],"metallic":0}],
 "multiMaterials":[],
 "skeletons":[],
 "meshes":[{"name":"corn-empty","id":"corn-empty","materialId":"CornPlant","billboardMode":0,"position":[0,0,0],"rotation":[0,0,0],"scaling":[1,1,1],"isVisible":true,"freezeWorldMatrix":false,"isEnabled":true,"checkCollisions":false,"receiveShadows":false,"pickable":true,"tags":""
