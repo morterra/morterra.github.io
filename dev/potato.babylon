@@ -1,6 +1,6 @@
 {"producer":{"name":"Blender","version":"2.82 (sub 7)","exporter_version":"6.3.1","file":"potato.babylon"},
 "autoClear":true,"clearColor":[0.0509,0.0509,0.0509],"gravity":[0,-9.81,0],
-"materials":[{"name":"Dirt","id":"Dirt","customType":"BABYLON.PBRMaterial","backFaceCulling":true,"checkReadyOnlyOnce":false,"maxSimultaneousLights":4,"environmentIntensity":1,"albedo":[0.1626,0.0694,0.0199],"reflectivity":[0,0,0],"roughness":0,"alpha":1,"transparencyMode":0,"alphaCutOff":0.4,"metallic":0}],
+"materials":[{"name":"Dirt","id":"Dirt","customType":"BABYLON.PBRMaterial","backFaceCulling":false,"checkReadyOnlyOnce":false,"maxSimultaneousLights":4,"environmentIntensity":1,"albedo":[0.162,0.0685,0.0203],"reflectivity":[0,0,0],"metallic":0}],
 "multiMaterials":[],
 "skeletons":[],
 "meshes":[{"name":"potato","id":"potato","materialId":"Dirt","billboardMode":0,"position":[0,0,0],"rotation":[0,0,0],"scaling":[1,1,1],"isVisible":true,"freezeWorldMatrix":false,"isEnabled":true,"checkCollisions":false,"receiveShadows":false,"pickable":true,"tags":""
