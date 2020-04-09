@@ -2,8 +2,8 @@
 "autoClear":true,"clearColor":[0.0509,0.0509,0.0509],"gravity":[0,-9.81,0],
 "materials":[{"name":"Oak","id":"Oak","customType":"BABYLON.PBRMaterial","backFaceCulling":true,"checkReadyOnlyOnce":false,"maxSimultaneousLights":4,"environmentIntensity":1,"albedo":[0.0908,0.0369,0.0037],"reflectivity":[0,0,0],"metallic":0},
 {"name":"workbench-oak_baked","id":"workbench-oak_baked","customType":"BABYLON.PBRMaterial","backFaceCulling":true,"checkReadyOnlyOnce":false,"maxSimultaneousLights":4,"environmentIntensity":1,"albedo":[0.4233,0.2874,0.1329],"reflectivity":[0,0,0],"roughness":0,"alpha":1,"transparencyMode":0,"alphaCutOff":0.4,"metallic":0},
-{"name":"Iron","id":"Iron","customType":"BABYLON.PBRMaterial","backFaceCulling":true,"checkReadyOnlyOnce":false,"maxSimultaneousLights":4,"environmentIntensity":1,"albedo":[0.2159,0.2159,0.2159],"reflectivity":[0,0,0],"metallic":0}],
-"multiMaterials":[{"name":"workbench_oak.Multimaterial#0","id":"workbench_oak.Multimaterial#0","materials":["Oak","workbench-oak_baked","Iron"]}],
+{"name":"Iron.003","id":"Iron.003","customType":"BABYLON.PBRMaterial","backFaceCulling":true,"checkReadyOnlyOnce":false,"maxSimultaneousLights":4,"environmentIntensity":1,"albedo":[0.2159,0.2159,0.2159],"reflectivity":[0,0,0],"metallic":0}],
+"multiMaterials":[{"name":"workbench_oak.Multimaterial#0","id":"workbench_oak.Multimaterial#0","materials":["Oak","workbench-oak_baked","Iron.003"]}],
 "skeletons":[],
 "meshes":[{"name":"workbench-oak","id":"workbench-oak","materialId":"workbench_oak.Multimaterial#0","billboardMode":0,"position":[0,0,0],"rotation":[0,0,0],"scaling":[1,1,1],"isVisible":true,"freezeWorldMatrix":false,"isEnabled":true,"checkCollisions":false,"receiveShadows":false,"pickable":true,"tags":""
 ,"positions":[-0.3445,-0.0119,0.7473,-0.6149,2.1565,0.7473,-0.6149,-0.0119,0.7473,-0.3445,-0.0119,-0.9969,-0.6149,-0.0119,-0.7376,-0.3445,-0.0119,-0.7376,0.6535,1.1775,0.7492,0.6535,1.5922,0.7492,0.6535,1.5922,-0.7476,0.3416,-0.0119,-0.9969,0.6535,1.5922,-0.9969,0.3416,1.5922,-0.9969,-0.3445,2.1565,0.7473,-0.6149,2.1565,0.9969,-0.6149,2.1565,0.7473,-0.3445,2.1565,0.7473,-0.3445,1.5922,-0.7376
