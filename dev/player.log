@@ -1,0 +1,371 @@
+Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
+========= Conversion from Blender to Babylon.js =========
+	Scene settings used :
+		Inline textures     :  false
+		Material Type       :  PBR
+		Positions Precision :  4
+		Normals Precision   :  3
+		UVs Precision       :  3
+		Vert Color Precision:  3
+		Mat Weight Precision:  2
+		Keep Z-up r-handed  :  no
+		Texture directory   :  C:\Users\LF\Desktop\morterra.github.io\dev\
+	Python World class constructor completed
+	WARNING: No active camera has been assigned, or is not in a currently selected Blender layer
+	processing begun of skeleton:  Armature, id:  0
+		processing begun of bone:  Pole Target.L, index:  0
+		processing begun of bone:  Pole Target.R, index:  1
+		processing begun of bone:  Ankle_L.001, index:  2
+		processing begun of bone:  Ankle_R.001, index:  3
+		processing begun of bone:  Base, index:  4
+		processing begun of bone:  Thigh_L, index:  5
+		processing begun of bone:  Leg_L, index:  6
+		processing begun of bone:  Foot_L, index:  7
+		processing begun of bone:  Thigh_R, index:  8
+		processing begun of bone:  Leg_R, index:  9
+		processing begun of bone:  Foot_R, index:  10
+		processing begun of bone:  Stomach, index:  11
+		processing begun of bone:  Chest, index:  12
+		processing begun of bone:  Neck, index:  13
+		processing begun of bone:  Head, index:  14
+		processing begun of bone:  Bicep_L, index:  15
+		processing begun of bone:  Arm_L, index:  16
+		processing begun of bone:  Hand_L, index:  17
+		processing begun of bone:  Thumb_L, index:  18
+		processing begun of bone:  Hand_L.001, index:  19
+		processing begun of bone:  Hand_Hold_L, index:  20
+		processing begun of bone:  Bicep_R, index:  21
+		processing begun of bone:  Arm_R, index:  22
+		processing begun of bone:  Hand_R, index:  23
+		processing begun of bone:  Thumb_R, index:  24
+		processing begun of bone:  Hand_Hold_R, index:  25
+		processing begun of bone:  Hand_R.001, index:  26
+		processing action ArmatureAction:  in[0 - 691], out[0 - 691]
+	processing begun of mesh:  player
+		processing begun of material:  Skin1
+		num positions      :  2320
+		num normals        :  2320
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  9280
+		num indices        :  2382
+		Skeleton stats:  
+			Total Influencers:  6490
+			Avg # of influencers per vertex:  2.7974
+			Highest # of influencers observed:  6, num vertices with this:  38
+			exported as 6 influencers
+			num skeletonWeights and skeletonIndices:  18560
+	processing begun of mesh:  platebody
+		processing begun of material:  Aluminum
+		num positions      :  1605
+		num normals        :  1605
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  6420
+		num indices        :  1608
+		Skeleton stats:  
+			Total Influencers:  5811
+			Avg # of influencers per vertex:  3.6206
+			Highest # of influencers observed:  6, num vertices with this:  49
+			exported as 6 influencers
+			num skeletonWeights and skeletonIndices:  12840
+	processing begun of mesh:  platelegs
+		processing begun of material:  Aluminum
+		registered as also a user of material:  Aluminum
+		num positions      :  1577
+		num normals        :  1577
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  6308
+		num indices        :  1578
+		Skeleton stats:  
+			Total Influencers:  4690
+			Avg # of influencers per vertex:  2.974
+			Highest # of influencers observed:  6, num vertices with this:  55
+			exported as 6 influencers
+			num skeletonWeights and skeletonIndices:  12616
+	processing begun of mesh:  helmet
+		processing begun of material:  Iron
+		processing begun of material:  Material
+		processing begun of multimaterial:  player.Multimaterial#0
+		num positions      :  478
+		num normals        :  478
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  1912
+		num indices        :  498
+		Skeleton stats:  
+			Total Influencers:  615
+			Avg # of influencers per vertex:  1.2866
+			Highest # of influencers observed:  3, num vertices with this:  54
+			exported as 3 influencers
+			num skeletonWeights and skeletonIndices:  1912
+	processing begun of mesh:  sword
+		WARNING: No materials have been assigned: 
+		num positions      :  142
+		num normals        :  142
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  162
+	processing begun of mesh:  backpack
+		processing begun of material:  Cloth
+		num positions      :  95
+		num normals        :  95
+		num tangents       :  0
+		num uvs            :  190
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  102
+	processing begun of mesh:  spear
+		WARNING: No materials have been assigned: 
+		num positions      :  38
+		num normals        :  38
+		num tangents       :  0
+		num uvs            :  76
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  42
+	processing begun of mesh:  pickaxe
+		WARNING: No materials have been assigned: 
+		num positions      :  167
+		num normals        :  167
+		num tangents       :  0
+		num uvs            :  334
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  180
+	processing begun of mesh:  hatchet
+		WARNING: No materials have been assigned: 
+		num positions      :  158
+		num normals        :  158
+		num tangents       :  0
+		num uvs            :  316
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  168
+	processing begun of mesh:  mace
+		WARNING: No materials have been assigned: 
+		num positions      :  89
+		num normals        :  89
+		num tangents       :  0
+		num uvs            :  178
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  96
+	processing begun of mesh:  fishingrod
+		WARNING: No materials have been assigned: 
+		num positions      :  102
+		num normals        :  102
+		num tangents       :  0
+		num uvs            :  204
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  120
+	processing begun of mesh:  battleaxe
+		processing begun of material:  Oak
+		processing begun of material:  Aluminum
+		processing begun of material:  AluminumAlloy
+		processing begun of material:  Iron
+		processing begun of material:  Copper
+		processing begun of material:  Tin
+		processing begun of material:  Tungsten
+		processing begun of material:  TungstenAlloy
+		processing begun of material:  Titanium
+		processing begun of material:  TitaniumAlloy
+		processing begun of material:  Bronze
+		processing begun of material:  Steel
+		registered as also a user of material:  Aluminum
+		registered as also a user of material:  Iron
+		processing begun of multimaterial:  player.Multimaterial#1
+		num positions      :  205
+		num normals        :  205
+		num tangents       :  0
+		num uvs            :  410
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  228
+	processing begun of mesh:  hammer
+		WARNING: No materials have been assigned: 
+		num positions      :  96
+		num normals        :  96
+		num tangents       :  0
+		num uvs            :  192
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  108
+	processing begun of mesh:  maul
+		WARNING: No materials have been assigned: 
+		num positions      :  103
+		num normals        :  103
+		num tangents       :  0
+		num uvs            :  206
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  120
+	processing begun of mesh:  stick
+		WARNING: No materials have been assigned: 
+		num positions      :  170
+		num normals        :  170
+		num tangents       :  0
+		num uvs            :  340
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  228
+	processing begun of mesh:  bluntrock
+		processing begun of material:  Boulder Rubble
+		num positions      :  60
+		num normals        :  60
+		num tangents       :  0
+		num uvs            :  120
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  60
+	processing begun of mesh:  knife
+		WARNING: No materials have been assigned: 
+		num positions      :  66
+		num normals        :  66
+		num tangents       :  0
+		num uvs            :  132
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  78
+	processing begun of mesh:  sharprock
+		WARNING: No materials have been assigned: 
+		num positions      :  43
+		num normals        :  43
+		num tangents       :  0
+		num uvs            :  86
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  48
+	processing begun of mesh:  flint
+		WARNING: No materials have been assigned: 
+		num positions      :  38
+		num normals        :  38
+		num tangents       :  0
+		num uvs            :  76
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  42
+	processing begun of mesh:  shield
+		processing begun of material:  Aluminum
+		processing begun of material:  Bronze
+		processing begun of material:  TungstenAlloy
+		registered as also a user of material:  Aluminum
+		registered as also a user of material:  Bronze
+		registered as also a user of material:  TungstenAlloy
+		processing begun of multimaterial:  player.Multimaterial#2
+		num positions      :  85
+		num normals        :  85
+		num tangents       :  0
+		num uvs            :  170
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  96
+	processing begun of mesh:  quiver
+		WARNING: No materials have been assigned: 
+		num positions      :  41
+		num normals        :  41
+		num tangents       :  0
+		num uvs            :  82
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  48
+	processing begun of mesh:  bow
+		WARNING: No materials have been assigned: 
+		num positions      :  117
+		num normals        :  117
+		num tangents       :  0
+		num uvs            :  234
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  132
+	processing begun of mesh:  loincloth
+		WARNING: No materials have been assigned: 
+		num positions      :  111
+		num normals        :  111
+		num tangents       :  0
+		num uvs            :  222
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  132
+	processing begun of mesh:  hair
+		processing begun of material:  Skin1.004
+		num positions      :  392
+		num normals        :  392
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  1568
+		num indices        :  408
+		Skeleton stats:  
+			Total Influencers:  624
+			Avg # of influencers per vertex:  1.5918
+			Highest # of influencers observed:  3, num vertices with this:  10
+			exported as 3 influencers
+			num skeletonWeights and skeletonIndices:  1568
+	processing begun of mesh:  beard
+		processing begun of material:  Skin1.005
+		num positions      :  261
+		num normals        :  261
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  1044
+		num indices        :  273
+	processing begun of mesh:  cape
+		processing begun of material:  Material.001
+		num positions      :  147
+		num normals        :  147
+		num tangents       :  0
+		num uvs            :  294
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  180
+	processing begun of mesh:  hood
+		processing begun of material:  Material.001
+		registered as also a user of material:  Material.001
+		num positions      :  116
+		num normals        :  116
+		num tangents       :  0
+		num uvs            :  232
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  120
+========= Writing of JSON file started =========
+	writing mesh:  player
+	writing mesh:  platebody
+	writing mesh:  platelegs
+	writing mesh:  helmet
+	writing mesh:  sword
+	writing mesh:  backpack
+	writing mesh:  spear
+	writing mesh:  pickaxe
+	writing mesh:  hatchet
+	writing mesh:  mace
+	writing mesh:  fishingrod
+	writing mesh:  battleaxe
+	writing mesh:  hammer
+	writing mesh:  maul
+	writing mesh:  stick
+	writing mesh:  bluntrock
+	writing mesh:  knife
+	writing mesh:  sharprock
+	writing mesh:  flint
+	writing mesh:  shield
+	writing mesh:  quiver
+	writing mesh:  bow
+	writing mesh:  loincloth
+	writing mesh:  hair
+	writing mesh:  beard
+	writing mesh:  cape
+	writing mesh:  hood
+========= Writing of JSON file completed =========
+========= end of processing =========
+elapsed time:  0 min, 3.4068 secs
