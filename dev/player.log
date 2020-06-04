@@ -43,21 +43,21 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		processing action ArmatureAction:  in[0 - 691], out[0 - 691]
 	processing begun of mesh:  player
 		processing begun of material:  Skin1
-		num positions      :  2322
-		num normals        :  2322
+		num positions      :  2320
+		num normals        :  2320
 		num tangents       :  0
 		num uvs            :  0
 		num uvs2           :  0
-		num colors         :  9288
+		num colors         :  9280
 		num indices        :  2382
 		Skeleton stats:  
-			Total Influencers:  6494
-			Avg # of influencers per vertex:  2.7967
+			Total Influencers:  6490
+			Avg # of influencers per vertex:  2.7974
 			Highest # of influencers observed:  6, num vertices with this:  38
 			exported as 6 influencers
-			num skeletonWeights and skeletonIndices:  18576
+			num skeletonWeights and skeletonIndices:  18560
 	processing begun of mesh:  platebody
-		processing begun of material:  Skin1.001
+		processing begun of material:  Aluminum
 		num positions      :  1605
 		num normals        :  1605
 		num tangents       :  0
@@ -72,7 +72,8 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 			exported as 6 influencers
 			num skeletonWeights and skeletonIndices:  12840
 	processing begun of mesh:  platelegs
-		processing begun of material:  Skin1.002
+		processing begun of material:  Aluminum
+		registered as also a user of material:  Aluminum
 		num positions      :  1577
 		num normals        :  1577
 		num tangents       :  0
@@ -87,7 +88,7 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 			exported as 6 influencers
 			num skeletonWeights and skeletonIndices:  12616
 	processing begun of mesh:  helmet
-		processing begun of material:  Skin1.003
+		processing begun of material:  Iron
 		processing begun of material:  Material
 		processing begun of multimaterial:  player.Multimaterial#0
 		num positions      :  478
@@ -179,6 +180,8 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		processing begun of material:  TitaniumAlloy
 		processing begun of material:  Bronze
 		processing begun of material:  Steel
+		registered as also a user of material:  Aluminum
+		registered as also a user of material:  Iron
 		processing begun of multimaterial:  player.Multimaterial#1
 		num positions      :  205
 		num normals        :  205
@@ -253,10 +256,10 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 	processing begun of mesh:  shield
 		processing begun of material:  Aluminum
 		registered as also a user of material:  Aluminum
-		num positions      :  85
-		num normals        :  85
+		num positions      :  83
+		num normals        :  83
 		num tangents       :  0
-		num uvs            :  170
+		num uvs            :  166
 		num uvs2           :  0
 		num colors         :  0
 		num indices        :  96
@@ -360,4 +363,4 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 	writing mesh:  hood
 ========= Writing of JSON file completed =========
 ========= end of processing =========
-elapsed time:  0 min, 2.5986 secs
+elapsed time:  0 min, 2.8297 secs
