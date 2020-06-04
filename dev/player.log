@@ -272,9 +272,9 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		num positions      :  83
 		num normals        :  83
 		num tangents       :  0
-		num uvs            :  166
+		num uvs            :  0
 		num uvs2           :  0
-		num colors         :  332
+		num colors         :  0
 		num indices        :  96
 	processing begun of mesh:  quiver
 		WARNING: No materials have been assigned: 
@@ -376,4 +376,4 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 	writing mesh:  hood
 ========= Writing of JSON file completed =========
 ========= end of processing =========
-elapsed time:  0 min, 3.3472 secs
+elapsed time:  0 min, 3.693 secs
