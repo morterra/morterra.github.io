@@ -75,7 +75,10 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 			num skeletonWeights and skeletonIndices:  12840
 	processing begun of mesh:  platelegs
 		processing begun of material:  Aluminum
+		processing begun of material:  Bronze
 		registered as also a user of material:  Aluminum
+		registered as also a user of material:  Bronze
+		processing begun of multimaterial:  player.Multimaterial#1
 		num positions      :  1577
 		num normals        :  1577
 		num tangents       :  0
@@ -92,7 +95,7 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 	processing begun of mesh:  helmet
 		processing begun of material:  Iron
 		processing begun of material:  Material
-		processing begun of multimaterial:  player.Multimaterial#1
+		processing begun of multimaterial:  player.Multimaterial#2
 		num positions      :  478
 		num normals        :  478
 		num tangents       :  0
@@ -185,11 +188,11 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		registered as also a user of material:  Aluminum
 		registered as also a user of material:  Iron
 		registered as also a user of material:  Bronze
-		processing begun of multimaterial:  player.Multimaterial#2
-		num positions      :  202
-		num normals        :  202
+		processing begun of multimaterial:  player.Multimaterial#3
+		num positions      :  204
+		num normals        :  204
 		num tangents       :  0
-		num uvs            :  404
+		num uvs            :  408
 		num uvs2           :  0
 		num colors         :  0
 		num indices        :  228
@@ -263,7 +266,7 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		registered as also a user of material:  Aluminum
 		registered as also a user of material:  Bronze
 		registered as also a user of material:  TungstenAlloy
-		processing begun of multimaterial:  player.Multimaterial#3
+		processing begun of multimaterial:  player.Multimaterial#4
 		num positions      :  83
 		num normals        :  83
 		num tangents       :  0
@@ -371,4 +374,4 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 	writing mesh:  hood
 ========= Writing of JSON file completed =========
 ========= end of processing =========
-elapsed time:  0 min, 3.4875 secs
+elapsed time:  0 min, 3.0046 secs
