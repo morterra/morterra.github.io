@@ -255,7 +255,10 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		num indices        :  42
 	processing begun of mesh:  shield
 		processing begun of material:  Aluminum
+		processing begun of material:  Bronze
 		registered as also a user of material:  Aluminum
+		registered as also a user of material:  Bronze
+		processing begun of multimaterial:  player.Multimaterial#2
 		num positions      :  83
 		num normals        :  83
 		num tangents       :  0
@@ -363,4 +366,4 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 	writing mesh:  hood
 ========= Writing of JSON file completed =========
 ========= end of processing =========
-elapsed time:  0 min, 2.8297 secs
+elapsed time:  0 min, 2.9007 secs
