@@ -68,6 +68,7 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		processing begun of material:  TitaniumAlloy
 		processing begun of material:  Tungsten
 		processing begun of material:  TungstenAlloy
+		processing begun of material:  Placeholder
 		processing begun of multimaterial:  player.Multimaterial#0
 		num positions      :  1605
 		num normals        :  1605
@@ -94,6 +95,7 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		processing begun of material:  TitaniumAlloy
 		processing begun of material:  Tungsten
 		processing begun of material:  TungstenAlloy
+		processing begun of material:  Placeholder
 		registered as also a user of material:  Iron
 		registered as also a user of material:  Steel
 		registered as also a user of material:  Copper
@@ -105,6 +107,7 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		registered as also a user of material:  TitaniumAlloy
 		registered as also a user of material:  Tungsten
 		registered as also a user of material:  TungstenAlloy
+		registered as also a user of material:  Placeholder
 		processing begun of multimaterial:  player.Multimaterial#1
 		num positions      :  1577
 		num normals        :  1577
@@ -132,6 +135,7 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		processing begun of material:  Tungsten
 		processing begun of material:  TungstenAlloy
 		processing begun of material:  Tin
+		processing begun of material:  Placeholder
 		registered as also a user of material:  Iron
 		registered as also a user of material:  Aluminum
 		registered as also a user of material:  AluminumAlloy
@@ -143,20 +147,21 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		registered as also a user of material:  Tungsten
 		registered as also a user of material:  TungstenAlloy
 		registered as also a user of material:  Tin
+		registered as also a user of material:  Placeholder
 		processing begun of multimaterial:  player.Multimaterial#2
-		num positions      :  478
-		num normals        :  478
+		num positions      :  477
+		num normals        :  477
 		num tangents       :  0
 		num uvs            :  0
 		num uvs2           :  0
-		num colors         :  1912
+		num colors         :  1908
 		num indices        :  498
 		Skeleton stats:  
-			Total Influencers:  615
-			Avg # of influencers per vertex:  1.2866
+			Total Influencers:  614
+			Avg # of influencers per vertex:  1.2872
 			Highest # of influencers observed:  3, num vertices with this:  54
 			exported as 3 influencers
-			num skeletonWeights and skeletonIndices:  1912
+			num skeletonWeights and skeletonIndices:  1908
 	processing begun of mesh:  sword
 		processing begun of material:  Iron
 		processing begun of material:  Steel
@@ -169,6 +174,7 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		processing begun of material:  TitaniumAlloy
 		processing begun of material:  Tungsten
 		processing begun of material:  TungstenAlloy
+		processing begun of material:  Placeholder
 		registered as also a user of material:  Iron
 		registered as also a user of material:  Steel
 		registered as also a user of material:  Copper
@@ -180,6 +186,7 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		registered as also a user of material:  TitaniumAlloy
 		registered as also a user of material:  Tungsten
 		registered as also a user of material:  TungstenAlloy
+		registered as also a user of material:  Placeholder
 		processing begun of multimaterial:  player.Multimaterial#3
 		num positions      :  151
 		num normals        :  151
@@ -197,6 +204,8 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 	processing begun of mesh:  backpack
 		processing begun of material:  Cloth
 		processing begun of material:  Leather
+		processing begun of material:  Placeholder
+		registered as also a user of material:  Placeholder
 		processing begun of multimaterial:  player.Multimaterial#4
 		num positions      :  96
 		num normals        :  96
@@ -217,6 +226,7 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		processing begun of material:  Oak
 		processing begun of material:  Maple
 		processing begun of material:  Fruit
+		registered as also a user of material:  Placeholder
 		processing begun of multimaterial:  player.Multimaterial#5
 		num positions      :  38
 		num normals        :  38
@@ -359,9 +369,11 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		processing begun of material:  Oak
 		processing begun of material:  Maple
 		processing begun of material:  Fruit
+		processing begun of material:  Placeholder
 		registered as also a user of material:  Oak
 		registered as also a user of material:  Maple
 		registered as also a user of material:  Fruit
+		registered as also a user of material:  Placeholder
 		processing begun of multimaterial:  player.Multimaterial#9
 		num positions      :  114
 		num normals        :  114
@@ -503,9 +515,11 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		processing begun of material:  Oak
 		processing begun of material:  Maple
 		processing begun of material:  Fruit
+		processing begun of material:  Placeholder
 		registered as also a user of material:  Oak
 		registered as also a user of material:  Maple
 		registered as also a user of material:  Fruit
+		registered as also a user of material:  Placeholder
 		processing begun of multimaterial:  player.Multimaterial#13
 		num positions      :  176
 		num normals        :  176
@@ -619,6 +633,7 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		processing begun of material:  TitaniumAlloy
 		processing begun of material:  Tungsten
 		processing begun of material:  TungstenAlloy
+		processing begun of material:  Placeholder
 		registered as also a user of material:  Iron
 		registered as also a user of material:  Steel
 		registered as also a user of material:  Copper
@@ -630,6 +645,7 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		registered as also a user of material:  TitaniumAlloy
 		registered as also a user of material:  Tungsten
 		registered as also a user of material:  TungstenAlloy
+		registered as also a user of material:  Placeholder
 		processing begun of multimaterial:  player.Multimaterial#15
 		num positions      :  83
 		num normals        :  83
@@ -647,8 +663,10 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 	processing begun of mesh:  quiver
 		processing begun of material:  Cloth
 		processing begun of material:  Leather
+		processing begun of material:  Placeholder
 		registered as also a user of material:  Cloth
 		registered as also a user of material:  Leather
+		registered as also a user of material:  Placeholder
 		processing begun of multimaterial:  player.Multimaterial#16
 		num positions      :  42
 		num normals        :  42
@@ -668,9 +686,11 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		processing begun of material:  Oak
 		processing begun of material:  Maple
 		processing begun of material:  Fruit
+		processing begun of material:  Placeholder
 		registered as also a user of material:  Oak
 		registered as also a user of material:  Maple
 		registered as also a user of material:  Fruit
+		registered as also a user of material:  Placeholder
 		processing begun of multimaterial:  player.Multimaterial#17
 		num positions      :  117
 		num normals        :  117
@@ -812,4 +832,4 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 	writing mesh:  crown
 ========= Writing of JSON file completed =========
 ========= end of processing =========
-elapsed time:  0 min, 3.4738 secs
+elapsed time:  0 min, 3.4521 secs
