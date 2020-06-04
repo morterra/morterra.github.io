@@ -76,6 +76,7 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 	processing begun of mesh:  platelegs
 		processing begun of material:  Aluminum
 		processing begun of material:  Bronze
+		processing begun of material:  TungstenAlloy
 		registered as also a user of material:  Aluminum
 		registered as also a user of material:  Bronze
 		processing begun of multimaterial:  player.Multimaterial#1
@@ -187,6 +188,7 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		processing begun of material:  Steel
 		registered as also a user of material:  Aluminum
 		registered as also a user of material:  Iron
+		registered as also a user of material:  TungstenAlloy
 		registered as also a user of material:  Bronze
 		processing begun of multimaterial:  player.Multimaterial#3
 		num positions      :  204
@@ -272,7 +274,7 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		num tangents       :  0
 		num uvs            :  166
 		num uvs2           :  0
-		num colors         :  0
+		num colors         :  332
 		num indices        :  96
 	processing begun of mesh:  quiver
 		WARNING: No materials have been assigned: 
@@ -374,4 +376,4 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 	writing mesh:  hood
 ========= Writing of JSON file completed =========
 ========= end of processing =========
-elapsed time:  0 min, 2.9312 secs
+elapsed time:  0 min, 3.3472 secs
