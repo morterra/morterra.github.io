@@ -51,8 +51,8 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		num colors         :  9280
 		num indices        :  2382
 		Skeleton stats:  
-			Total Influencers:  6490
-			Avg # of influencers per vertex:  2.7974
+			Total Influencers:  6497
+			Avg # of influencers per vertex:  2.8004
 			Highest # of influencers observed:  6, num vertices with this:  38
 			exported as 6 influencers
 			num skeletonWeights and skeletonIndices:  18560
@@ -188,19 +188,19 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		registered as also a user of material:  TungstenAlloy
 		registered as also a user of material:  Placeholder
 		processing begun of multimaterial:  player.Multimaterial#3
-		num positions      :  151
-		num normals        :  151
+		num positions      :  149
+		num normals        :  149
 		num tangents       :  0
 		num uvs            :  0
 		num uvs2           :  0
 		num colors         :  0
 		num indices        :  162
 		Skeleton stats:  
-			Total Influencers:  930
-			Avg # of influencers per vertex:  6.1589
+			Total Influencers:  918
+			Avg # of influencers per vertex:  6.1611
 			Highest # of influencers observed:  7, num vertices with this:  24
 			exported as 7 influencers
-			num skeletonWeights and skeletonIndices:  1208
+			num skeletonWeights and skeletonIndices:  1192
 	processing begun of mesh:  backpack
 		processing begun of material:  Cloth
 		processing begun of material:  Leather
@@ -228,19 +228,19 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		processing begun of material:  Fruit
 		registered as also a user of material:  Placeholder
 		processing begun of multimaterial:  player.Multimaterial#5
-		num positions      :  38
-		num normals        :  38
+		num positions      :  36
+		num normals        :  36
 		num tangents       :  0
-		num uvs            :  76
+		num uvs            :  72
 		num uvs2           :  0
 		num colors         :  0
 		num indices        :  42
 		Skeleton stats:  
-			Total Influencers:  304
+			Total Influencers:  288
 			Avg # of influencers per vertex:  8
-			Highest # of influencers observed:  8, num vertices with this:  38
+			Highest # of influencers observed:  8, num vertices with this:  36
 			exported as 8 influencers
-			num skeletonWeights and skeletonIndices:  304
+			num skeletonWeights and skeletonIndices:  288
 	processing begun of mesh:  pickaxe
 		processing begun of material:  Oak
 		processing begun of material:  Placeholder
@@ -269,20 +269,20 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		registered as also a user of material:  Tungsten
 		registered as also a user of material:  TungstenAlloy
 		processing begun of multimaterial:  player.Multimaterial#6
-		num positions      :  163
-		num normals        :  163
+		num positions      :  166
+		num normals        :  166
 		num tangents       :  0
-		num uvs            :  326
+		num uvs            :  332
 		num uvs2           :  0
 		num colors         :  0
 		num indices        :  180
 		Skeleton stats:  
-			WARNING: Maximum # of influencers exceeded for 163 vertices, extras ignored
-			Total Influencers:  1648
-			Avg # of influencers per vertex:  10.1104
-			Highest # of influencers observed:  11, num vertices with this:  163
+			WARNING: Maximum # of influencers exceeded for 166 vertices, extras ignored
+			Total Influencers:  1678
+			Avg # of influencers per vertex:  10.1084
+			Highest # of influencers observed:  11, num vertices with this:  166
 			exported as 8 influencers
-			num skeletonWeights and skeletonIndices:  1304
+			num skeletonWeights and skeletonIndices:  1328
 	processing begun of mesh:  hatchet
 		processing begun of material:  Oak
 		processing begun of material:  Placeholder
@@ -311,19 +311,19 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		registered as also a user of material:  TungstenAlloy
 		registered as also a user of material:  Steel
 		processing begun of multimaterial:  player.Multimaterial#7
-		num positions      :  159
-		num normals        :  159
+		num positions      :  160
+		num normals        :  160
 		num tangents       :  0
-		num uvs            :  318
+		num uvs            :  320
 		num uvs2           :  0
 		num colors         :  0
 		num indices        :  168
 		Skeleton stats:  
-			Total Influencers:  954
+			Total Influencers:  960
 			Avg # of influencers per vertex:  6
-			Highest # of influencers observed:  6, num vertices with this:  159
+			Highest # of influencers observed:  6, num vertices with this:  160
 			exported as 6 influencers
-			num skeletonWeights and skeletonIndices:  1272
+			num skeletonWeights and skeletonIndices:  1280
 	processing begun of mesh:  mace
 		processing begun of material:  Oak
 		processing begun of material:  Placeholder
@@ -352,19 +352,19 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		registered as also a user of material:  Tungsten
 		registered as also a user of material:  TungstenAlloy
 		processing begun of multimaterial:  player.Multimaterial#8
-		num positions      :  89
-		num normals        :  89
+		num positions      :  91
+		num normals        :  91
 		num tangents       :  0
-		num uvs            :  178
+		num uvs            :  182
 		num uvs2           :  0
 		num colors         :  0
 		num indices        :  96
 		Skeleton stats:  
-			Total Influencers:  505
-			Avg # of influencers per vertex:  5.6742
+			Total Influencers:  515
+			Avg # of influencers per vertex:  5.6593
 			Highest # of influencers observed:  6, num vertices with this:  60
 			exported as 6 influencers
-			num skeletonWeights and skeletonIndices:  712
+			num skeletonWeights and skeletonIndices:  728
 	processing begun of mesh:  fishingrod
 		processing begun of material:  Oak
 		processing begun of material:  Maple
@@ -375,19 +375,19 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		registered as also a user of material:  Fruit
 		registered as also a user of material:  Placeholder
 		processing begun of multimaterial:  player.Multimaterial#9
-		num positions      :  114
-		num normals        :  114
+		num positions      :  116
+		num normals        :  116
 		num tangents       :  0
-		num uvs            :  228
+		num uvs            :  232
 		num uvs2           :  0
 		num colors         :  0
 		num indices        :  120
 		Skeleton stats:  
-			Total Influencers:  750
-			Avg # of influencers per vertex:  6.5789
+			Total Influencers:  762
+			Avg # of influencers per vertex:  6.569
 			Highest # of influencers observed:  7, num vertices with this:  66
 			exported as 7 influencers
-			num skeletonWeights and skeletonIndices:  912
+			num skeletonWeights and skeletonIndices:  928
 	processing begun of mesh:  battleaxe
 		processing begun of material:  Oak
 		processing begun of material:  Aluminum
@@ -416,19 +416,19 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		registered as also a user of material:  Steel
 		registered as also a user of material:  Placeholder
 		processing begun of multimaterial:  player.Multimaterial#10
-		num positions      :  228
-		num normals        :  228
+		num positions      :  224
+		num normals        :  224
 		num tangents       :  0
-		num uvs            :  456
+		num uvs            :  448
 		num uvs2           :  0
 		num colors         :  0
 		num indices        :  228
 		Skeleton stats:  
-			Total Influencers:  1374
-			Avg # of influencers per vertex:  6.0263
+			Total Influencers:  1350
+			Avg # of influencers per vertex:  6.0268
 			Highest # of influencers observed:  7, num vertices with this:  24
 			exported as 7 influencers
-			num skeletonWeights and skeletonIndices:  1824
+			num skeletonWeights and skeletonIndices:  1792
 	processing begun of mesh:  hammer
 		processing begun of material:  Oak
 		processing begun of material:  Placeholder
@@ -457,19 +457,19 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		registered as also a user of material:  Steel
 		registered as also a user of material:  Tin
 		processing begun of multimaterial:  player.Multimaterial#11
-		num positions      :  100
-		num normals        :  100
+		num positions      :  97
+		num normals        :  97
 		num tangents       :  0
-		num uvs            :  200
+		num uvs            :  194
 		num uvs2           :  0
 		num colors         :  0
 		num indices        :  108
 		Skeleton stats:  
-			Total Influencers:  500
+			Total Influencers:  485
 			Avg # of influencers per vertex:  5
-			Highest # of influencers observed:  5, num vertices with this:  100
+			Highest # of influencers observed:  5, num vertices with this:  97
 			exported as 5 influencers
-			num skeletonWeights and skeletonIndices:  800
+			num skeletonWeights and skeletonIndices:  776
 	processing begun of mesh:  maul
 		processing begun of material:  Oak
 		processing begun of material:  Placeholder
@@ -498,19 +498,19 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		registered as also a user of material:  Tungsten
 		registered as also a user of material:  TungstenAlloy
 		processing begun of multimaterial:  player.Multimaterial#12
-		num positions      :  105
-		num normals        :  105
+		num positions      :  103
+		num normals        :  103
 		num tangents       :  0
-		num uvs            :  210
+		num uvs            :  206
 		num uvs2           :  0
 		num colors         :  0
 		num indices        :  120
 		Skeleton stats:  
-			Total Influencers:  720
-			Avg # of influencers per vertex:  6.8571
-			Highest # of influencers observed:  7, num vertices with this:  90
+			Total Influencers:  706
+			Avg # of influencers per vertex:  6.8544
+			Highest # of influencers observed:  7, num vertices with this:  88
 			exported as 7 influencers
-			num skeletonWeights and skeletonIndices:  840
+			num skeletonWeights and skeletonIndices:  824
 	processing begun of mesh:  stick
 		processing begun of material:  Oak
 		processing begun of material:  Maple
@@ -521,19 +521,19 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		registered as also a user of material:  Fruit
 		registered as also a user of material:  Placeholder
 		processing begun of multimaterial:  player.Multimaterial#13
-		num positions      :  176
-		num normals        :  176
+		num positions      :  169
+		num normals        :  169
 		num tangents       :  0
-		num uvs            :  352
+		num uvs            :  338
 		num uvs2           :  0
 		num colors         :  0
 		num indices        :  228
 		Skeleton stats:  
-			Total Influencers:  1056
+			Total Influencers:  1014
 			Avg # of influencers per vertex:  6
-			Highest # of influencers observed:  6, num vertices with this:  176
+			Highest # of influencers observed:  6, num vertices with this:  169
 			exported as 6 influencers
-			num skeletonWeights and skeletonIndices:  1408
+			num skeletonWeights and skeletonIndices:  1352
 	processing begun of mesh:  bluntrock
 		processing begun of material:  Boulder Rubble
 		num positions      :  60
@@ -577,35 +577,35 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		registered as also a user of material:  Tungsten
 		registered as also a user of material:  TungstenAlloy
 		processing begun of multimaterial:  player.Multimaterial#14
-		num positions      :  72
-		num normals        :  72
+		num positions      :  71
+		num normals        :  71
 		num tangents       :  0
-		num uvs            :  144
+		num uvs            :  142
 		num uvs2           :  0
 		num colors         :  0
 		num indices        :  78
 		Skeleton stats:  
-			Total Influencers:  288
+			Total Influencers:  284
 			Avg # of influencers per vertex:  4
-			Highest # of influencers observed:  4, num vertices with this:  72
+			Highest # of influencers observed:  4, num vertices with this:  71
 			exported as 4 influencers
-			num skeletonWeights and skeletonIndices:  288
+			num skeletonWeights and skeletonIndices:  284
 	processing begun of mesh:  sharprock
 		processing begun of material:  Boulder Rubble
 		registered as also a user of material:  Boulder Rubble
-		num positions      :  44
-		num normals        :  44
+		num positions      :  43
+		num normals        :  43
 		num tangents       :  0
-		num uvs            :  88
+		num uvs            :  86
 		num uvs2           :  0
 		num colors         :  0
 		num indices        :  48
 		Skeleton stats:  
-			Total Influencers:  180
-			Avg # of influencers per vertex:  4.0909
+			Total Influencers:  176
+			Avg # of influencers per vertex:  4.093
 			Highest # of influencers observed:  5, num vertices with this:  4
 			exported as 5 influencers
-			num skeletonWeights and skeletonIndices:  352
+			num skeletonWeights and skeletonIndices:  344
 	processing begun of mesh:  flint
 		processing begun of material:  Flint
 		num positions      :  38
@@ -647,19 +647,19 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		registered as also a user of material:  TungstenAlloy
 		registered as also a user of material:  Placeholder
 		processing begun of multimaterial:  player.Multimaterial#15
-		num positions      :  83
-		num normals        :  83
+		num positions      :  84
+		num normals        :  84
 		num tangents       :  0
 		num uvs            :  0
 		num uvs2           :  0
-		num colors         :  332
+		num colors         :  336
 		num indices        :  96
 		Skeleton stats:  
-			Total Influencers:  281
-			Avg # of influencers per vertex:  3.3855
-			Highest # of influencers observed:  4, num vertices with this:  39
+			Total Influencers:  285
+			Avg # of influencers per vertex:  3.3929
+			Highest # of influencers observed:  4, num vertices with this:  40
 			exported as 4 influencers
-			num skeletonWeights and skeletonIndices:  332
+			num skeletonWeights and skeletonIndices:  336
 	processing begun of mesh:  quiver
 		processing begun of material:  Cloth
 		processing begun of material:  Leather
@@ -692,20 +692,20 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		registered as also a user of material:  Fruit
 		registered as also a user of material:  Placeholder
 		processing begun of multimaterial:  player.Multimaterial#17
-		num positions      :  117
-		num normals        :  117
+		num positions      :  119
+		num normals        :  119
 		num tangents       :  0
-		num uvs            :  234
+		num uvs            :  238
 		num uvs2           :  0
 		num colors         :  0
 		num indices        :  132
 		Skeleton stats:  
 			WARNING: Maximum # of influencers exceeded for 18 vertices, extras ignored
-			Total Influencers:  954
-			Avg # of influencers per vertex:  8.1538
+			Total Influencers:  970
+			Avg # of influencers per vertex:  8.1513
 			Highest # of influencers observed:  9, num vertices with this:  18
 			exported as 8 influencers
-			num skeletonWeights and skeletonIndices:  936
+			num skeletonWeights and skeletonIndices:  952
 	processing begun of mesh:  loincloth
 		processing begun of material:  Leather
 		registered as also a user of material:  Leather
@@ -755,19 +755,19 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 			num skeletonWeights and skeletonIndices:  2088
 	processing begun of mesh:  cape
 		processing begun of material:  Cape
-		num positions      :  178
-		num normals        :  178
+		num positions      :  180
+		num normals        :  180
 		num tangents       :  0
-		num uvs            :  356
+		num uvs            :  360
 		num uvs2           :  0
 		num colors         :  0
 		num indices        :  180
 		Skeleton stats:  
-			Total Influencers:  1164
-			Avg # of influencers per vertex:  6.5393
+			Total Influencers:  1175
+			Avg # of influencers per vertex:  6.5278
 			Highest # of influencers observed:  7, num vertices with this:  115
 			exported as 7 influencers
-			num skeletonWeights and skeletonIndices:  1424
+			num skeletonWeights and skeletonIndices:  1440
 	processing begun of mesh:  hood
 		processing begun of material:  Cape
 		registered as also a user of material:  Cape
@@ -787,20 +787,20 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 			num skeletonWeights and skeletonIndices:  928
 	processing begun of mesh:  crown
 		processing begun of material:  Gold
-		num positions      :  289
-		num normals        :  289
+		num positions      :  290
+		num normals        :  290
 		num tangents       :  0
-		num uvs            :  578
+		num uvs            :  580
 		num uvs2           :  0
 		num colors         :  0
 		num indices        :  336
 		Skeleton stats:  
-			WARNING: Maximum # of influencers exceeded for 289 vertices, extras ignored
-			Total Influencers:  6069
+			WARNING: Maximum # of influencers exceeded for 290 vertices, extras ignored
+			Total Influencers:  6090
 			Avg # of influencers per vertex:  21
-			Highest # of influencers observed:  21, num vertices with this:  289
+			Highest # of influencers observed:  21, num vertices with this:  290
 			exported as 8 influencers
-			num skeletonWeights and skeletonIndices:  2312
+			num skeletonWeights and skeletonIndices:  2320
 ========= Writing of JSON file started =========
 	writing mesh:  player
 	writing mesh:  platebody
@@ -832,4 +832,4 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 	writing mesh:  crown
 ========= Writing of JSON file completed =========
 ========= end of processing =========
-elapsed time:  0 min, 3.4521 secs
+elapsed time:  0 min, 3.3786 secs
