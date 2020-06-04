@@ -271,13 +271,19 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		registered as also a user of material:  Bronze
 		registered as also a user of material:  TungstenAlloy
 		processing begun of multimaterial:  player.Multimaterial#4
-		num positions      :  83
-		num normals        :  83
+		num positions      :  85
+		num normals        :  85
 		num tangents       :  0
 		num uvs            :  0
 		num uvs2           :  0
-		num colors         :  332
+		num colors         :  340
 		num indices        :  96
+		Skeleton stats:  
+			Total Influencers:  288
+			Avg # of influencers per vertex:  3.3882
+			Highest # of influencers observed:  4, num vertices with this:  40
+			exported as 4 influencers
+			num skeletonWeights and skeletonIndices:  340
 	processing begun of mesh:  quiver
 		WARNING: No materials have been assigned: 
 		num positions      :  41
@@ -378,4 +384,4 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 	writing mesh:  hood
 ========= Writing of JSON file completed =========
 ========= end of processing =========
-elapsed time:  0 min, 2.4096 secs
+elapsed time:  0 min, 2.4651 secs
