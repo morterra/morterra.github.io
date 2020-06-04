@@ -271,12 +271,12 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		registered as also a user of material:  Bronze
 		registered as also a user of material:  TungstenAlloy
 		processing begun of multimaterial:  player.Multimaterial#4
-		num positions      :  85
-		num normals        :  85
+		num positions      :  83
+		num normals        :  83
 		num tangents       :  0
 		num uvs            :  0
 		num uvs2           :  0
-		num colors         :  0
+		num colors         :  332
 		num indices        :  96
 	processing begun of mesh:  quiver
 		WARNING: No materials have been assigned: 
@@ -378,4 +378,4 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 	writing mesh:  hood
 ========= Writing of JSON file completed =========
 ========= end of processing =========
-elapsed time:  0 min, 2.4419 secs
+elapsed time:  0 min, 2.4096 secs
