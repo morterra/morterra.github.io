@@ -765,6 +765,22 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 			Highest # of influencers observed:  14, num vertices with this:  116
 			exported as 8 influencers
 			num skeletonWeights and skeletonIndices:  928
+	processing begun of mesh:  crown
+		processing begun of material:  Gold
+		num positions      :  289
+		num normals        :  289
+		num tangents       :  0
+		num uvs            :  578
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  336
+		Skeleton stats:  
+			WARNING: Maximum # of influencers exceeded for 289 vertices, extras ignored
+			Total Influencers:  6069
+			Avg # of influencers per vertex:  21
+			Highest # of influencers observed:  21, num vertices with this:  289
+			exported as 8 influencers
+			num skeletonWeights and skeletonIndices:  2312
 ========= Writing of JSON file started =========
 	writing mesh:  player
 	writing mesh:  platebody
@@ -793,6 +809,7 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 	writing mesh:  beard
 	writing mesh:  cape
 	writing mesh:  hood
+	writing mesh:  crown
 ========= Writing of JSON file completed =========
 ========= end of processing =========
-elapsed time:  0 min, 3.3333 secs
+elapsed time:  0 min, 3.4738 secs
