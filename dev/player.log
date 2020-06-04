@@ -51,8 +51,8 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		num colors         :  9280
 		num indices        :  2382
 		Skeleton stats:  
-			Total Influencers:  6489
-			Avg # of influencers per vertex:  2.797
+			Total Influencers:  6490
+			Avg # of influencers per vertex:  2.7974
 			Highest # of influencers observed:  6, num vertices with this:  38
 			exported as 6 influencers
 			num skeletonWeights and skeletonIndices:  18560
@@ -378,4 +378,4 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 	writing mesh:  hood
 ========= Writing of JSON file completed =========
 ========= end of processing =========
-elapsed time:  0 min, 3.5103 secs
+elapsed time:  0 min, 2.4282 secs
