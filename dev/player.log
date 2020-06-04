@@ -43,19 +43,19 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		processing action ArmatureAction:  in[0 - 691], out[0 - 691]
 	processing begun of mesh:  player
 		processing begun of material:  Skin1
-		num positions      :  2320
-		num normals        :  2320
+		num positions      :  2318
+		num normals        :  2318
 		num tangents       :  0
 		num uvs            :  0
 		num uvs2           :  0
-		num colors         :  9280
+		num colors         :  9272
 		num indices        :  2382
 		Skeleton stats:  
-			Total Influencers:  6490
-			Avg # of influencers per vertex:  2.7974
+			Total Influencers:  6485
+			Avg # of influencers per vertex:  2.7977
 			Highest # of influencers observed:  6, num vertices with this:  38
 			exported as 6 influencers
-			num skeletonWeights and skeletonIndices:  18560
+			num skeletonWeights and skeletonIndices:  18544
 	processing begun of mesh:  platebody
 		processing begun of material:  Aluminum
 		processing begun of material:  Bronze
@@ -378,4 +378,4 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 	writing mesh:  hood
 ========= Writing of JSON file completed =========
 ========= end of processing =========
-elapsed time:  0 min, 2.4435 secs
+elapsed time:  0 min, 2.4546 secs
