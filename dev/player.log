@@ -51,14 +51,15 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		num colors         :  9280
 		num indices        :  2382
 		Skeleton stats:  
-			Total Influencers:  6490
-			Avg # of influencers per vertex:  2.7974
+			Total Influencers:  6489
+			Avg # of influencers per vertex:  2.797
 			Highest # of influencers observed:  6, num vertices with this:  38
 			exported as 6 influencers
 			num skeletonWeights and skeletonIndices:  18560
 	processing begun of mesh:  platebody
 		processing begun of material:  Aluminum
 		processing begun of material:  Bronze
+		processing begun of material:  TungstenAlloy
 		processing begun of multimaterial:  player.Multimaterial#0
 		num positions      :  1605
 		num normals        :  1605
@@ -79,6 +80,7 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		processing begun of material:  TungstenAlloy
 		registered as also a user of material:  Aluminum
 		registered as also a user of material:  Bronze
+		registered as also a user of material:  TungstenAlloy
 		processing begun of multimaterial:  player.Multimaterial#1
 		num positions      :  1577
 		num normals        :  1577
@@ -191,10 +193,10 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		registered as also a user of material:  TungstenAlloy
 		registered as also a user of material:  Bronze
 		processing begun of multimaterial:  player.Multimaterial#3
-		num positions      :  204
-		num normals        :  204
+		num positions      :  206
+		num normals        :  206
 		num tangents       :  0
-		num uvs            :  408
+		num uvs            :  412
 		num uvs2           :  0
 		num colors         :  0
 		num indices        :  228
@@ -376,4 +378,4 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 	writing mesh:  hood
 ========= Writing of JSON file completed =========
 ========= end of processing =========
-elapsed time:  0 min, 3.693 secs
+elapsed time:  0 min, 3.2188 secs
