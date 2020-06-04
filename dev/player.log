@@ -40,7 +40,7 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		processing begun of bone:  Thumb_R, index:  24
 		processing begun of bone:  Hand_Hold_R, index:  25
 		processing begun of bone:  Hand_R.001, index:  26
-		processing action ArmatureAction:  in[0 - 691], out[0 - 691]
+		processing action ArmatureAction:  in[0 - 700], out[0 - 700]
 	processing begun of mesh:  player
 		processing begun of material:  Skin1
 		num positions      :  2320
@@ -193,13 +193,19 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		registered as also a user of material:  TungstenAlloy
 		registered as also a user of material:  Bronze
 		processing begun of multimaterial:  player.Multimaterial#3
-		num positions      :  203
-		num normals        :  203
+		num positions      :  228
+		num normals        :  228
 		num tangents       :  0
-		num uvs            :  406
+		num uvs            :  456
 		num uvs2           :  0
 		num colors         :  0
 		num indices        :  228
+		Skeleton stats:  
+			Total Influencers:  1374
+			Avg # of influencers per vertex:  6.0263
+			Highest # of influencers observed:  7, num vertices with this:  24
+			exported as 7 influencers
+			num skeletonWeights and skeletonIndices:  1824
 	processing begun of mesh:  hammer
 		WARNING: No materials have been assigned: 
 		num positions      :  96
@@ -384,4 +390,4 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 	writing mesh:  hood
 ========= Writing of JSON file completed =========
 ========= end of processing =========
-elapsed time:  0 min, 2.4651 secs
+elapsed time:  0 min, 2.5424 secs
