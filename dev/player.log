@@ -252,10 +252,10 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		num indices        :  42
 	processing begun of mesh:  shield
 		WARNING: No materials have been assigned: 
-		num positions      :  83
-		num normals        :  83
+		num positions      :  85
+		num normals        :  85
 		num tangents       :  0
-		num uvs            :  166
+		num uvs            :  170
 		num uvs2           :  0
 		num colors         :  0
 		num indices        :  96
@@ -359,4 +359,4 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 	writing mesh:  hood
 ========= Writing of JSON file completed =========
 ========= end of processing =========
-elapsed time:  0 min, 2.6796 secs
+elapsed time:  0 min, 2.8686 secs
