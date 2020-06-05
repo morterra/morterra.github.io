@@ -217,19 +217,19 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		processing begun of material:  Maple
 		processing begun of material:  Fruit
 		processing begun of multimaterial:  player.Multimaterial#5
-		num positions      :  38
-		num normals        :  38
+		num positions      :  41
+		num normals        :  41
 		num tangents       :  0
-		num uvs            :  76
+		num uvs            :  82
 		num uvs2           :  0
 		num colors         :  0
 		num indices        :  42
 		Skeleton stats:  
-			Total Influencers:  304
+			Total Influencers:  328
 			Avg # of influencers per vertex:  8
-			Highest # of influencers observed:  8, num vertices with this:  38
+			Highest # of influencers observed:  8, num vertices with this:  41
 			exported as 8 influencers
-			num skeletonWeights and skeletonIndices:  304
+			num skeletonWeights and skeletonIndices:  328
 	processing begun of mesh:  pickaxe
 		processing begun of material:  Oak
 		processing begun of material:  Copper
@@ -798,4 +798,4 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 	writing mesh:  crown
 ========= Writing of JSON file completed =========
 ========= end of processing =========
-elapsed time:  0 min, 3.7716 secs
+elapsed time:  0 min, 3.8502 secs
