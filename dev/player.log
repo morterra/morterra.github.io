@@ -256,20 +256,20 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		registered as also a user of material:  Tungsten
 		registered as also a user of material:  TungstenAlloy
 		processing begun of multimaterial:  player.Multimaterial#6
-		num positions      :  163
-		num normals        :  163
+		num positions      :  164
+		num normals        :  164
 		num tangents       :  0
-		num uvs            :  326
+		num uvs            :  328
 		num uvs2           :  0
 		num colors         :  0
 		num indices        :  180
 		Skeleton stats:  
-			WARNING: Maximum # of influencers exceeded for 163 vertices, extras ignored
-			Total Influencers:  1648
-			Avg # of influencers per vertex:  10.1104
-			Highest # of influencers observed:  11, num vertices with this:  163
+			WARNING: Maximum # of influencers exceeded for 164 vertices, extras ignored
+			Total Influencers:  1658
+			Avg # of influencers per vertex:  10.1098
+			Highest # of influencers observed:  11, num vertices with this:  164
 			exported as 8 influencers
-			num skeletonWeights and skeletonIndices:  1304
+			num skeletonWeights and skeletonIndices:  1312
 	processing begun of mesh:  hatchet
 		processing begun of material:  Oak
 		processing begun of material:  Copper
@@ -798,4 +798,4 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 	writing mesh:  crown
 ========= Writing of JSON file completed =========
 ========= end of processing =========
-elapsed time:  0 min, 3.7983 secs
+elapsed time:  0 min, 4.0204 secs
