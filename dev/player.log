@@ -768,7 +768,27 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 			exported as 8 influencers
 			num skeletonWeights and skeletonIndices:  2312
 	processing begun of mesh:  crossbow
-		WARNING: No materials have been assigned: 
+		processing begun of material:  Aluminum
+		processing begun of material:  AluminumAlloy
+		processing begun of material:  Copper
+		processing begun of material:  Tin
+		processing begun of material:  Bronze
+		processing begun of material:  Steel
+		processing begun of material:  Titanium
+		processing begun of material:  TitaniumAlloy
+		processing begun of material:  Tungsten
+		processing begun of material:  TungstenAlloy
+		registered as also a user of material:  Aluminum
+		registered as also a user of material:  AluminumAlloy
+		registered as also a user of material:  Copper
+		registered as also a user of material:  Tin
+		registered as also a user of material:  Bronze
+		registered as also a user of material:  Steel
+		registered as also a user of material:  Titanium
+		registered as also a user of material:  TitaniumAlloy
+		registered as also a user of material:  Tungsten
+		registered as also a user of material:  TungstenAlloy
+		processing begun of multimaterial:  player.Multimaterial#18
 		num positions      :  137
 		num normals        :  137
 		num tangents       :  0
@@ -815,4 +835,4 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 	writing mesh:  crossbow
 ========= Writing of JSON file completed =========
 ========= end of processing =========
-elapsed time:  0 min, 4.0016 secs
+elapsed time:  0 min, 4.1259 secs
