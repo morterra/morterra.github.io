@@ -1,0 +1,838 @@
+Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
+========= Conversion from Blender to Babylon.js =========
+	Scene settings used :
+		Inline textures     :  false
+		Material Type       :  PBR
+		Positions Precision :  4
+		Normals Precision   :  3
+		UVs Precision       :  3
+		Vert Color Precision:  3
+		Mat Weight Precision:  2
+		Keep Z-up r-handed  :  no
+		Texture directory   :  D:\Desktop\morterra.github.io\dev\
+	Python World class constructor completed
+	WARNING: No active camera has been assigned, or is not in a currently selected Blender layer
+	processing begun of skeleton:  Armature, id:  0
+		processing begun of bone:  Pole Target.L, index:  0
+		processing begun of bone:  Pole Target.R, index:  1
+		processing begun of bone:  Ankle_L.001, index:  2
+		processing begun of bone:  Ankle_R.001, index:  3
+		processing begun of bone:  Base, index:  4
+		processing begun of bone:  Thigh_L, index:  5
+		processing begun of bone:  Leg_L, index:  6
+		processing begun of bone:  Foot_L, index:  7
+		processing begun of bone:  Thigh_R, index:  8
+		processing begun of bone:  Leg_R, index:  9
+		processing begun of bone:  Foot_R, index:  10
+		processing begun of bone:  Stomach, index:  11
+		processing begun of bone:  Chest, index:  12
+		processing begun of bone:  Neck, index:  13
+		processing begun of bone:  Head, index:  14
+		processing begun of bone:  Bicep_L, index:  15
+		processing begun of bone:  Arm_L, index:  16
+		processing begun of bone:  Hand_L, index:  17
+		processing begun of bone:  Thumb_L, index:  18
+		processing begun of bone:  Hand_L.001, index:  19
+		processing begun of bone:  Hand_Hold_L, index:  20
+		processing begun of bone:  Bicep_R, index:  21
+		processing begun of bone:  Arm_R, index:  22
+		processing begun of bone:  Hand_R, index:  23
+		processing begun of bone:  Thumb_R, index:  24
+		processing begun of bone:  Hand_Hold_R, index:  25
+		processing begun of bone:  Hand_R.001, index:  26
+		processing action ArmatureAction:  in[0 - 1000], out[0 - 1000]
+	processing begun of mesh:  player
+		processing begun of material:  Skin1
+		num positions      :  2318
+		num normals        :  2318
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  9272
+		num indices        :  2382
+		Skeleton stats:  
+			Total Influencers:  6492
+			Avg # of influencers per vertex:  2.8007
+			Highest # of influencers observed:  6, num vertices with this:  38
+			exported as 6 influencers
+			num skeletonWeights and skeletonIndices:  18544
+	processing begun of mesh:  body
+		processing begun of material:  Iron
+		processing begun of material:  Steel
+		processing begun of material:  Tin
+		processing begun of material:  Bronze
+		processing begun of material:  Aluminum
+		processing begun of material:  AluminumAlloy
+		processing begun of material:  Titanium
+		processing begun of material:  TitaniumAlloy
+		processing begun of material:  Tungsten
+		processing begun of material:  TungstenAlloy
+		processing begun of material:  Copper
+		processing begun of multimaterial:  player.Multimaterial#0
+		num positions      :  1605
+		num normals        :  1605
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  6420
+		num indices        :  1608
+		Skeleton stats:  
+			Total Influencers:  5811
+			Avg # of influencers per vertex:  3.6206
+			Highest # of influencers observed:  6, num vertices with this:  49
+			exported as 6 influencers
+			num skeletonWeights and skeletonIndices:  12840
+	processing begun of mesh:  legs
+		processing begun of material:  Iron
+		processing begun of material:  Steel
+		processing begun of material:  Tin
+		processing begun of material:  Bronze
+		processing begun of material:  Aluminum
+		processing begun of material:  AluminumAlloy
+		processing begun of material:  Titanium
+		processing begun of material:  TitaniumAlloy
+		processing begun of material:  Tungsten
+		processing begun of material:  TungstenAlloy
+		processing begun of material:  Copper
+		registered as also a user of material:  Iron
+		registered as also a user of material:  Steel
+		registered as also a user of material:  Tin
+		registered as also a user of material:  Bronze
+		registered as also a user of material:  Aluminum
+		registered as also a user of material:  AluminumAlloy
+		registered as also a user of material:  Titanium
+		registered as also a user of material:  TitaniumAlloy
+		registered as also a user of material:  Tungsten
+		registered as also a user of material:  TungstenAlloy
+		registered as also a user of material:  Copper
+		processing begun of multimaterial:  player.Multimaterial#1
+		num positions      :  1577
+		num normals        :  1577
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  6308
+		num indices        :  1578
+		Skeleton stats:  
+			Total Influencers:  4690
+			Avg # of influencers per vertex:  2.974
+			Highest # of influencers observed:  6, num vertices with this:  55
+			exported as 6 influencers
+			num skeletonWeights and skeletonIndices:  12616
+	processing begun of mesh:  helmet
+		processing begun of material:  Iron
+		processing begun of material:  Plume
+		processing begun of material:  Aluminum
+		processing begun of material:  AluminumAlloy
+		processing begun of material:  Bronze
+		processing begun of material:  Steel
+		processing begun of material:  Titanium
+		processing begun of material:  TitaniumAlloy
+		processing begun of material:  Tungsten
+		processing begun of material:  TungstenAlloy
+		processing begun of material:  Tin
+		processing begun of material:  Copper
+		registered as also a user of material:  Iron
+		registered as also a user of material:  Aluminum
+		registered as also a user of material:  AluminumAlloy
+		registered as also a user of material:  Bronze
+		registered as also a user of material:  Steel
+		registered as also a user of material:  Titanium
+		registered as also a user of material:  TitaniumAlloy
+		registered as also a user of material:  Tungsten
+		registered as also a user of material:  TungstenAlloy
+		registered as also a user of material:  Tin
+		registered as also a user of material:  Copper
+		processing begun of multimaterial:  player.Multimaterial#2
+		num positions      :  477
+		num normals        :  477
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  1908
+		num indices        :  498
+		Skeleton stats:  
+			Total Influencers:  614
+			Avg # of influencers per vertex:  1.2872
+			Highest # of influencers observed:  3, num vertices with this:  54
+			exported as 3 influencers
+			num skeletonWeights and skeletonIndices:  1908
+	processing begun of mesh:  sword
+		processing begun of material:  Iron
+		processing begun of material:  Steel
+		processing begun of material:  Tin
+		processing begun of material:  Bronze
+		processing begun of material:  Aluminum
+		processing begun of material:  AluminumAlloy
+		processing begun of material:  Titanium
+		processing begun of material:  TitaniumAlloy
+		processing begun of material:  Tungsten
+		processing begun of material:  TungstenAlloy
+		processing begun of material:  Copper
+		registered as also a user of material:  Iron
+		registered as also a user of material:  Steel
+		registered as also a user of material:  Tin
+		registered as also a user of material:  Bronze
+		registered as also a user of material:  Aluminum
+		registered as also a user of material:  AluminumAlloy
+		registered as also a user of material:  Titanium
+		registered as also a user of material:  TitaniumAlloy
+		registered as also a user of material:  Tungsten
+		registered as also a user of material:  TungstenAlloy
+		registered as also a user of material:  Copper
+		processing begun of multimaterial:  player.Multimaterial#3
+		num positions      :  151
+		num normals        :  151
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  162
+		Skeleton stats:  
+			Total Influencers:  930
+			Avg # of influencers per vertex:  6.1589
+			Highest # of influencers observed:  7, num vertices with this:  24
+			exported as 7 influencers
+			num skeletonWeights and skeletonIndices:  1208
+	processing begun of mesh:  backpack
+		processing begun of material:  Cloth
+		processing begun of material:  Leather
+		processing begun of multimaterial:  player.Multimaterial#4
+		num positions      :  96
+		num normals        :  96
+		num tangents       :  0
+		num uvs            :  192
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  102
+		Skeleton stats:  
+			Total Influencers:  480
+			Avg # of influencers per vertex:  5
+			Highest # of influencers observed:  5, num vertices with this:  96
+			exported as 5 influencers
+			num skeletonWeights and skeletonIndices:  768
+	processing begun of mesh:  spear
+		processing begun of material:  Oak
+		processing begun of material:  RawWood
+		processing begun of material:  Maple
+		processing begun of material:  Fruit
+		processing begun of multimaterial:  player.Multimaterial#5
+		num positions      :  41
+		num normals        :  41
+		num tangents       :  0
+		num uvs            :  82
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  42
+		Skeleton stats:  
+			Total Influencers:  328
+			Avg # of influencers per vertex:  8
+			Highest # of influencers observed:  8, num vertices with this:  41
+			exported as 8 influencers
+			num skeletonWeights and skeletonIndices:  328
+	processing begun of mesh:  pickaxe
+		processing begun of material:  Oak
+		processing begun of material:  Copper
+		processing begun of material:  Iron
+		processing begun of material:  Steel
+		processing begun of material:  Tin
+		processing begun of material:  Bronze
+		processing begun of material:  Aluminum
+		processing begun of material:  AluminumAlloy
+		processing begun of material:  Titanium
+		processing begun of material:  TitaniumAlloy
+		processing begun of material:  Tungsten
+		processing begun of material:  TungstenAlloy
+		registered as also a user of material:  Oak
+		registered as also a user of material:  Copper
+		registered as also a user of material:  Iron
+		registered as also a user of material:  Steel
+		registered as also a user of material:  Tin
+		registered as also a user of material:  Bronze
+		registered as also a user of material:  Aluminum
+		registered as also a user of material:  AluminumAlloy
+		registered as also a user of material:  Titanium
+		registered as also a user of material:  TitaniumAlloy
+		registered as also a user of material:  Tungsten
+		registered as also a user of material:  TungstenAlloy
+		processing begun of multimaterial:  player.Multimaterial#6
+		num positions      :  164
+		num normals        :  164
+		num tangents       :  0
+		num uvs            :  328
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  180
+		Skeleton stats:  
+			WARNING: Maximum # of influencers exceeded for 164 vertices, extras ignored
+			Total Influencers:  1658
+			Avg # of influencers per vertex:  10.1098
+			Highest # of influencers observed:  11, num vertices with this:  164
+			exported as 8 influencers
+			num skeletonWeights and skeletonIndices:  1312
+	processing begun of mesh:  hatchet
+		processing begun of material:  Oak
+		processing begun of material:  Copper
+		processing begun of material:  Aluminum
+		processing begun of material:  AluminumAlloy
+		processing begun of material:  Bronze
+		processing begun of material:  Iron
+		processing begun of material:  Tin
+		processing begun of material:  Titanium
+		processing begun of material:  TitaniumAlloy
+		processing begun of material:  Tungsten
+		processing begun of material:  TungstenAlloy
+		processing begun of material:  Steel
+		registered as also a user of material:  Oak
+		registered as also a user of material:  Copper
+		registered as also a user of material:  Aluminum
+		registered as also a user of material:  AluminumAlloy
+		registered as also a user of material:  Bronze
+		registered as also a user of material:  Iron
+		registered as also a user of material:  Tin
+		registered as also a user of material:  Titanium
+		registered as also a user of material:  TitaniumAlloy
+		registered as also a user of material:  Tungsten
+		registered as also a user of material:  TungstenAlloy
+		registered as also a user of material:  Steel
+		processing begun of multimaterial:  player.Multimaterial#7
+		num positions      :  159
+		num normals        :  159
+		num tangents       :  0
+		num uvs            :  318
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  168
+		Skeleton stats:  
+			Total Influencers:  954
+			Avg # of influencers per vertex:  6
+			Highest # of influencers observed:  6, num vertices with this:  159
+			exported as 6 influencers
+			num skeletonWeights and skeletonIndices:  1272
+	processing begun of mesh:  mace
+		processing begun of material:  Oak
+		processing begun of material:  Copper
+		processing begun of material:  Iron
+		processing begun of material:  Steel
+		processing begun of material:  Tin
+		processing begun of material:  Bronze
+		processing begun of material:  Aluminum
+		processing begun of material:  AluminumAlloy
+		processing begun of material:  Titanium
+		processing begun of material:  TitaniumAlloy
+		processing begun of material:  Tungsten
+		processing begun of material:  TungstenAlloy
+		registered as also a user of material:  Oak
+		registered as also a user of material:  Copper
+		registered as also a user of material:  Iron
+		registered as also a user of material:  Steel
+		registered as also a user of material:  Tin
+		registered as also a user of material:  Bronze
+		registered as also a user of material:  Aluminum
+		registered as also a user of material:  AluminumAlloy
+		registered as also a user of material:  Titanium
+		registered as also a user of material:  TitaniumAlloy
+		registered as also a user of material:  Tungsten
+		registered as also a user of material:  TungstenAlloy
+		processing begun of multimaterial:  player.Multimaterial#8
+		num positions      :  89
+		num normals        :  89
+		num tangents       :  0
+		num uvs            :  178
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  96
+		Skeleton stats:  
+			Total Influencers:  505
+			Avg # of influencers per vertex:  5.6742
+			Highest # of influencers observed:  6, num vertices with this:  60
+			exported as 6 influencers
+			num skeletonWeights and skeletonIndices:  712
+	processing begun of mesh:  fishingrod
+		processing begun of material:  Maple
+		processing begun of material:  Fruit
+		processing begun of material:  Oak
+		registered as also a user of material:  Maple
+		registered as also a user of material:  Fruit
+		registered as also a user of material:  Oak
+		processing begun of multimaterial:  player.Multimaterial#9
+		num positions      :  114
+		num normals        :  114
+		num tangents       :  0
+		num uvs            :  228
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  120
+		Skeleton stats:  
+			Total Influencers:  750
+			Avg # of influencers per vertex:  6.5789
+			Highest # of influencers observed:  7, num vertices with this:  66
+			exported as 7 influencers
+			num skeletonWeights and skeletonIndices:  912
+	processing begun of mesh:  axe
+		processing begun of material:  Oak
+		processing begun of material:  Aluminum
+		processing begun of material:  AluminumAlloy
+		processing begun of material:  Iron
+		processing begun of material:  Tin
+		processing begun of material:  Tungsten
+		processing begun of material:  TungstenAlloy
+		processing begun of material:  Titanium
+		processing begun of material:  TitaniumAlloy
+		processing begun of material:  Bronze
+		processing begun of material:  Steel
+		processing begun of material:  Copper
+		registered as also a user of material:  Oak
+		registered as also a user of material:  Aluminum
+		registered as also a user of material:  AluminumAlloy
+		registered as also a user of material:  Iron
+		registered as also a user of material:  Tin
+		registered as also a user of material:  Tungsten
+		registered as also a user of material:  TungstenAlloy
+		registered as also a user of material:  Titanium
+		registered as also a user of material:  TitaniumAlloy
+		registered as also a user of material:  Bronze
+		registered as also a user of material:  Steel
+		registered as also a user of material:  Copper
+		processing begun of multimaterial:  player.Multimaterial#10
+		num positions      :  228
+		num normals        :  228
+		num tangents       :  0
+		num uvs            :  456
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  228
+		Skeleton stats:  
+			Total Influencers:  1374
+			Avg # of influencers per vertex:  6.0263
+			Highest # of influencers observed:  7, num vertices with this:  24
+			exported as 7 influencers
+			num skeletonWeights and skeletonIndices:  1824
+	processing begun of mesh:  hammer
+		processing begun of material:  Oak
+		processing begun of material:  Copper
+		processing begun of material:  Aluminum
+		processing begun of material:  AluminumAlloy
+		processing begun of material:  Bronze
+		processing begun of material:  Titanium
+		processing begun of material:  Tungsten
+		processing begun of material:  Iron
+		processing begun of material:  TungstenAlloy
+		processing begun of material:  TitaniumAlloy
+		processing begun of material:  Steel
+		processing begun of material:  Tin
+		registered as also a user of material:  Oak
+		registered as also a user of material:  Copper
+		registered as also a user of material:  Aluminum
+		registered as also a user of material:  AluminumAlloy
+		registered as also a user of material:  Bronze
+		registered as also a user of material:  Titanium
+		registered as also a user of material:  Tungsten
+		registered as also a user of material:  Iron
+		registered as also a user of material:  TungstenAlloy
+		registered as also a user of material:  TitaniumAlloy
+		registered as also a user of material:  Steel
+		registered as also a user of material:  Tin
+		processing begun of multimaterial:  player.Multimaterial#11
+		num positions      :  100
+		num normals        :  100
+		num tangents       :  0
+		num uvs            :  200
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  108
+		Skeleton stats:  
+			Total Influencers:  500
+			Avg # of influencers per vertex:  5
+			Highest # of influencers observed:  5, num vertices with this:  100
+			exported as 5 influencers
+			num skeletonWeights and skeletonIndices:  800
+	processing begun of mesh:  maul
+		processing begun of material:  Oak
+		processing begun of material:  Copper
+		processing begun of material:  Iron
+		processing begun of material:  Steel
+		processing begun of material:  Aluminum
+		processing begun of material:  AluminumAlloy
+		processing begun of material:  Tin
+		processing begun of material:  Bronze
+		processing begun of material:  Titanium
+		processing begun of material:  TitaniumAlloy
+		processing begun of material:  Tungsten
+		processing begun of material:  TungstenAlloy
+		registered as also a user of material:  Oak
+		registered as also a user of material:  Copper
+		registered as also a user of material:  Iron
+		registered as also a user of material:  Steel
+		registered as also a user of material:  Aluminum
+		registered as also a user of material:  AluminumAlloy
+		registered as also a user of material:  Tin
+		registered as also a user of material:  Bronze
+		registered as also a user of material:  Titanium
+		registered as also a user of material:  TitaniumAlloy
+		registered as also a user of material:  Tungsten
+		registered as also a user of material:  TungstenAlloy
+		processing begun of multimaterial:  player.Multimaterial#12
+		num positions      :  105
+		num normals        :  105
+		num tangents       :  0
+		num uvs            :  210
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  120
+		Skeleton stats:  
+			Total Influencers:  720
+			Avg # of influencers per vertex:  6.8571
+			Highest # of influencers observed:  7, num vertices with this:  90
+			exported as 7 influencers
+			num skeletonWeights and skeletonIndices:  840
+	processing begun of mesh:  stick
+		processing begun of material:  Maple
+		processing begun of material:  Fruit
+		processing begun of material:  Oak
+		registered as also a user of material:  Maple
+		registered as also a user of material:  Fruit
+		registered as also a user of material:  Oak
+		processing begun of multimaterial:  player.Multimaterial#13
+		num positions      :  176
+		num normals        :  176
+		num tangents       :  0
+		num uvs            :  352
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  228
+		Skeleton stats:  
+			Total Influencers:  1056
+			Avg # of influencers per vertex:  6
+			Highest # of influencers observed:  6, num vertices with this:  176
+			exported as 6 influencers
+			num skeletonWeights and skeletonIndices:  1408
+	processing begun of mesh:  bluntrock
+		processing begun of material:  Boulder Rubble
+		num positions      :  60
+		num normals        :  60
+		num tangents       :  0
+		num uvs            :  120
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  60
+		Skeleton stats:  
+			Total Influencers:  360
+			Avg # of influencers per vertex:  6
+			Highest # of influencers observed:  6, num vertices with this:  60
+			exported as 6 influencers
+			num skeletonWeights and skeletonIndices:  480
+	processing begun of mesh:  knife
+		processing begun of material:  Copper
+		processing begun of material:  Oak
+		processing begun of material:  Iron
+		processing begun of material:  Steel
+		processing begun of material:  Bronze
+		processing begun of material:  Tin
+		processing begun of material:  Aluminum
+		processing begun of material:  AluminumAlloy
+		processing begun of material:  Titanium
+		processing begun of material:  TitaniumAlloy
+		processing begun of material:  Tungsten
+		processing begun of material:  TungstenAlloy
+		registered as also a user of material:  Copper
+		registered as also a user of material:  Oak
+		registered as also a user of material:  Iron
+		registered as also a user of material:  Steel
+		registered as also a user of material:  Bronze
+		registered as also a user of material:  Tin
+		registered as also a user of material:  Aluminum
+		registered as also a user of material:  AluminumAlloy
+		registered as also a user of material:  Titanium
+		registered as also a user of material:  TitaniumAlloy
+		registered as also a user of material:  Tungsten
+		registered as also a user of material:  TungstenAlloy
+		processing begun of multimaterial:  player.Multimaterial#14
+		num positions      :  72
+		num normals        :  72
+		num tangents       :  0
+		num uvs            :  144
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  78
+		Skeleton stats:  
+			Total Influencers:  288
+			Avg # of influencers per vertex:  4
+			Highest # of influencers observed:  4, num vertices with this:  72
+			exported as 4 influencers
+			num skeletonWeights and skeletonIndices:  288
+	processing begun of mesh:  sharprock
+		processing begun of material:  Boulder Rubble
+		registered as also a user of material:  Boulder Rubble
+		num positions      :  44
+		num normals        :  44
+		num tangents       :  0
+		num uvs            :  88
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  48
+		Skeleton stats:  
+			Total Influencers:  180
+			Avg # of influencers per vertex:  4.0909
+			Highest # of influencers observed:  5, num vertices with this:  4
+			exported as 5 influencers
+			num skeletonWeights and skeletonIndices:  352
+	processing begun of mesh:  flint
+		processing begun of material:  Flint
+		num positions      :  38
+		num normals        :  38
+		num tangents       :  0
+		num uvs            :  76
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  42
+		Skeleton stats:  
+			Total Influencers:  169
+			Avg # of influencers per vertex:  4.4474
+			Highest # of influencers observed:  5, num vertices with this:  17
+			exported as 5 influencers
+			num skeletonWeights and skeletonIndices:  304
+	processing begun of mesh:  shield
+		processing begun of material:  Iron
+		processing begun of material:  Steel
+		processing begun of material:  Tin
+		processing begun of material:  Bronze
+		processing begun of material:  Aluminum
+		processing begun of material:  AluminumAlloy
+		processing begun of material:  Titanium
+		processing begun of material:  TitaniumAlloy
+		processing begun of material:  Tungsten
+		processing begun of material:  TungstenAlloy
+		processing begun of material:  Copper
+		registered as also a user of material:  Iron
+		registered as also a user of material:  Steel
+		registered as also a user of material:  Tin
+		registered as also a user of material:  Bronze
+		registered as also a user of material:  Aluminum
+		registered as also a user of material:  AluminumAlloy
+		registered as also a user of material:  Titanium
+		registered as also a user of material:  TitaniumAlloy
+		registered as also a user of material:  Tungsten
+		registered as also a user of material:  TungstenAlloy
+		registered as also a user of material:  Copper
+		processing begun of multimaterial:  player.Multimaterial#15
+		num positions      :  83
+		num normals        :  83
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  332
+		num indices        :  96
+		Skeleton stats:  
+			Total Influencers:  281
+			Avg # of influencers per vertex:  3.3855
+			Highest # of influencers observed:  4, num vertices with this:  39
+			exported as 4 influencers
+			num skeletonWeights and skeletonIndices:  332
+	processing begun of mesh:  quiver
+		processing begun of material:  Leather
+		processing begun of material:  Cloth
+		registered as also a user of material:  Leather
+		registered as also a user of material:  Cloth
+		processing begun of multimaterial:  player.Multimaterial#16
+		num positions      :  42
+		num normals        :  42
+		num tangents       :  0
+		num uvs            :  84
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  48
+		Skeleton stats:  
+			WARNING: Maximum # of influencers exceeded for 42 vertices, extras ignored
+			Total Influencers:  378
+			Avg # of influencers per vertex:  9
+			Highest # of influencers observed:  9, num vertices with this:  42
+			exported as 8 influencers
+			num skeletonWeights and skeletonIndices:  336
+	processing begun of mesh:  bow
+		processing begun of material:  Maple
+		processing begun of material:  Fruit
+		processing begun of material:  Oak
+		registered as also a user of material:  Maple
+		registered as also a user of material:  Fruit
+		registered as also a user of material:  Oak
+		processing begun of multimaterial:  player.Multimaterial#17
+		num positions      :  117
+		num normals        :  117
+		num tangents       :  0
+		num uvs            :  234
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  132
+		Skeleton stats:  
+			WARNING: Maximum # of influencers exceeded for 18 vertices, extras ignored
+			Total Influencers:  954
+			Avg # of influencers per vertex:  8.1538
+			Highest # of influencers observed:  9, num vertices with this:  18
+			exported as 8 influencers
+			num skeletonWeights and skeletonIndices:  936
+	processing begun of mesh:  loincloth
+		processing begun of material:  Leather
+		registered as also a user of material:  Leather
+		num positions      :  128
+		num normals        :  128
+		num tangents       :  0
+		num uvs            :  256
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  132
+		Skeleton stats:  
+			WARNING: Maximum # of influencers exceeded for 128 vertices, extras ignored
+			Total Influencers:  1336
+			Avg # of influencers per vertex:  10.4375
+			Highest # of influencers observed:  12, num vertices with this:  128
+			exported as 8 influencers
+			num skeletonWeights and skeletonIndices:  1024
+	processing begun of mesh:  hair
+		processing begun of material:  Hair
+		num positions      :  392
+		num normals        :  392
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  1568
+		num indices        :  408
+		Skeleton stats:  
+			Total Influencers:  624
+			Avg # of influencers per vertex:  1.5918
+			Highest # of influencers observed:  3, num vertices with this:  10
+			exported as 3 influencers
+			num skeletonWeights and skeletonIndices:  1568
+	processing begun of mesh:  beard
+		processing begun of material:  Hair
+		registered as also a user of material:  Hair
+		num positions      :  261
+		num normals        :  261
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  1044
+		num indices        :  273
+		Skeleton stats:  
+			Total Influencers:  1305
+			Avg # of influencers per vertex:  5
+			Highest # of influencers observed:  5, num vertices with this:  261
+			exported as 5 influencers
+			num skeletonWeights and skeletonIndices:  2088
+	processing begun of mesh:  cape
+		processing begun of material:  Cape
+		num positions      :  178
+		num normals        :  178
+		num tangents       :  0
+		num uvs            :  356
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  180
+		Skeleton stats:  
+			Total Influencers:  1164
+			Avg # of influencers per vertex:  6.5393
+			Highest # of influencers observed:  7, num vertices with this:  115
+			exported as 7 influencers
+			num skeletonWeights and skeletonIndices:  1424
+	processing begun of mesh:  hood
+		processing begun of material:  Cape
+		registered as also a user of material:  Cape
+		num positions      :  116
+		num normals        :  116
+		num tangents       :  0
+		num uvs            :  232
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  120
+		Skeleton stats:  
+			WARNING: Maximum # of influencers exceeded for 116 vertices, extras ignored
+			Total Influencers:  1624
+			Avg # of influencers per vertex:  14
+			Highest # of influencers observed:  14, num vertices with this:  116
+			exported as 8 influencers
+			num skeletonWeights and skeletonIndices:  928
+	processing begun of mesh:  crown
+		processing begun of material:  Gold
+		num positions      :  289
+		num normals        :  289
+		num tangents       :  0
+		num uvs            :  578
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  336
+		Skeleton stats:  
+			WARNING: Maximum # of influencers exceeded for 289 vertices, extras ignored
+			Total Influencers:  6069
+			Avg # of influencers per vertex:  21
+			Highest # of influencers observed:  21, num vertices with this:  289
+			exported as 8 influencers
+			num skeletonWeights and skeletonIndices:  2312
+	processing begun of mesh:  crossbow
+		processing begun of material:  Aluminum
+		processing begun of material:  AluminumAlloy
+		processing begun of material:  Copper
+		processing begun of material:  Tin
+		processing begun of material:  Bronze
+		processing begun of material:  Steel
+		processing begun of material:  Titanium
+		processing begun of material:  TitaniumAlloy
+		processing begun of material:  Tungsten
+		processing begun of material:  TungstenAlloy
+		registered as also a user of material:  Aluminum
+		registered as also a user of material:  AluminumAlloy
+		registered as also a user of material:  Copper
+		registered as also a user of material:  Tin
+		registered as also a user of material:  Bronze
+		registered as also a user of material:  Steel
+		registered as also a user of material:  Titanium
+		registered as also a user of material:  TitaniumAlloy
+		registered as also a user of material:  Tungsten
+		registered as also a user of material:  TungstenAlloy
+		processing begun of multimaterial:  player.Multimaterial#18
+		num positions      :  137
+		num normals        :  137
+		num tangents       :  0
+		num uvs            :  274
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  156
+		Skeleton stats:  
+			WARNING: Maximum # of influencers exceeded for 28 vertices, extras ignored
+			Total Influencers:  909
+			Avg # of influencers per vertex:  6.635
+			Highest # of influencers observed:  12, num vertices with this:  28
+			exported as 8 influencers
+			num skeletonWeights and skeletonIndices:  1096
+========= Writing of JSON file started =========
+	writing mesh:  player
+	writing mesh:  body
+	writing mesh:  legs
+	writing mesh:  helmet
+	writing mesh:  sword
+	writing mesh:  backpack
+	writing mesh:  spear
+	writing mesh:  pickaxe
+	writing mesh:  hatchet
+	writing mesh:  mace
+	writing mesh:  fishingrod
+	writing mesh:  axe
+	writing mesh:  hammer
+	writing mesh:  maul
+	writing mesh:  stick
+	writing mesh:  bluntrock
+	writing mesh:  knife
+	writing mesh:  sharprock
+	writing mesh:  flint
+	writing mesh:  shield
+	writing mesh:  quiver
+	writing mesh:  bow
+	writing mesh:  loincloth
+	writing mesh:  hair
+	writing mesh:  beard
+	writing mesh:  cape
+	writing mesh:  hood
+	writing mesh:  crown
+	writing mesh:  crossbow
+========= Writing of JSON file completed =========
+========= end of processing =========
+elapsed time:  0 min, 3.9819 secs
