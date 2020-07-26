@@ -825,20 +825,20 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 	processing begun of mesh:  necklace
 		processing begun of material:  Gold
 		registered as also a user of material:  Gold
-		num positions      :  303
-		num normals        :  303
+		num positions      :  302
+		num normals        :  302
 		num tangents       :  0
-		num uvs            :  606
+		num uvs            :  604
 		num uvs2           :  0
 		num colors         :  0
 		num indices        :  318
 		Skeleton stats:  
-			WARNING: Maximum # of influencers exceeded for 90 vertices, extras ignored
-			Total Influencers:  2349
-			Avg # of influencers per vertex:  7.7525
-			Highest # of influencers observed:  9, num vertices with this:  90
+			WARNING: Maximum # of influencers exceeded for 91 vertices, extras ignored
+			Total Influencers:  2344
+			Avg # of influencers per vertex:  7.7616
+			Highest # of influencers observed:  9, num vertices with this:  91
 			exported as 8 influencers
-			num skeletonWeights and skeletonIndices:  2424
+			num skeletonWeights and skeletonIndices:  2416
 ========= Writing of JSON file started =========
 	writing mesh:  player
 	writing mesh:  body
@@ -873,4 +873,4 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 	writing mesh:  necklace
 ========= Writing of JSON file completed =========
 ========= end of processing =========
-elapsed time:  0 min, 4.2123 secs
+elapsed time:  0 min, 4.295 secs
