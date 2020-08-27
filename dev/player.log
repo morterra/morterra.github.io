@@ -12,9 +12,36 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		Texture directory   :  D:\Desktop\morterra.github.io\dev\
 	Python World class constructor completed
 	WARNING: No active camera has been assigned, or is not in a currently selected Blender layer
-	WARNING: The following armature not visible in scene thus ignored: Armature
+	processing begun of skeleton:  Armature, id:  0
+		processing begun of bone:  Pole Target.L, index:  0
+		processing begun of bone:  Pole Target.R, index:  1
+		processing begun of bone:  Ankle_L.001, index:  2
+		processing begun of bone:  Ankle_R.001, index:  3
+		processing begun of bone:  Base, index:  4
+		processing begun of bone:  Thigh_L, index:  5
+		processing begun of bone:  Leg_L, index:  6
+		processing begun of bone:  Foot_L, index:  7
+		processing begun of bone:  Thigh_R, index:  8
+		processing begun of bone:  Leg_R, index:  9
+		processing begun of bone:  Foot_R, index:  10
+		processing begun of bone:  Stomach, index:  11
+		processing begun of bone:  Chest, index:  12
+		processing begun of bone:  Neck, index:  13
+		processing begun of bone:  Head, index:  14
+		processing begun of bone:  Bicep_L, index:  15
+		processing begun of bone:  Arm_L, index:  16
+		processing begun of bone:  Hand_L, index:  17
+		processing begun of bone:  Thumb_L, index:  18
+		processing begun of bone:  Hand_L.001, index:  19
+		processing begun of bone:  Hand_Hold_L, index:  20
+		processing begun of bone:  Bicep_R, index:  21
+		processing begun of bone:  Arm_R, index:  22
+		processing begun of bone:  Hand_R, index:  23
+		processing begun of bone:  Thumb_R, index:  24
+		processing begun of bone:  Hand_Hold_R, index:  25
+		processing begun of bone:  Hand_R.001, index:  26
+		processing action ArmatureAction:  in[0 - 1060], out[0 - 1060]
 	processing begun of mesh:  player
-		WARNING: No skeleton with name "Armature" found skeleton ignored.
 		processing begun of material:  Skin1
 		num positions      :  2318
 		num normals        :  2318
@@ -23,8 +50,13 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		num uvs2           :  0
 		num colors         :  9272
 		num indices        :  2382
+		Skeleton stats:  
+			Total Influencers:  6492
+			Avg # of influencers per vertex:  2.8007
+			Highest # of influencers observed:  6, num vertices with this:  38
+			exported as 6 influencers
+			num skeletonWeights and skeletonIndices:  18544
 	processing begun of mesh:  body
-		WARNING: No skeleton with name "Armature" found skeleton ignored.
 		processing begun of material:  Iron
 		processing begun of material:  Steel
 		processing begun of material:  Tin
@@ -44,8 +76,13 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		num uvs2           :  0
 		num colors         :  6420
 		num indices        :  1608
+		Skeleton stats:  
+			Total Influencers:  5811
+			Avg # of influencers per vertex:  3.6206
+			Highest # of influencers observed:  6, num vertices with this:  49
+			exported as 6 influencers
+			num skeletonWeights and skeletonIndices:  12840
 	processing begun of mesh:  legs
-		WARNING: No skeleton with name "Armature" found skeleton ignored.
 		processing begun of material:  Iron
 		processing begun of material:  Steel
 		processing begun of material:  Tin
@@ -76,8 +113,13 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		num uvs2           :  0
 		num colors         :  6308
 		num indices        :  1578
+		Skeleton stats:  
+			Total Influencers:  4690
+			Avg # of influencers per vertex:  2.974
+			Highest # of influencers observed:  6, num vertices with this:  55
+			exported as 6 influencers
+			num skeletonWeights and skeletonIndices:  12616
 	processing begun of mesh:  helmet
-		WARNING: No skeleton with name "Armature" found skeleton ignored.
 		processing begun of material:  Iron
 		processing begun of material:  Plume
 		processing begun of material:  Aluminum
@@ -109,8 +151,13 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		num uvs2           :  0
 		num colors         :  1908
 		num indices        :  498
+		Skeleton stats:  
+			Total Influencers:  614
+			Avg # of influencers per vertex:  1.2872
+			Highest # of influencers observed:  3, num vertices with this:  54
+			exported as 3 influencers
+			num skeletonWeights and skeletonIndices:  1908
 	processing begun of mesh:  sword
-		WARNING: No skeleton with name "Armature" found skeleton ignored.
 		processing begun of material:  Iron
 		processing begun of material:  Steel
 		processing begun of material:  Tin
@@ -141,8 +188,13 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		num uvs2           :  0
 		num colors         :  0
 		num indices        :  162
+		Skeleton stats:  
+			Total Influencers:  930
+			Avg # of influencers per vertex:  6.1589
+			Highest # of influencers observed:  7, num vertices with this:  24
+			exported as 7 influencers
+			num skeletonWeights and skeletonIndices:  1208
 	processing begun of mesh:  backpack
-		WARNING: No skeleton with name "Armature" found skeleton ignored.
 		processing begun of material:  Cloth
 		processing begun of material:  Leather
 		processing begun of multimaterial:  player.Multimaterial#4
@@ -153,8 +205,13 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		num uvs2           :  0
 		num colors         :  0
 		num indices        :  102
+		Skeleton stats:  
+			Total Influencers:  480
+			Avg # of influencers per vertex:  5
+			Highest # of influencers observed:  5, num vertices with this:  96
+			exported as 5 influencers
+			num skeletonWeights and skeletonIndices:  768
 	processing begun of mesh:  spear
-		WARNING: No skeleton with name "Armature" found skeleton ignored.
 		processing begun of material:  Oak
 		processing begun of material:  RawWood
 		processing begun of material:  Maple
@@ -167,8 +224,13 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		num uvs2           :  0
 		num colors         :  0
 		num indices        :  42
+		Skeleton stats:  
+			Total Influencers:  328
+			Avg # of influencers per vertex:  8
+			Highest # of influencers observed:  8, num vertices with this:  41
+			exported as 8 influencers
+			num skeletonWeights and skeletonIndices:  328
 	processing begun of mesh:  pickaxe
-		WARNING: No skeleton with name "Armature" found skeleton ignored.
 		processing begun of material:  Oak
 		processing begun of material:  Copper
 		processing begun of material:  Iron
@@ -201,8 +263,14 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		num uvs2           :  0
 		num colors         :  0
 		num indices        :  180
+		Skeleton stats:  
+			WARNING: Maximum # of influencers exceeded for 164 vertices, extras ignored
+			Total Influencers:  1658
+			Avg # of influencers per vertex:  10.1098
+			Highest # of influencers observed:  11, num vertices with this:  164
+			exported as 8 influencers
+			num skeletonWeights and skeletonIndices:  1312
 	processing begun of mesh:  hatchet
-		WARNING: No skeleton with name "Armature" found skeleton ignored.
 		processing begun of material:  Oak
 		processing begun of material:  Copper
 		processing begun of material:  Aluminum
@@ -235,8 +303,13 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		num uvs2           :  0
 		num colors         :  0
 		num indices        :  168
+		Skeleton stats:  
+			Total Influencers:  954
+			Avg # of influencers per vertex:  6
+			Highest # of influencers observed:  6, num vertices with this:  159
+			exported as 6 influencers
+			num skeletonWeights and skeletonIndices:  1272
 	processing begun of mesh:  mace
-		WARNING: No skeleton with name "Armature" found skeleton ignored.
 		processing begun of material:  Oak
 		processing begun of material:  Copper
 		processing begun of material:  Iron
@@ -269,8 +342,13 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		num uvs2           :  0
 		num colors         :  0
 		num indices        :  96
+		Skeleton stats:  
+			Total Influencers:  505
+			Avg # of influencers per vertex:  5.6742
+			Highest # of influencers observed:  6, num vertices with this:  60
+			exported as 6 influencers
+			num skeletonWeights and skeletonIndices:  712
 	processing begun of mesh:  fishingrod
-		WARNING: No skeleton with name "Armature" found skeleton ignored.
 		processing begun of material:  Maple
 		processing begun of material:  Fruit
 		processing begun of material:  Oak
@@ -285,8 +363,13 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		num uvs2           :  0
 		num colors         :  0
 		num indices        :  120
+		Skeleton stats:  
+			Total Influencers:  750
+			Avg # of influencers per vertex:  6.5789
+			Highest # of influencers observed:  7, num vertices with this:  66
+			exported as 7 influencers
+			num skeletonWeights and skeletonIndices:  912
 	processing begun of mesh:  axe
-		WARNING: No skeleton with name "Armature" found skeleton ignored.
 		processing begun of material:  Oak
 		processing begun of material:  Aluminum
 		processing begun of material:  AluminumAlloy
@@ -319,8 +402,13 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		num uvs2           :  0
 		num colors         :  0
 		num indices        :  228
+		Skeleton stats:  
+			Total Influencers:  1374
+			Avg # of influencers per vertex:  6.0263
+			Highest # of influencers observed:  7, num vertices with this:  24
+			exported as 7 influencers
+			num skeletonWeights and skeletonIndices:  1824
 	processing begun of mesh:  hammer
-		WARNING: No skeleton with name "Armature" found skeleton ignored.
 		processing begun of material:  Oak
 		processing begun of material:  Copper
 		processing begun of material:  Aluminum
@@ -353,8 +441,13 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		num uvs2           :  0
 		num colors         :  0
 		num indices        :  108
+		Skeleton stats:  
+			Total Influencers:  500
+			Avg # of influencers per vertex:  5
+			Highest # of influencers observed:  5, num vertices with this:  100
+			exported as 5 influencers
+			num skeletonWeights and skeletonIndices:  800
 	processing begun of mesh:  maul
-		WARNING: No skeleton with name "Armature" found skeleton ignored.
 		processing begun of material:  Oak
 		processing begun of material:  Copper
 		processing begun of material:  Iron
@@ -387,8 +480,13 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		num uvs2           :  0
 		num colors         :  0
 		num indices        :  120
+		Skeleton stats:  
+			Total Influencers:  720
+			Avg # of influencers per vertex:  6.8571
+			Highest # of influencers observed:  7, num vertices with this:  90
+			exported as 7 influencers
+			num skeletonWeights and skeletonIndices:  840
 	processing begun of mesh:  stick
-		WARNING: No skeleton with name "Armature" found skeleton ignored.
 		processing begun of material:  Maple
 		processing begun of material:  Fruit
 		processing begun of material:  Oak
@@ -403,8 +501,13 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		num uvs2           :  0
 		num colors         :  0
 		num indices        :  228
+		Skeleton stats:  
+			Total Influencers:  1056
+			Avg # of influencers per vertex:  6
+			Highest # of influencers observed:  6, num vertices with this:  176
+			exported as 6 influencers
+			num skeletonWeights and skeletonIndices:  1408
 	processing begun of mesh:  bluntrock
-		WARNING: No skeleton with name "Armature" found skeleton ignored.
 		processing begun of material:  Boulder Rubble
 		num positions      :  60
 		num normals        :  60
@@ -413,8 +516,13 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		num uvs2           :  0
 		num colors         :  0
 		num indices        :  60
+		Skeleton stats:  
+			Total Influencers:  360
+			Avg # of influencers per vertex:  6
+			Highest # of influencers observed:  6, num vertices with this:  60
+			exported as 6 influencers
+			num skeletonWeights and skeletonIndices:  480
 	processing begun of mesh:  knife
-		WARNING: No skeleton with name "Armature" found skeleton ignored.
 		processing begun of material:  Copper
 		processing begun of material:  Oak
 		processing begun of material:  Iron
@@ -447,8 +555,13 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		num uvs2           :  0
 		num colors         :  0
 		num indices        :  78
+		Skeleton stats:  
+			Total Influencers:  288
+			Avg # of influencers per vertex:  4
+			Highest # of influencers observed:  4, num vertices with this:  72
+			exported as 4 influencers
+			num skeletonWeights and skeletonIndices:  288
 	processing begun of mesh:  sharprock
-		WARNING: No skeleton with name "Armature" found skeleton ignored.
 		processing begun of material:  Boulder Rubble
 		registered as also a user of material:  Boulder Rubble
 		num positions      :  44
@@ -458,8 +571,13 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		num uvs2           :  0
 		num colors         :  0
 		num indices        :  48
+		Skeleton stats:  
+			Total Influencers:  180
+			Avg # of influencers per vertex:  4.0909
+			Highest # of influencers observed:  5, num vertices with this:  4
+			exported as 5 influencers
+			num skeletonWeights and skeletonIndices:  352
 	processing begun of mesh:  flint
-		WARNING: No skeleton with name "Armature" found skeleton ignored.
 		processing begun of material:  Flint
 		num positions      :  38
 		num normals        :  38
@@ -468,8 +586,13 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		num uvs2           :  0
 		num colors         :  0
 		num indices        :  42
+		Skeleton stats:  
+			Total Influencers:  169
+			Avg # of influencers per vertex:  4.4474
+			Highest # of influencers observed:  5, num vertices with this:  17
+			exported as 5 influencers
+			num skeletonWeights and skeletonIndices:  304
 	processing begun of mesh:  shield
-		WARNING: No skeleton with name "Armature" found skeleton ignored.
 		processing begun of material:  Iron
 		processing begun of material:  Steel
 		processing begun of material:  Tin
@@ -500,8 +623,13 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		num uvs2           :  0
 		num colors         :  332
 		num indices        :  96
+		Skeleton stats:  
+			Total Influencers:  281
+			Avg # of influencers per vertex:  3.3855
+			Highest # of influencers observed:  4, num vertices with this:  39
+			exported as 4 influencers
+			num skeletonWeights and skeletonIndices:  332
 	processing begun of mesh:  quiver
-		WARNING: No skeleton with name "Armature" found skeleton ignored.
 		processing begun of material:  Leather
 		processing begun of material:  Cloth
 		registered as also a user of material:  Leather
@@ -514,8 +642,14 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		num uvs2           :  0
 		num colors         :  0
 		num indices        :  48
+		Skeleton stats:  
+			WARNING: Maximum # of influencers exceeded for 42 vertices, extras ignored
+			Total Influencers:  378
+			Avg # of influencers per vertex:  9
+			Highest # of influencers observed:  9, num vertices with this:  42
+			exported as 8 influencers
+			num skeletonWeights and skeletonIndices:  336
 	processing begun of mesh:  bow
-		WARNING: No skeleton with name "Armature" found skeleton ignored.
 		processing begun of material:  Maple
 		processing begun of material:  Fruit
 		processing begun of material:  Oak
@@ -530,8 +664,14 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		num uvs2           :  0
 		num colors         :  0
 		num indices        :  132
+		Skeleton stats:  
+			WARNING: Maximum # of influencers exceeded for 18 vertices, extras ignored
+			Total Influencers:  954
+			Avg # of influencers per vertex:  8.1538
+			Highest # of influencers observed:  9, num vertices with this:  18
+			exported as 8 influencers
+			num skeletonWeights and skeletonIndices:  936
 	processing begun of mesh:  loincloth
-		WARNING: No skeleton with name "Armature" found skeleton ignored.
 		processing begun of material:  Leather
 		registered as also a user of material:  Leather
 		num positions      :  128
@@ -541,8 +681,14 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		num uvs2           :  0
 		num colors         :  0
 		num indices        :  132
+		Skeleton stats:  
+			WARNING: Maximum # of influencers exceeded for 128 vertices, extras ignored
+			Total Influencers:  1336
+			Avg # of influencers per vertex:  10.4375
+			Highest # of influencers observed:  12, num vertices with this:  128
+			exported as 8 influencers
+			num skeletonWeights and skeletonIndices:  1024
 	processing begun of mesh:  hair
-		WARNING: No skeleton with name "Armature" found skeleton ignored.
 		processing begun of material:  Hair
 		num positions      :  392
 		num normals        :  392
@@ -551,8 +697,13 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		num uvs2           :  0
 		num colors         :  1568
 		num indices        :  408
+		Skeleton stats:  
+			Total Influencers:  624
+			Avg # of influencers per vertex:  1.5918
+			Highest # of influencers observed:  3, num vertices with this:  10
+			exported as 3 influencers
+			num skeletonWeights and skeletonIndices:  1568
 	processing begun of mesh:  beard
-		WARNING: No skeleton with name "Armature" found skeleton ignored.
 		processing begun of material:  Hair
 		registered as also a user of material:  Hair
 		num positions      :  261
@@ -562,8 +713,13 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		num uvs2           :  0
 		num colors         :  1044
 		num indices        :  273
+		Skeleton stats:  
+			Total Influencers:  1305
+			Avg # of influencers per vertex:  5
+			Highest # of influencers observed:  5, num vertices with this:  261
+			exported as 5 influencers
+			num skeletonWeights and skeletonIndices:  2088
 	processing begun of mesh:  cape
-		WARNING: No skeleton with name "Armature" found skeleton ignored.
 		processing begun of material:  Cape
 		num positions      :  178
 		num normals        :  178
@@ -572,8 +728,13 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		num uvs2           :  0
 		num colors         :  0
 		num indices        :  180
+		Skeleton stats:  
+			Total Influencers:  1164
+			Avg # of influencers per vertex:  6.5393
+			Highest # of influencers observed:  7, num vertices with this:  115
+			exported as 7 influencers
+			num skeletonWeights and skeletonIndices:  1424
 	processing begun of mesh:  hood
-		WARNING: No skeleton with name "Armature" found skeleton ignored.
 		processing begun of material:  Cape
 		registered as also a user of material:  Cape
 		num positions      :  116
@@ -583,8 +744,14 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		num uvs2           :  0
 		num colors         :  0
 		num indices        :  120
+		Skeleton stats:  
+			WARNING: Maximum # of influencers exceeded for 116 vertices, extras ignored
+			Total Influencers:  1624
+			Avg # of influencers per vertex:  14
+			Highest # of influencers observed:  14, num vertices with this:  116
+			exported as 8 influencers
+			num skeletonWeights and skeletonIndices:  928
 	processing begun of mesh:  crown
-		WARNING: No skeleton with name "Armature" found skeleton ignored.
 		processing begun of material:  Gold
 		num positions      :  289
 		num normals        :  289
@@ -593,8 +760,14 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		num uvs2           :  0
 		num colors         :  0
 		num indices        :  336
+		Skeleton stats:  
+			WARNING: Maximum # of influencers exceeded for 289 vertices, extras ignored
+			Total Influencers:  6069
+			Avg # of influencers per vertex:  21
+			Highest # of influencers observed:  21, num vertices with this:  289
+			exported as 8 influencers
+			num skeletonWeights and skeletonIndices:  2312
 	processing begun of mesh:  crossbow
-		WARNING: No skeleton with name "Armature" found skeleton ignored.
 		processing begun of material:  Aluminum
 		processing begun of material:  AluminumAlloy
 		processing begun of material:  Copper
@@ -623,8 +796,14 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		num uvs2           :  0
 		num colors         :  0
 		num indices        :  156
+		Skeleton stats:  
+			WARNING: Maximum # of influencers exceeded for 28 vertices, extras ignored
+			Total Influencers:  909
+			Avg # of influencers per vertex:  6.635
+			Highest # of influencers observed:  12, num vertices with this:  28
+			exported as 8 influencers
+			num skeletonWeights and skeletonIndices:  1096
 	processing begun of mesh:  gem
-		WARNING: No skeleton with name "Armature" found skeleton ignored.
 		processing begun of material:  Diamond
 		processing begun of material:  Ruby
 		processing begun of material:  Emerald
@@ -637,8 +816,13 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		num uvs2           :  0
 		num colors         :  0
 		num indices        :  60
+		Skeleton stats:  
+			Total Influencers:  480
+			Avg # of influencers per vertex:  8
+			Highest # of influencers observed:  8, num vertices with this:  60
+			exported as 8 influencers
+			num skeletonWeights and skeletonIndices:  480
 	processing begun of mesh:  necklace
-		WARNING: No skeleton with name "Armature" found skeleton ignored.
 		processing begun of material:  Gold
 		registered as also a user of material:  Gold
 		num positions      :  302
@@ -648,18 +832,13 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		num uvs2           :  0
 		num colors         :  0
 		num indices        :  318
-	processing begun of mesh:  gun
-		WARNING: No skeleton with name "Armature" found skeleton ignored.
-		processing begun of material:  TungstenAlloy
-		registered as also a user of material:  TungstenAlloy
-		num positions      :  298
-		num normals        :  298
-		num tangents       :  0
-		num uvs            :  596
-		num uvs2           :  0
-		num colors         :  0
-		num indices        :  300
-		WARNING: # of 0 area faces found:  2
+		Skeleton stats:  
+			WARNING: Maximum # of influencers exceeded for 91 vertices, extras ignored
+			Total Influencers:  2344
+			Avg # of influencers per vertex:  7.7616
+			Highest # of influencers observed:  9, num vertices with this:  91
+			exported as 8 influencers
+			num skeletonWeights and skeletonIndices:  2416
 ========= Writing of JSON file started =========
 	writing mesh:  player
 	writing mesh:  body
@@ -692,7 +871,6 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 	writing mesh:  crossbow
 	writing mesh:  gem
 	writing mesh:  necklace
-	writing mesh:  gun
 ========= Writing of JSON file completed =========
 ========= end of processing =========
-elapsed time:  0 min, 0.5909 secs
+elapsed time:  0 min, 4.501 secs
