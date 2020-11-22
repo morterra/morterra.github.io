@@ -1,0 +1,63 @@
+Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
+========= Conversion from Blender to Babylon.js =========
+	Scene settings used :
+		Inline textures     :  false
+		Material Type       :  PBR
+		Positions Precision :  4
+		Normals Precision   :  3
+		UVs Precision       :  3
+		Vert Color Precision:  3
+		Mat Weight Precision:  2
+		Keep Z-up r-handed  :  no
+		Texture directory   :  D:\Desktop\morterra.github.io\dev\
+	Python World class constructor completed
+	WARNING: No active camera has been assigned, or is not in a currently selected Blender layer
+	processing begun of skeleton:  Armature, id:  0
+		processing begun of bone:  Root, index:  0
+		processing begun of bone:  bone.foot.front.l.001 ik, index:  1
+		processing begun of bone:  left front foot, index:  2
+		processing begun of bone:  bone.foot.front.l.002 knee, index:  3
+		processing begun of bone:  bone.foot.front.r.001 ik, index:  4
+		processing begun of bone:  right front foot, index:  5
+		processing begun of bone:  bone.foot.front.r.002 knee, index:  6
+		processing begun of bone:  bone.foot.back.l.001 ik, index:  7
+		processing begun of bone:  left back foot, index:  8
+		processing begun of bone:  bone.foot.back.l.002 knee, index:  9
+		processing begun of bone:  bone.foot.back.r.001 ik, index:  10
+		processing begun of bone:  right back foot, index:  11
+		processing begun of bone:  bone.foot.back.r.002 knee, index:  12
+		processing begun of bone:  bone.back.rear, index:  13
+		processing begun of bone:  bone.back.mid, index:  14
+		processing begun of bone:  bone.leg.front.r, index:  15
+		processing begun of bone:  bone.foot.front.r, index:  16
+		processing begun of bone:  bone.neck, index:  17
+		processing begun of bone:  bone.head, index:  18
+		processing begun of bone:  bone.leg.front.l, index:  19
+		processing begun of bone:  bone.foot.front.l, index:  20
+		processing begun of bone:  bone.leg.back.l, index:  21
+		processing begun of bone:  bone.foot.back.l, index:  22
+		processing begun of bone:  bone.leg.back.r, index:  23
+		processing begun of bone:  bone.foot.back.r, index:  24
+		processing action ArmatureAction.001:  in[0 - 1050], out[0 - 1050]
+	processing begun of mesh:  Plane
+		processing begun of material:  Material.001
+		processing begun of material:  Material.002
+		processing begun of multimaterial:  cow_new.Multimaterial#0
+		num positions      :  1394
+		num normals        :  1394
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  1407
+		Skeleton stats:  
+			Total Influencers:  3449
+			Avg # of influencers per vertex:  2.4742
+			Highest # of influencers observed:  7, num vertices with this:  12
+			exported as 7 influencers
+			num skeletonWeights and skeletonIndices:  11152
+========= Writing of JSON file started =========
+	writing mesh:  Plane
+========= Writing of JSON file completed =========
+========= end of processing =========
+elapsed time:  0 min, 2.3788 secs
