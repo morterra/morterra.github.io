@@ -970,6 +970,38 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 			Highest # of influencers observed:  27, num vertices with this:  518
 			exported as 8 influencers
 			num skeletonWeights and skeletonIndices:  4144
+	processing begun of mesh:  mustache
+		processing begun of material:  Hair
+		registered as also a user of material:  Hair
+		num positions      :  51
+		num normals        :  51
+		num tangents       :  0
+		num uvs            :  102
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  60
+		Skeleton stats:  
+			Total Influencers:  383
+			Avg # of influencers per vertex:  7.5098
+			Highest # of influencers observed:  8, num vertices with this:  33
+			exported as 8 influencers
+			num skeletonWeights and skeletonIndices:  408
+	processing begun of mesh:  goatee
+		processing begun of material:  Hair
+		registered as also a user of material:  Hair
+		num positions      :  183
+		num normals        :  183
+		num tangents       :  0
+		num uvs            :  366
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  192
+		Skeleton stats:  
+			Total Influencers:  1188
+			Avg # of influencers per vertex:  6.4918
+			Highest # of influencers observed:  8, num vertices with this:  75
+			exported as 8 influencers
+			num skeletonWeights and skeletonIndices:  1464
 ========= Writing of JSON file started =========
 	writing mesh:  player
 	writing mesh:  body
@@ -1008,6 +1040,8 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 	writing mesh:  bodyfemale
 	writing mesh:  hairm2
 	writing mesh:  hairf2
+	writing mesh:  mustache
+	writing mesh:  goatee
 ========= Writing of JSON file completed =========
 ========= end of processing =========
-elapsed time:  0 min, 9.7032 secs
+elapsed time:  0 min, 9.6649 secs
