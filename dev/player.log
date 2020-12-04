@@ -40,7 +40,7 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		processing begun of bone:  Thumb_R, index:  24
 		processing begun of bone:  Hand_Hold_R, index:  25
 		processing begun of bone:  Hand_R.001, index:  26
-		processing action ArmatureAction.005:  in[0 - 1200], out[0 - 1200]
+		processing action ArmatureAction.005:  in[0 - 1249], out[0 - 1249]
 	processing begun of mesh:  player
 		processing begun of material:  Skin
 		num positions      :  2318
@@ -1002,6 +1002,22 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 			Highest # of influencers observed:  8, num vertices with this:  75
 			exported as 8 influencers
 			num skeletonWeights and skeletonIndices:  1464
+	processing begun of mesh:  blowpipe
+		processing begun of material:  RawWood
+		registered as also a user of material:  RawWood
+		num positions      :  161
+		num normals        :  161
+		num tangents       :  0
+		num uvs            :  322
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  204
+		Skeleton stats:  
+			Total Influencers:  966
+			Avg # of influencers per vertex:  6
+			Highest # of influencers observed:  6, num vertices with this:  161
+			exported as 6 influencers
+			num skeletonWeights and skeletonIndices:  1288
 ========= Writing of JSON file started =========
 	writing mesh:  player
 	writing mesh:  body
@@ -1042,6 +1058,7 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 	writing mesh:  hairf2
 	writing mesh:  mustache
 	writing mesh:  goatee
+	writing mesh:  blowpipe
 ========= Writing of JSON file completed =========
 ========= end of processing =========
-elapsed time:  0 min, 9.6649 secs
+elapsed time:  0 min, 10.2182 secs
