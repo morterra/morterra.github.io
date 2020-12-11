@@ -782,6 +782,7 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		processing begun of material:  TitaniumAlloy
 		processing begun of material:  Tungsten
 		processing begun of material:  TungstenAlloy
+		processing begun of material:  Iron
 		registered as also a user of material:  Aluminum
 		registered as also a user of material:  AluminumAlloy
 		registered as also a user of material:  Copper
@@ -792,6 +793,7 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		registered as also a user of material:  TitaniumAlloy
 		registered as also a user of material:  Tungsten
 		registered as also a user of material:  TungstenAlloy
+		registered as also a user of material:  Iron
 		processing begun of multimaterial:  player.Multimaterial#19
 		num positions      :  136
 		num normals        :  136
@@ -1018,6 +1020,76 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 			Highest # of influencers observed:  6, num vertices with this:  161
 			exported as 6 influencers
 			num skeletonWeights and skeletonIndices:  1288
+	processing begun of mesh:  beardp1
+		processing begun of material:  Hair
+		registered as also a user of material:  Hair
+		num positions      :  334
+		num normals        :  334
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  1336
+		num indices        :  342
+		Skeleton stats:  
+			Total Influencers:  1670
+			Avg # of influencers per vertex:  5
+			Highest # of influencers observed:  5, num vertices with this:  334
+			exported as 5 influencers
+			num skeletonWeights and skeletonIndices:  2672
+	processing begun of mesh:  hairp1
+		processing begun of material:  Hair
+		processing begun of material:  Hair2
+		processing begun of material:  Hair3
+		registered as also a user of material:  Hair
+		registered as also a user of material:  Hair2
+		registered as also a user of material:  Hair3
+		processing begun of multimaterial:  player.Multimaterial#23
+		num positions      :  397
+		num normals        :  397
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  1588
+		num indices        :  408
+		Skeleton stats:  
+			Total Influencers:  629
+			Avg # of influencers per vertex:  1.5844
+			Highest # of influencers observed:  3, num vertices with this:  10
+			exported as 3 influencers
+			num skeletonWeights and skeletonIndices:  1588
+	processing begun of mesh:  mustachep1
+		processing begun of material:  Hair
+		registered as also a user of material:  Hair
+		num positions      :  114
+		num normals        :  114
+		num tangents       :  0
+		num uvs            :  228
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  120
+		Skeleton stats:  
+			Total Influencers:  835
+			Avg # of influencers per vertex:  7.3246
+			Highest # of influencers observed:  8, num vertices with this:  56
+			exported as 8 influencers
+			num skeletonWeights and skeletonIndices:  912
+	processing begun of mesh:  hairp2
+		processing begun of material:  Hair
+		registered as also a user of material:  Hair
+		num positions      :  676
+		num normals        :  676
+		num tangents       :  0
+		num uvs            :  1352
+		num uvs2           :  0
+		num colors         :  2704
+		num indices        :  684
+		Skeleton stats:  
+			WARNING: Maximum # of influencers exceeded for 556 vertices, extras ignored
+			Total Influencers:  15132
+			Avg # of influencers per vertex:  22.3846
+			Highest # of influencers observed:  27, num vertices with this:  556
+			exported as 8 influencers
+			num skeletonWeights and skeletonIndices:  5408
 ========= Writing of JSON file started =========
 	writing mesh:  player
 	writing mesh:  body
@@ -1059,6 +1131,10 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 	writing mesh:  mustache
 	writing mesh:  goatee
 	writing mesh:  blowpipe
+	writing mesh:  beardp1
+	writing mesh:  hairp1
+	writing mesh:  mustachep1
+	writing mesh:  hairp2
 ========= Writing of JSON file completed =========
 ========= end of processing =========
-elapsed time:  0 min, 10.2182 secs
+elapsed time:  0 min, 11.1545 secs
