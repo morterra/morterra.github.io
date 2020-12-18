@@ -54,6 +54,12 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		num uvs2           :  0
 		num colors         :  0
 		num indices        :  2070
+		Skeleton stats:  
+			Total Influencers:  5143
+			Avg # of influencers per vertex:  2.4978
+			Highest # of influencers observed:  6, num vertices with this:  59
+			exported as 6 influencers
+			num skeletonWeights and skeletonIndices:  16472
 	processing begun of mesh:  Saddle
 		processing begun of material:  Leather
 		num positions      :  130
@@ -74,4 +80,4 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 	writing mesh:  Saddle
 ========= Writing of JSON file completed =========
 ========= end of processing =========
-elapsed time:  0 min, 0.4288 secs
+elapsed time:  0 min, 0.7232 secs
