@@ -64,14 +64,12 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 	processing begun of mesh:  arrow
 		processing begun of material:  Oak
 		processing begun of material:  RawWood
-		processing begun of material:  Maple
-		processing begun of material:  Fruit
 		processing begun of material:  Cloth
 		processing begun of multimaterial:  arrow.Multimaterial#1
-		num positions      :  152
-		num normals        :  152
+		num positions      :  149
+		num normals        :  149
 		num tangents       :  0
-		num uvs            :  304
+		num uvs            :  298
 		num uvs2           :  0
 		num colors         :  0
 		num indices        :  162
@@ -83,4 +81,4 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 	writing mesh:  arrow
 ========= Writing of JSON file completed =========
 ========= end of processing =========
-elapsed time:  0 min, 0.084 secs
+elapsed time:  0 min, 0.1155 secs
