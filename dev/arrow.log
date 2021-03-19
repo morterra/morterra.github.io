@@ -26,7 +26,7 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		processing begun of material:  Lock
 		processing begun of material:  Gold
 		processing begun of material:  Copper
-		processing begun of multimaterial:  spear.Multimaterial#0
+		processing begun of multimaterial:  arrow.Multimaterial#0
 		num positions      :  88
 		num normals        :  88
 		num tangents       :  0
@@ -61,25 +61,24 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		num uvs2           :  0
 		num colors         :  0
 		num indices        :  192
-	processing begun of mesh:  spear
+	processing begun of mesh:  arrow
 		processing begun of material:  Oak
 		processing begun of material:  RawWood
-		processing begun of material:  Maple
-		processing begun of material:  Fruit
-		processing begun of multimaterial:  spear.Multimaterial#1
-		num positions      :  39
-		num normals        :  39
+		processing begun of material:  Cloth
+		processing begun of multimaterial:  arrow.Multimaterial#1
+		num positions      :  149
+		num normals        :  149
 		num tangents       :  0
-		num uvs            :  78
+		num uvs            :  298
 		num uvs2           :  0
 		num colors         :  0
-		num indices        :  42
+		num indices        :  162
 ========= Writing of JSON file started =========
 	writing mesh:  chest-metal-locked
 	writing mesh:  player.002
 	writing mesh:  Cube.001
 	writing mesh:  Cube.003
-	writing mesh:  spear
+	writing mesh:  arrow
 ========= Writing of JSON file completed =========
 ========= end of processing =========
-elapsed time:  0 min, 0.081 secs
+elapsed time:  0 min, 0.087 secs
