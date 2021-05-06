@@ -18,55 +18,26 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		processing begun of bone:  Bone.002, index:  2
 		processing begun of bone:  Bone.003, index:  3
 		processing action ArmatureAction:  in[0 - 30], out[0 - 30]
-	processing begun of mesh:  lock
-		processing begun of material:  WoodLock
-		num positions      :  32
-		num normals        :  32
-		num tangents       :  0
-		num uvs            :  0
-		num uvs2           :  0
-		num colors         :  0
-		num indices        :  39
-		Skeleton stats:  
-			Total Influencers:  32
-			Avg # of influencers per vertex:  1
-			Highest # of influencers observed:  1, num vertices with this:  32
-			exported as 1 influencers
-			num skeletonWeights and skeletonIndices:  128
 	processing begun of mesh:  cloth
 		processing begun of material:  Cloth
-		num positions      :  62
-		num normals        :  62
+		processing begun of material:  WoodLock
+		processing begun of material:  Oak
+		processing begun of multimaterial:  flag.Multimaterial#0
+		num positions      :  124
+		num normals        :  124
 		num tangents       :  0
 		num uvs            :  0
 		num uvs2           :  0
 		num colors         :  0
-		num indices        :  84
+		num indices        :  162
 		Skeleton stats:  
-			Total Influencers:  172
-			Avg # of influencers per vertex:  2.7742
+			Total Influencers:  234
+			Avg # of influencers per vertex:  1.8871
 			Highest # of influencers observed:  3, num vertices with this:  55
 			exported as 3 influencers
-			num skeletonWeights and skeletonIndices:  248
-	processing begun of mesh:  pole
-		processing begun of material:  Oak
-		num positions      :  30
-		num normals        :  30
-		num tangents       :  0
-		num uvs            :  0
-		num uvs2           :  0
-		num colors         :  0
-		num indices        :  39
-		Skeleton stats:  
-			Total Influencers:  30
-			Avg # of influencers per vertex:  1
-			Highest # of influencers observed:  1, num vertices with this:  30
-			exported as 1 influencers
-			num skeletonWeights and skeletonIndices:  120
+			num skeletonWeights and skeletonIndices:  496
 ========= Writing of JSON file started =========
-	writing mesh:  lock
 	writing mesh:  cloth
-	writing mesh:  pole
 ========= Writing of JSON file completed =========
 ========= end of processing =========
-elapsed time:  0 min, 0.043 secs
+elapsed time:  0 min, 0.065 secs
