@@ -18,26 +18,28 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		processing begun of bone:  Bone.002, index:  2
 		processing begun of bone:  Bone.003, index:  3
 		processing action ArmatureAction:  in[0 - 30], out[0 - 30]
-	processing begun of mesh:  cloth
+	processing begun of mesh:  Cube
 		processing begun of material:  Cloth
-		processing begun of material:  WoodLock
 		processing begun of material:  Oak
+		processing begun of material:  Gold
+		processing begun of material:  Iron
+		processing begun of material:  WoodLock
 		processing begun of multimaterial:  flag.Multimaterial#0
-		num positions      :  124
-		num normals        :  124
+		num positions      :  133
+		num normals        :  133
 		num tangents       :  0
 		num uvs            :  0
 		num uvs2           :  0
 		num colors         :  0
 		num indices        :  162
 		Skeleton stats:  
-			Total Influencers:  234
-			Avg # of influencers per vertex:  1.8871
-			Highest # of influencers observed:  3, num vertices with this:  55
+			Total Influencers:  255
+			Avg # of influencers per vertex:  1.9173
+			Highest # of influencers observed:  3, num vertices with this:  61
 			exported as 3 influencers
-			num skeletonWeights and skeletonIndices:  496
+			num skeletonWeights and skeletonIndices:  532
 ========= Writing of JSON file started =========
-	writing mesh:  cloth
+	writing mesh:  Cube
 ========= Writing of JSON file completed =========
 ========= end of processing =========
-elapsed time:  0 min, 0.065 secs
+elapsed time:  0 min, 0.036 secs
