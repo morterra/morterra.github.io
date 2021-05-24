@@ -11,25 +11,7 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		Keep Z-up r-handed  :  no
 		Texture directory   :  D:\Desktop\morterra.github.io\dev\
 	Python World class constructor completed
-	processing begun of mesh:  doorwoodlock
-		processing begun of material:  RawWood
-		num positions      :  29
-		num normals        :  29
-		num tangents       :  0
-		num uvs            :  0
-		num uvs2           :  0
-		num colors         :  0
-		num indices        :  36
-	processing begun of mesh:  doorwoodtrim
-		processing begun of material:  RawWood
-		registered as also a user of material:  RawWood
-		num positions      :  101
-		num normals        :  101
-		num tangents       :  0
-		num uvs            :  0
-		num uvs2           :  0
-		num colors         :  0
-		num indices        :  120
+	WARNING: No active camera has been assigned, or is not in a currently selected Blender layer
 	processing begun of mesh:  door-wood
 		processing begun of material:  Oak
 		num positions      :  8
@@ -39,10 +21,29 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		num uvs2           :  0
 		num colors         :  0
 		num indices        :  12
+	processing begun of mesh:  lock
+		processing begun of material:  RawWood
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  trim
+		processing begun of material:  RawWood
+		registered as also a user of material:  RawWood
+		num positions      :  101
+		num normals        :  101
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  120
 ========= Writing of JSON file started =========
-	writing mesh:  doorwoodlock
-	writing mesh:  doorwoodtrim
 	writing mesh:  door-wood
+	writing mesh:  lock
+	writing mesh:  trim
 ========= Writing of JSON file completed =========
 ========= end of processing =========
-elapsed time:  0 min, 0.048 secs
+elapsed time:  0 min, 0.126 secs
