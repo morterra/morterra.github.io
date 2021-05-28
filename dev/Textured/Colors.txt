@@ -1,0 +1,65 @@
+808080 Iron 
+eaeaea Steel 
+a8a8a8 Tin 
+a86320 Bronze 
+b9cfd5 Aluminum 
+f0cfd5 Aluminum Alloy 
+a5778e Titanium
+c63c3c Titanium Alloy
+575759 Tungsten
+232323 Tungsten Alloy
+d56631 Copper
+B5B030 Gold
+464646 Lock Metal
+815239 Fruit
+55360c Oak
+29261e Maple
+ae9266 Raw Wood
+248824 Mango Leaf
+A1E726 Mango Fruit1
+E2E700 Mango Fruit2
+6E8A11 Orange Leaf
+FF8E1E Orange Fruit
+4B6F17 Apple Leaf
+E70500 Apple Fruit
+6CA22B Oak Leaf
+467440 Oak Leaf Dark
+E75039 Leaf Maple
+DFB74A Maple Leaf Yellow
+961D0D Maple Leaf Dark
+A5A5A5 Boulder Rubble
+9E9E9E Boulder Small
+928F92 Boulder Medium
+BDBDBD Stone Large
+009B11 Strawberry Bush
+FF0000 Strawberry Fruit
+00AA13 Blueberry Bush
+060077 Blueberry Fruit
+009800 Corn Plant
+A3AA38 Bamboo
+F4EA3D Corn
+7A512A Cotton Plant
+E7E7E7 Cloth
+704A27 Dirt (potato)
+62C0E4 Water
+248824 Pond Accent
+846124 Clay
+111111 Kiln Accent
+E79656 Foundry Accent
+B8221D Dynamite Accent
+A5A5A5 Alchemy Table Tools
+579429 Potion 1
+B30019 Potion 2
+725E28 Leather
+3D3D3D Flint
+E7E7E7 Diamond
+FF0000 Ruby
+0DFF00 Emerald
+002BFF Sapphire
+6F3918 Hair Brown
+E6CE6E Hair Blonde
+2B2B2B Hair Black
+FFCD94 Skin White
+B48651 Skin Tan
+613F2A Skin Black
+
