@@ -36,23 +36,23 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		processing begun of material:  Texture Sheet
 			processing texture Texturesheet
 				texture type:  diffuseTexture, mapped using: "UVMap"
-		num positions      :  1603
-		num normals        :  1603
+		num positions      :  1612
+		num normals        :  1612
 		num tangents       :  0
-		num uvs            :  3206
+		num uvs            :  3224
 		num uvs2           :  0
 		num colors         :  0
 		num indices        :  1938
 		Skeleton stats:  
-			Total Influencers:  3379
-			Avg # of influencers per vertex:  2.1079
+			Total Influencers:  3393
+			Avg # of influencers per vertex:  2.1048
 			Highest # of influencers observed:  5, num vertices with this:  11
 			exported as 5 influencers
-			num skeletonWeights and skeletonIndices:  12824
+			num skeletonWeights and skeletonIndices:  12896
 		WARNING: # of 0 area faces found:  173
 		Shape Keys:
 ========= Writing of JSON file started =========
 	writing mesh:  Plane
 ========= Writing of JSON file completed =========
 ========= end of processing =========
-elapsed time:  0 min, 0.4691 secs
+elapsed time:  0 min, 0.3201 secs

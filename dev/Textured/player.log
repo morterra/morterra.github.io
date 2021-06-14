@@ -1,0 +1,828 @@
+Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
+========= Conversion from Blender to Babylon.js =========
+	Scene settings used :
+		Inline textures     :  false
+		Material Type       :  PBR
+		Positions Precision :  4
+		Normals Precision   :  3
+		UVs Precision       :  3
+		Vert Color Precision:  3
+		Mat Weight Precision:  2
+		Keep Z-up r-handed  :  no
+		Texture directory   :  D:\Desktop\morterra.github.io\dev\Textured\
+	Python World class constructor completed
+	WARNING: No active camera has been assigned, or is not in a currently selected Blender layer
+	processing begun of skeleton:  Armature, id:  0
+		processing begun of bone:  Pole Target.L, index:  0
+		processing begun of bone:  Pole Target.R, index:  1
+		processing begun of bone:  Ankle_L.001, index:  2
+		processing begun of bone:  Ankle_R.001, index:  3
+		processing begun of bone:  Base, index:  4
+		processing begun of bone:  Thigh_L, index:  5
+		processing begun of bone:  Leg_L, index:  6
+		processing begun of bone:  Foot_L, index:  7
+		processing begun of bone:  Thigh_R, index:  8
+		processing begun of bone:  Leg_R, index:  9
+		processing begun of bone:  Foot_R, index:  10
+		processing begun of bone:  Stomach, index:  11
+		processing begun of bone:  Chest, index:  12
+		processing begun of bone:  Neck, index:  13
+		processing begun of bone:  Head, index:  14
+		processing begun of bone:  Bicep_L, index:  15
+		processing begun of bone:  Arm_L, index:  16
+		processing begun of bone:  Hand_L, index:  17
+		processing begun of bone:  Thumb_L, index:  18
+		processing begun of bone:  Hand_L.001, index:  19
+		processing begun of bone:  Hand_Hold_L, index:  20
+		processing begun of bone:  Bicep_R, index:  21
+		processing begun of bone:  Arm_R, index:  22
+		processing begun of bone:  Hand_R, index:  23
+		processing begun of bone:  Thumb_R, index:  24
+		processing begun of bone:  Hand_Hold_R, index:  25
+		processing begun of bone:  Hand_R.001, index:  26
+		processing action ArmatureAction.005:  in[0 - 1249], out[0 - 1249]
+	processing begun of mesh:  player
+		processing begun of material:  Texture Sheet
+			processing texture Texturesheet
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  2318
+		num normals        :  2318
+		num tangents       :  0
+		num uvs            :  4636
+		num uvs2           :  0
+		num colors         :  9272
+		num indices        :  2382
+		Skeleton stats:  
+			WARNING: Maximum # of influencers exceeded for 2318 vertices, extras ignored
+			Total Influencers:  62586
+			Avg # of influencers per vertex:  27
+			Highest # of influencers observed:  27, num vertices with this:  2318
+			exported as 8 influencers
+			num skeletonWeights and skeletonIndices:  18544
+	processing begun of mesh:  body
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  1605
+		num normals        :  1605
+		num tangents       :  0
+		num uvs            :  3210
+		num uvs2           :  0
+		num colors         :  6420
+		num indices        :  1608
+		Skeleton stats:  
+			Total Influencers:  5811
+			Avg # of influencers per vertex:  3.6206
+			Highest # of influencers observed:  6, num vertices with this:  49
+			exported as 6 influencers
+			num skeletonWeights and skeletonIndices:  12840
+	processing begun of mesh:  legs
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  1577
+		num normals        :  1577
+		num tangents       :  0
+		num uvs            :  3154
+		num uvs2           :  0
+		num colors         :  6308
+		num indices        :  1578
+		Skeleton stats:  
+			Total Influencers:  4692
+			Avg # of influencers per vertex:  2.9753
+			Highest # of influencers observed:  6, num vertices with this:  55
+			exported as 6 influencers
+			num skeletonWeights and skeletonIndices:  12616
+	processing begun of mesh:  helmet
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  490
+		num normals        :  490
+		num tangents       :  0
+		num uvs            :  980
+		num uvs2           :  0
+		num colors         :  1960
+		num indices        :  510
+		Skeleton stats:  
+			Total Influencers:  627
+			Avg # of influencers per vertex:  1.2796
+			Highest # of influencers observed:  3, num vertices with this:  54
+			exported as 3 influencers
+			num skeletonWeights and skeletonIndices:  1960
+	processing begun of mesh:  sword
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  148
+		num normals        :  148
+		num tangents       :  0
+		num uvs            :  296
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  162
+		Skeleton stats:  
+			Total Influencers:  912
+			Avg # of influencers per vertex:  6.1622
+			Highest # of influencers observed:  7, num vertices with this:  24
+			exported as 7 influencers
+			num skeletonWeights and skeletonIndices:  1184
+	processing begun of mesh:  backpack
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  96
+		num normals        :  96
+		num tangents       :  0
+		num uvs            :  192
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  102
+		Skeleton stats:  
+			Total Influencers:  480
+			Avg # of influencers per vertex:  5
+			Highest # of influencers observed:  5, num vertices with this:  96
+			exported as 5 influencers
+			num skeletonWeights and skeletonIndices:  768
+	processing begun of mesh:  spear
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  36
+		num normals        :  36
+		num tangents       :  0
+		num uvs            :  72
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  42
+		Skeleton stats:  
+			Total Influencers:  288
+			Avg # of influencers per vertex:  8
+			Highest # of influencers observed:  8, num vertices with this:  36
+			exported as 8 influencers
+			num skeletonWeights and skeletonIndices:  288
+	processing begun of mesh:  pickaxe
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  169
+		num normals        :  169
+		num tangents       :  0
+		num uvs            :  338
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  180
+		Skeleton stats:  
+			WARNING: Maximum # of influencers exceeded for 169 vertices, extras ignored
+			Total Influencers:  1708
+			Avg # of influencers per vertex:  10.1065
+			Highest # of influencers observed:  11, num vertices with this:  169
+			exported as 8 influencers
+			num skeletonWeights and skeletonIndices:  1352
+	processing begun of mesh:  hatchet
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  159
+		num normals        :  159
+		num tangents       :  0
+		num uvs            :  318
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  168
+		Skeleton stats:  
+			Total Influencers:  954
+			Avg # of influencers per vertex:  6
+			Highest # of influencers observed:  6, num vertices with this:  159
+			exported as 6 influencers
+			num skeletonWeights and skeletonIndices:  1272
+	processing begun of mesh:  mace
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  89
+		num normals        :  89
+		num tangents       :  0
+		num uvs            :  178
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  96
+		Skeleton stats:  
+			Total Influencers:  505
+			Avg # of influencers per vertex:  5.6742
+			Highest # of influencers observed:  6, num vertices with this:  60
+			exported as 6 influencers
+			num skeletonWeights and skeletonIndices:  712
+	processing begun of mesh:  fishingrod
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  114
+		num normals        :  114
+		num tangents       :  0
+		num uvs            :  228
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  120
+		Skeleton stats:  
+			Total Influencers:  750
+			Avg # of influencers per vertex:  6.5789
+			Highest # of influencers observed:  7, num vertices with this:  66
+			exported as 7 influencers
+			num skeletonWeights and skeletonIndices:  912
+	processing begun of mesh:  axe
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  228
+		num normals        :  228
+		num tangents       :  0
+		num uvs            :  456
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  228
+		Skeleton stats:  
+			Total Influencers:  1374
+			Avg # of influencers per vertex:  6.0263
+			Highest # of influencers observed:  7, num vertices with this:  24
+			exported as 7 influencers
+			num skeletonWeights and skeletonIndices:  1824
+	processing begun of mesh:  hammer
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  99
+		num normals        :  99
+		num tangents       :  0
+		num uvs            :  198
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  108
+		Skeleton stats:  
+			Total Influencers:  495
+			Avg # of influencers per vertex:  5
+			Highest # of influencers observed:  5, num vertices with this:  99
+			exported as 5 influencers
+			num skeletonWeights and skeletonIndices:  792
+	processing begun of mesh:  maul
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  104
+		num normals        :  104
+		num tangents       :  0
+		num uvs            :  208
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  120
+		Skeleton stats:  
+			Total Influencers:  713
+			Avg # of influencers per vertex:  6.8558
+			Highest # of influencers observed:  7, num vertices with this:  89
+			exported as 7 influencers
+			num skeletonWeights and skeletonIndices:  832
+	processing begun of mesh:  stick
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  177
+		num normals        :  177
+		num tangents       :  0
+		num uvs            :  354
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  228
+		Skeleton stats:  
+			Total Influencers:  1062
+			Avg # of influencers per vertex:  6
+			Highest # of influencers observed:  6, num vertices with this:  177
+			exported as 6 influencers
+			num skeletonWeights and skeletonIndices:  1416
+	processing begun of mesh:  bluntrock
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  60
+		num normals        :  60
+		num tangents       :  0
+		num uvs            :  120
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  60
+		Skeleton stats:  
+			Total Influencers:  360
+			Avg # of influencers per vertex:  6
+			Highest # of influencers observed:  6, num vertices with this:  60
+			exported as 6 influencers
+			num skeletonWeights and skeletonIndices:  480
+	processing begun of mesh:  knife
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  69
+		num normals        :  69
+		num tangents       :  0
+		num uvs            :  138
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  78
+		Skeleton stats:  
+			Total Influencers:  276
+			Avg # of influencers per vertex:  4
+			Highest # of influencers observed:  4, num vertices with this:  69
+			exported as 4 influencers
+			num skeletonWeights and skeletonIndices:  276
+	processing begun of mesh:  sharprock
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  44
+		num normals        :  44
+		num tangents       :  0
+		num uvs            :  88
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  48
+		Skeleton stats:  
+			Total Influencers:  180
+			Avg # of influencers per vertex:  4.0909
+			Highest # of influencers observed:  5, num vertices with this:  4
+			exported as 5 influencers
+			num skeletonWeights and skeletonIndices:  352
+	processing begun of mesh:  flint
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  38
+		num normals        :  38
+		num tangents       :  0
+		num uvs            :  76
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  42
+		Skeleton stats:  
+			Total Influencers:  169
+			Avg # of influencers per vertex:  4.4474
+			Highest # of influencers observed:  5, num vertices with this:  17
+			exported as 5 influencers
+			num skeletonWeights and skeletonIndices:  304
+	processing begun of mesh:  shield
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  85
+		num normals        :  85
+		num tangents       :  0
+		num uvs            :  170
+		num uvs2           :  0
+		num colors         :  340
+		num indices        :  96
+		Skeleton stats:  
+			Total Influencers:  288
+			Avg # of influencers per vertex:  3.3882
+			Highest # of influencers observed:  4, num vertices with this:  40
+			exported as 4 influencers
+			num skeletonWeights and skeletonIndices:  340
+	processing begun of mesh:  quiver
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  42
+		num normals        :  42
+		num tangents       :  0
+		num uvs            :  84
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  48
+		Skeleton stats:  
+			WARNING: Maximum # of influencers exceeded for 42 vertices, extras ignored
+			Total Influencers:  378
+			Avg # of influencers per vertex:  9
+			Highest # of influencers observed:  9, num vertices with this:  42
+			exported as 8 influencers
+			num skeletonWeights and skeletonIndices:  336
+	processing begun of mesh:  bow
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  117
+		num normals        :  117
+		num tangents       :  0
+		num uvs            :  234
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  132
+		Skeleton stats:  
+			WARNING: Maximum # of influencers exceeded for 18 vertices, extras ignored
+			Total Influencers:  954
+			Avg # of influencers per vertex:  8.1538
+			Highest # of influencers observed:  9, num vertices with this:  18
+			exported as 8 influencers
+			num skeletonWeights and skeletonIndices:  936
+	processing begun of mesh:  loincloth
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  128
+		num normals        :  128
+		num tangents       :  0
+		num uvs            :  256
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  132
+		Skeleton stats:  
+			WARNING: Maximum # of influencers exceeded for 128 vertices, extras ignored
+			Total Influencers:  1336
+			Avg # of influencers per vertex:  10.4375
+			Highest # of influencers observed:  12, num vertices with this:  128
+			exported as 8 influencers
+			num skeletonWeights and skeletonIndices:  1024
+	processing begun of mesh:  hairm1
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  392
+		num normals        :  392
+		num tangents       :  0
+		num uvs            :  784
+		num uvs2           :  0
+		num colors         :  1568
+		num indices        :  408
+		Skeleton stats:  
+			Total Influencers:  624
+			Avg # of influencers per vertex:  1.5918
+			Highest # of influencers observed:  3, num vertices with this:  10
+			exported as 3 influencers
+			num skeletonWeights and skeletonIndices:  1568
+	processing begun of mesh:  beard
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  261
+		num normals        :  261
+		num tangents       :  0
+		num uvs            :  522
+		num uvs2           :  0
+		num colors         :  1044
+		num indices        :  273
+		Skeleton stats:  
+			Total Influencers:  1305
+			Avg # of influencers per vertex:  5
+			Highest # of influencers observed:  5, num vertices with this:  261
+			exported as 5 influencers
+			num skeletonWeights and skeletonIndices:  2088
+	processing begun of mesh:  cape
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  178
+		num normals        :  178
+		num tangents       :  0
+		num uvs            :  356
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  180
+		Skeleton stats:  
+			Total Influencers:  1164
+			Avg # of influencers per vertex:  6.5393
+			Highest # of influencers observed:  7, num vertices with this:  115
+			exported as 7 influencers
+			num skeletonWeights and skeletonIndices:  1424
+	processing begun of mesh:  hood
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  116
+		num normals        :  116
+		num tangents       :  0
+		num uvs            :  232
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  120
+		Skeleton stats:  
+			WARNING: Maximum # of influencers exceeded for 116 vertices, extras ignored
+			Total Influencers:  1624
+			Avg # of influencers per vertex:  14
+			Highest # of influencers observed:  14, num vertices with this:  116
+			exported as 8 influencers
+			num skeletonWeights and skeletonIndices:  928
+	processing begun of mesh:  crown
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  287
+		num normals        :  287
+		num tangents       :  0
+		num uvs            :  574
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  336
+		Skeleton stats:  
+			WARNING: Maximum # of influencers exceeded for 287 vertices, extras ignored
+			Total Influencers:  6027
+			Avg # of influencers per vertex:  21
+			Highest # of influencers observed:  21, num vertices with this:  287
+			exported as 8 influencers
+			num skeletonWeights and skeletonIndices:  2296
+	processing begun of mesh:  crossbow
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  136
+		num normals        :  136
+		num tangents       :  0
+		num uvs            :  272
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  156
+		Skeleton stats:  
+			WARNING: Maximum # of influencers exceeded for 28 vertices, extras ignored
+			Total Influencers:  905
+			Avg # of influencers per vertex:  6.6544
+			Highest # of influencers observed:  12, num vertices with this:  28
+			exported as 8 influencers
+			num skeletonWeights and skeletonIndices:  1088
+	processing begun of mesh:  gem
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  60
+		num normals        :  60
+		num tangents       :  0
+		num uvs            :  120
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  60
+		Skeleton stats:  
+			Total Influencers:  480
+			Avg # of influencers per vertex:  8
+			Highest # of influencers observed:  8, num vertices with this:  60
+			exported as 8 influencers
+			num skeletonWeights and skeletonIndices:  480
+	processing begun of mesh:  necklace
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  331
+		num normals        :  331
+		num tangents       :  0
+		num uvs            :  662
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  354
+		Skeleton stats:  
+			WARNING: Maximum # of influencers exceeded for 120 vertices, extras ignored
+			Total Influencers:  2605
+			Avg # of influencers per vertex:  7.8701
+			Highest # of influencers observed:  9, num vertices with this:  120
+			exported as 8 influencers
+			num skeletonWeights and skeletonIndices:  2648
+	processing begun of mesh:  playerfemale
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  2352
+		num normals        :  2352
+		num tangents       :  0
+		num uvs            :  4704
+		num uvs2           :  0
+		num colors         :  9408
+		num indices        :  2418
+		Skeleton stats:  
+			Total Influencers:  6552
+			Avg # of influencers per vertex:  2.7857
+			Highest # of influencers observed:  6, num vertices with this:  38
+			exported as 6 influencers
+			num skeletonWeights and skeletonIndices:  18816
+	processing begun of mesh:  chestwrap
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  212
+		num normals        :  212
+		num tangents       :  0
+		num uvs            :  424
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  228
+		Skeleton stats:  
+			WARNING: Maximum # of influencers exceeded for 212 vertices, extras ignored
+			Total Influencers:  5300
+			Avg # of influencers per vertex:  25
+			Highest # of influencers observed:  25, num vertices with this:  212
+			exported as 8 influencers
+			num skeletonWeights and skeletonIndices:  1696
+	processing begun of mesh:  hairf1
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  574
+		num normals        :  574
+		num tangents       :  0
+		num uvs            :  1148
+		num uvs2           :  0
+		num colors         :  2296
+		num indices        :  588
+		Skeleton stats:  
+			WARNING: Maximum # of influencers exceeded for 574 vertices, extras ignored
+			Total Influencers:  15498
+			Avg # of influencers per vertex:  27
+			Highest # of influencers observed:  27, num vertices with this:  574
+			exported as 8 influencers
+			num skeletonWeights and skeletonIndices:  4592
+	processing begun of mesh:  bodyfemale
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  1605
+		num normals        :  1605
+		num tangents       :  0
+		num uvs            :  3210
+		num uvs2           :  0
+		num colors         :  6420
+		num indices        :  1608
+		Skeleton stats:  
+			WARNING: Maximum # of influencers exceeded for 1605 vertices, extras ignored
+			Total Influencers:  43335
+			Avg # of influencers per vertex:  27
+			Highest # of influencers observed:  27, num vertices with this:  1605
+			exported as 8 influencers
+			num skeletonWeights and skeletonIndices:  12840
+	processing begun of mesh:  hairm2
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  40
+		num normals        :  40
+		num tangents       :  0
+		num uvs            :  80
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  48
+		Skeleton stats:  
+			WARNING: Maximum # of influencers exceeded for 40 vertices, extras ignored
+			Total Influencers:  1080
+			Avg # of influencers per vertex:  27
+			Highest # of influencers observed:  27, num vertices with this:  40
+			exported as 8 influencers
+			num skeletonWeights and skeletonIndices:  320
+	processing begun of mesh:  hairf2
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  518
+		num normals        :  518
+		num tangents       :  0
+		num uvs            :  1036
+		num uvs2           :  0
+		num colors         :  2072
+		num indices        :  528
+		Skeleton stats:  
+			WARNING: Maximum # of influencers exceeded for 518 vertices, extras ignored
+			Total Influencers:  13986
+			Avg # of influencers per vertex:  27
+			Highest # of influencers observed:  27, num vertices with this:  518
+			exported as 8 influencers
+			num skeletonWeights and skeletonIndices:  4144
+	processing begun of mesh:  mustache
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  51
+		num normals        :  51
+		num tangents       :  0
+		num uvs            :  102
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  60
+		Skeleton stats:  
+			Total Influencers:  383
+			Avg # of influencers per vertex:  7.5098
+			Highest # of influencers observed:  8, num vertices with this:  33
+			exported as 8 influencers
+			num skeletonWeights and skeletonIndices:  408
+	processing begun of mesh:  goatee
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  183
+		num normals        :  183
+		num tangents       :  0
+		num uvs            :  366
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  192
+		Skeleton stats:  
+			Total Influencers:  1188
+			Avg # of influencers per vertex:  6.4918
+			Highest # of influencers observed:  8, num vertices with this:  75
+			exported as 8 influencers
+			num skeletonWeights and skeletonIndices:  1464
+	processing begun of mesh:  blowpipe
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  161
+		num normals        :  161
+		num tangents       :  0
+		num uvs            :  322
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  204
+		Skeleton stats:  
+			Total Influencers:  966
+			Avg # of influencers per vertex:  6
+			Highest # of influencers observed:  6, num vertices with this:  161
+			exported as 6 influencers
+			num skeletonWeights and skeletonIndices:  1288
+	processing begun of mesh:  beardp1
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  334
+		num normals        :  334
+		num tangents       :  0
+		num uvs            :  668
+		num uvs2           :  0
+		num colors         :  1336
+		num indices        :  342
+		Skeleton stats:  
+			Total Influencers:  1670
+			Avg # of influencers per vertex:  5
+			Highest # of influencers observed:  5, num vertices with this:  334
+			exported as 5 influencers
+			num skeletonWeights and skeletonIndices:  2672
+	processing begun of mesh:  hairp1
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  397
+		num normals        :  397
+		num tangents       :  0
+		num uvs            :  794
+		num uvs2           :  0
+		num colors         :  1588
+		num indices        :  408
+		Skeleton stats:  
+			Total Influencers:  629
+			Avg # of influencers per vertex:  1.5844
+			Highest # of influencers observed:  3, num vertices with this:  10
+			exported as 3 influencers
+			num skeletonWeights and skeletonIndices:  1588
+	processing begun of mesh:  mustachep1
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  114
+		num normals        :  114
+		num tangents       :  0
+		num uvs            :  228
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  120
+		Skeleton stats:  
+			Total Influencers:  835
+			Avg # of influencers per vertex:  7.3246
+			Highest # of influencers observed:  8, num vertices with this:  56
+			exported as 8 influencers
+			num skeletonWeights and skeletonIndices:  912
+	processing begun of mesh:  hairp2
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  676
+		num normals        :  676
+		num tangents       :  0
+		num uvs            :  1352
+		num uvs2           :  0
+		num colors         :  2704
+		num indices        :  684
+		Skeleton stats:  
+			WARNING: Maximum # of influencers exceeded for 556 vertices, extras ignored
+			Total Influencers:  15132
+			Avg # of influencers per vertex:  22.3846
+			Highest # of influencers observed:  27, num vertices with this:  556
+			exported as 8 influencers
+			num skeletonWeights and skeletonIndices:  5408
+	processing begun of mesh:  bearhelmet
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  573
+		num normals        :  573
+		num tangents       :  0
+		num uvs            :  1146
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  588
+		Skeleton stats:  
+			Total Influencers:  573
+			Avg # of influencers per vertex:  1
+			Highest # of influencers observed:  1, num vertices with this:  573
+			exported as 1 influencers
+			num skeletonWeights and skeletonIndices:  2292
+========= Writing of JSON file started =========
+	writing mesh:  player
+	writing mesh:  body
+	writing mesh:  legs
+	writing mesh:  helmet
+	writing mesh:  sword
+	writing mesh:  backpack
+	writing mesh:  spear
+	writing mesh:  pickaxe
+	writing mesh:  hatchet
+	writing mesh:  mace
+	writing mesh:  fishingrod
+	writing mesh:  axe
+	writing mesh:  hammer
+	writing mesh:  maul
+	writing mesh:  stick
+	writing mesh:  bluntrock
+	writing mesh:  knife
+	writing mesh:  sharprock
+	writing mesh:  flint
+	writing mesh:  shield
+	writing mesh:  quiver
+	writing mesh:  bow
+	writing mesh:  loincloth
+	writing mesh:  hairm1
+	writing mesh:  beard
+	writing mesh:  cape
+	writing mesh:  hood
+	writing mesh:  crown
+	writing mesh:  crossbow
+	writing mesh:  gem
+	writing mesh:  necklace
+	writing mesh:  playerfemale
+	writing mesh:  chestwrap
+	writing mesh:  hairf1
+	writing mesh:  bodyfemale
+	writing mesh:  hairm2
+	writing mesh:  hairf2
+	writing mesh:  mustache
+	writing mesh:  goatee
+	writing mesh:  blowpipe
+	writing mesh:  beardp1
+	writing mesh:  hairp1
+	writing mesh:  mustachep1
+	writing mesh:  hairp2
+	writing mesh:  bearhelmet
+========= Writing of JSON file completed =========
+========= end of processing =========
+elapsed time:  0 min, 10.6244 secs
