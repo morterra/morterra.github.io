@@ -12,7 +12,7 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		Texture directory   :  D:\Desktop\morterra.github.io\dev\Textured\
 	Python World class constructor completed
 	WARNING: No active camera has been assigned, or is not in a currently selected Blender layer
-	processing begun of skeleton:  Armature, id:  0
+	processing begun of skeleton:  skeleton-cow, id:  0
 		processing begun of bone:  Root, index:  0
 		processing begun of bone:  bone.foot.front.l.001 ik, index:  1
 		processing begun of bone:  left front foot, index:  2
@@ -39,7 +39,7 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		processing begun of bone:  bone.leg.back.r, index:  23
 		processing begun of bone:  bone.foot.back.r, index:  24
 		processing action ArmatureAction.001:  in[0 - 1050], out[0 - 1050]
-	processing begun of mesh:  Plane
+	processing begun of mesh:  cow
 		processing begun of material:  Texture Sheet
 			processing texture Texturesheet
 				texture type:  diffuseTexture, mapped using: "UVMap"
@@ -57,7 +57,7 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 			exported as 7 influencers
 			num skeletonWeights and skeletonIndices:  11168
 ========= Writing of JSON file started =========
-	writing mesh:  Plane
+	writing mesh:  cow
 ========= Writing of JSON file completed =========
 ========= end of processing =========
-elapsed time:  0 min, 2.347 secs
+elapsed time:  0 min, 2.4111 secs

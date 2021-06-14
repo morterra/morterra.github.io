@@ -12,7 +12,7 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		Texture directory   :  D:\Desktop\morterra.github.io\dev\Textured\
 	Python World class constructor completed
 	WARNING: No active camera has been assigned, or is not in a currently selected Blender layer
-	processing begun of skeleton:  Armature, id:  0
+	processing begun of skeleton:  skeleton-chicken, id:  0
 		processing begun of bone:  Bone, index:  0
 		processing begun of bone:  Bone.001, index:  1
 		processing begun of bone:  Bone.002, index:  2
@@ -36,23 +36,23 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		processing begun of material:  Texture Sheet
 			processing texture Texturesheet
 				texture type:  diffuseTexture, mapped using: "UVMap"
-		num positions      :  1612
-		num normals        :  1612
+		num positions      :  1606
+		num normals        :  1606
 		num tangents       :  0
-		num uvs            :  3224
+		num uvs            :  3212
 		num uvs2           :  0
 		num colors         :  0
 		num indices        :  1938
 		Skeleton stats:  
-			Total Influencers:  3393
-			Avg # of influencers per vertex:  2.1048
+			Total Influencers:  3383
+			Avg # of influencers per vertex:  2.1065
 			Highest # of influencers observed:  5, num vertices with this:  11
 			exported as 5 influencers
-			num skeletonWeights and skeletonIndices:  12896
+			num skeletonWeights and skeletonIndices:  12848
 		WARNING: # of 0 area faces found:  173
 		Shape Keys:
 ========= Writing of JSON file started =========
 	writing mesh:  Plane
 ========= Writing of JSON file completed =========
 ========= end of processing =========
-elapsed time:  0 min, 0.3201 secs
+elapsed time:  0 min, 0.3311 secs

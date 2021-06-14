@@ -3,7 +3,7 @@
 "materials":[{"name":"Texture Sheet","id":"Texture Sheet","customType":"BABYLON.PBRMaterial","backFaceCulling":true,"checkReadyOnlyOnce":false,"maxSimultaneousLights":4,"environmentIntensity":1,"reflectivity":[0,0,0],"roughness":1,"alpha":1,"transparencyMode":0,"alphaCutOff":0.4,"metallic":0, 
 "albedoTexture":{"name":"Texturesheet.png","level":1,"hasAlpha":true,"coordinatesMode":0,"uOffset":0,"vOffset":0,"uScale":1,"vScale":1,"uAng":0,"vAng":0,"wAng":0,"wrapU":1,"wrapV":1,"coordinatesIndex":0},"useAlphaFromAlbedoTexture":true}],
 "multiMaterials":[],
-"skeletons":[{"name":"Armature","id":0,"dimensionsAtRest":[0.575,3.4756,6.1598],"bones":[
+"skeletons":[{"name":"skeleton-cow","id":0,"dimensionsAtRest":[0.575,3.4756,6.1598],"bones":[
 {"name":"Root","index":0,"matrix":[-1,0,0,0,0,0,-1,0,0,1,0,0,0.0026,-0.1732,1.3154,1],"rest":[-1,0,0,0,0,0,-1,0,0,1,0,0,0.0026,-0.1732,1.3154,1],"parentBoneIndex":-1,"length":0.805
 ,"animation":{"dataType":3,"framePerSecond":60,"keys":[
 {"frame":0,"values":[-1,0,0,0,0,0,-1,0,0,1,0,0,0.0026,-0.1732,1.3154,1]},
@@ -3078,7 +3078,7 @@
 {"frame":1049,"values":[0,0,-1,0,0.931,0.3651,0,0,0.3651,-0.931,0,0,0,1.2679,0,1]},
 {"frame":1050,"values":[0,0,-1,0,0.9282,0.3722,0,0,0.3722,-0.9282,0,0,0,1.2679,0,1]}],"loopBehavior":1,"name":"anim","property":"_matrix"}}]
 ,"ranges":[{"name":"ArmatureAction.001","from":0,"to":1050}]}],
-"meshes":[{"name":"Plane","id":"Plane","materialId":"Texture Sheet","billboardMode":0,"position":[-0.741,-0.375,0.8719],"rotation":[0,0,0],"scaling":[1,1,1],"isVisible":true,"freezeWorldMatrix":false,"isEnabled":true,"checkCollisions":false,"receiveShadows":false,"pickable":true,"tags":"","skeletonId":0,"numBoneInfluencers":7
+"meshes":[{"name":"cow","id":"cow","materialId":"Texture Sheet","billboardMode":0,"position":[-0.741,-0.375,0.8719],"rotation":[0,0,0],"scaling":[1,1,1],"isVisible":true,"freezeWorldMatrix":false,"isEnabled":true,"checkCollisions":false,"receiveShadows":false,"pickable":true,"tags":"","skeletonId":0,"numBoneInfluencers":7
 ,"positions":[0.0762,2.152,-1.7557,0.1145,2.1916,-2.0644,0.1145,2.4182,-1.8199,-0.2286,1.6108,-2.2786,-0.3166,1.5939,-2.2672,-0.1779,1.3306,-2.189,0.9725,2.2959,-0.3806,0.6243,1.3813,-0.4864,0.6243,1.2381,-0.144,0.9386,2.383,0.9343,0.3997,1.0208,1.2806,0.9386,2.3598,1.3135,0.9386,2.5858,1.9034,0.5756,1.7564,2.5172,0.9386,2.6681,2.1349,0.5756,1.7564,2.5172,0.7931,2.7592,2.7301
 ,0.9386,2.6681,2.1349,0.7931,2.7592,2.7301,0.2601,3.3665,3.243,0.2601,3.5094,3.0721,0.9725,2.2959,-0.3806,0.4963,2.6022,-1.3222,0.9386,2.0681,-0.5129,0.4963,2.6022,-1.3222,0.7448,1.8667,-0.995,0.9386,2.0681,-0.5129,0.3845,2.1504,-1.759,0.4999,1.6892,-1.4207,0.7448,1.8667,-0.995,0.3845,2.1504,-1.759,0.2382,2.1846,-2.0701,0.1968,1.9,-2.0033,0.3686,1.1099,-1.8391
 ,0.2393,0.828,-1.6943,0.4573,0.8307,-1.3983,0.4573,0.8307,-1.3983,0.2393,0.4584,-1.3973,0.2672,0.4647,-1.2793,0.1145,2.1916,-2.0644,0.1968,1.9,-2.0033,0.2382,2.1846,-2.0701,0.1053,1.9235,3.1275,0.2601,3.3665,3.243,0.5756,1.8488,3.1375,0.4466,1.4438,-1.8542,0.502,1.2912,-1.7481,0.5562,1.2758,-1.5199,0.5756,1.7564,2.5172,0.1053,1.9235,3.1275,0.0448,1.8341,2.5089

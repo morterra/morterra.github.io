@@ -12,7 +12,7 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		Texture directory   :  D:\Desktop\morterra.github.io\dev\Textured\
 	Python World class constructor completed
 	WARNING: No active camera has been assigned, or is not in a currently selected Blender layer
-	processing begun of skeleton:  Armature, id:  0
+	processing begun of skeleton:  skeleton-player, id:  0
 		processing begun of bone:  Pole Target.L, index:  0
 		processing begun of bone:  Pole Target.R, index:  1
 		processing begun of bone:  Ankle_L.001, index:  2
@@ -825,4 +825,4 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 	writing mesh:  bearhelmet
 ========= Writing of JSON file completed =========
 ========= end of processing =========
-elapsed time:  0 min, 10.6244 secs
+elapsed time:  0 min, 11.2231 secs

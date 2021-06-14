@@ -12,7 +12,7 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		Texture directory   :  D:\Desktop\morterra.github.io\dev\Textured\
 	Python World class constructor completed
 	WARNING: No active camera has been assigned, or is not in a currently selected Blender layer
-	processing begun of skeleton:  Armature, id:  0
+	processing begun of skeleton:  skeleton-pig, id:  0
 		processing begun of bone:  Root, index:  0
 		processing begun of bone:  bone.foot.front.l.001 ik, index:  1
 		processing begun of bone:  left front foot, index:  2
@@ -39,25 +39,25 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		processing begun of bone:  bone.leg.back.r, index:  23
 		processing begun of bone:  bone.foot.back.r, index:  24
 		processing action ArmatureAction:  in[0 - 90], out[0 - 90]
-	processing begun of mesh:  Mesh
+	processing begun of mesh:  pig
 		processing begun of material:  Texture Sheet
 			processing texture Texturesheet
 				texture type:  diffuseTexture, mapped using: "UVMap"
-		num positions      :  919
-		num normals        :  919
+		num positions      :  928
+		num normals        :  928
 		num tangents       :  0
-		num uvs            :  1838
+		num uvs            :  1856
 		num uvs2           :  0
 		num colors         :  0
 		num indices        :  948
 		Skeleton stats:  
-			Total Influencers:  2571
-			Avg # of influencers per vertex:  2.7976
-			Highest # of influencers observed:  8, num vertices with this:  6
+			Total Influencers:  2595
+			Avg # of influencers per vertex:  2.7963
+			Highest # of influencers observed:  8, num vertices with this:  7
 			exported as 8 influencers
-			num skeletonWeights and skeletonIndices:  7352
+			num skeletonWeights and skeletonIndices:  7424
 ========= Writing of JSON file started =========
-	writing mesh:  Mesh
+	writing mesh:  pig
 ========= Writing of JSON file completed =========
 ========= end of processing =========
-elapsed time:  0 min, 0.4241 secs
+elapsed time:  0 min, 0.4006 secs

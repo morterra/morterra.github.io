@@ -11,7 +11,7 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		Keep Z-up r-handed  :  no
 		Texture directory   :  D:\Desktop\morterra.github.io\dev\Textured\
 	Python World class constructor completed
-	processing begun of skeleton:  flag, id:  0
+	processing begun of skeleton:  skeleton-flag, id:  0
 		processing begun of bone:  Bone, index:  0
 		processing begun of bone:  Bone.001, index:  1
 		processing begun of bone:  Bone.002, index:  2
@@ -698,7 +698,7 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		num colors         :  0
 		num indices        :  348
 		WARNING: # of 0 area faces found:  4
-	processing begun of mesh:  Cube
+	processing begun of mesh:  flag
 		processing begun of material:  Texture Sheet
 		registered as also a user of material:  Texture Sheet
 		num positions      :  125
@@ -1077,7 +1077,7 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 	writing mesh:  door-wood
 	writing mesh:  workbench-oak
 	writing mesh:  workbench-maple
-	writing mesh:  Cube
+	writing mesh:  flag
 	writing mesh:  potato
 	writing mesh:  potato-grown
 	writing mesh:  sleepingbag
@@ -1104,4 +1104,4 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 	writing mesh:  bamboo-full
 ========= Writing of JSON file completed =========
 ========= end of processing =========
-elapsed time:  0 min, 2.8467 secs
+elapsed time:  0 min, 2.8321 secs

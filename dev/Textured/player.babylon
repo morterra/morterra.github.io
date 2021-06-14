@@ -3,7 +3,7 @@
 "materials":[{"name":"Texture Sheet","id":"Texture Sheet","customType":"BABYLON.PBRMaterial","backFaceCulling":true,"checkReadyOnlyOnce":false,"maxSimultaneousLights":4,"environmentIntensity":1,"reflectivity":[0,0,0],"roughness":1,"alpha":1,"transparencyMode":0,"alphaCutOff":0.4,"metallic":0, 
 "albedoTexture":{"name":"Texturesheet.png","level":1,"hasAlpha":true,"coordinatesMode":0,"uOffset":0,"vOffset":0,"uScale":1,"vScale":1,"uAng":0,"vAng":0,"wAng":0,"wrapU":1,"wrapV":1,"coordinatesIndex":0},"useAlphaFromAlbedoTexture":true}],
 "multiMaterials":[],
-"skeletons":[{"name":"Armature","id":0,"dimensionsAtRest":[2.7814,3.4862,2.3628],"bones":[
+"skeletons":[{"name":"skeleton-player","id":0,"dimensionsAtRest":[2.7814,3.4862,2.3628],"bones":[
 {"name":"Pole Target.L","index":0,"matrix":[-0.0109,0,0,0,0,0,-1,0,0,1,0,0,0.2557,0.6267,-1.3087,1],"rest":[-1,0,0,0,0,0,-1,0,0,1,0,0,0.2557,0.6267,-1.3087,1],"parentBoneIndex":-1,"length":0.3617
 ,"animation":{"dataType":3,"framePerSecond":60,"keys":[
 {"frame":0,"values":[-0.0109,0,0,0,0,0,-1,0,0,1,0,0,0.2557,0.6267,-1.3087,1]},

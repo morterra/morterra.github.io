@@ -3,7 +3,7 @@
 "materials":[{"name":"Texture Sheet","id":"Texture Sheet","customType":"BABYLON.PBRMaterial","backFaceCulling":true,"checkReadyOnlyOnce":false,"maxSimultaneousLights":4,"environmentIntensity":1,"reflectivity":[0,0,0],"roughness":1,"alpha":1,"transparencyMode":0,"alphaCutOff":0.4,"metallic":0, 
 "albedoTexture":{"name":"Texturesheet.png","level":1,"hasAlpha":true,"coordinatesMode":0,"uOffset":0,"vOffset":0,"uScale":1,"vScale":1,"uAng":0,"vAng":0,"wAng":0,"wrapU":1,"wrapV":1,"coordinatesIndex":0},"useAlphaFromAlbedoTexture":true}],
 "multiMaterials":[],
-"skeletons":[{"name":"Armature.001","id":0,"dimensionsAtRest":[0.535,4.3253,4.9422],"bones":[
+"skeletons":[{"name":"skeleton-horse","id":0,"dimensionsAtRest":[0.535,4.3253,4.9422],"bones":[
 {"name":"Root","index":0,"matrix":[-1,0,0,0,0,0,-1,0,0,1,0,0,-0.0161,-0.3325,1.0379,1],"rest":[-1,0,0,0,0,0,-1,0,0,1,0,0,-0.0161,-0.3325,1.0379,1],"parentBoneIndex":-1,"length":0.805
 ,"animation":{"dataType":3,"framePerSecond":60,"keys":[
 {"frame":0,"values":[-1,0,0,0,0,0,-1,0,0,1,0,0,-0.0161,-0.3325,1.0379,1]},
@@ -1301,7 +1301,7 @@
 {"frame":129,"values":[1,0,0,0,0,0.9835,-0.1811,0,0,0.1811,0.9835,0,0,0.6431,0,1]},
 {"frame":130,"values":[1,0,0,0,0,0.9835,-0.1811,0,0,0.1811,0.9835,0,0,0.643,0,1]}],"loopBehavior":1,"name":"anim","property":"_matrix"}}]
 ,"ranges":[{"name":"Armature.001Action.001","from":0,"to":130}]}],
-"meshes":[{"name":"Plane","id":"Plane","materialId":"Texture Sheet","billboardMode":0,"position":[0,0,0],"rotation":[0,0,0],"scaling":[1,1,1],"isVisible":true,"freezeWorldMatrix":false,"isEnabled":true,"checkCollisions":false,"receiveShadows":false,"pickable":true,"tags":""
+"meshes":[{"name":"horse","id":"horse","materialId":"Texture Sheet","billboardMode":0,"position":[0,0,0],"rotation":[0,0,0],"scaling":[1,1,1],"isVisible":true,"freezeWorldMatrix":false,"isEnabled":true,"checkCollisions":false,"receiveShadows":false,"pickable":true,"tags":""
 ,"positions":[0.0986,3.7147,-2.1195,0.0628,3.0278,-2.231,0.1635,3.5209,-2.0386,0,2.8744,2.5927,0.1378,2.3589,2.6329,0.2204,2.8618,2.6034,0.0636,2.9305,2.8149,0.0633,2.3206,2.8711,-0.0673,2.3181,2.8708,-0.0005,3.388,0.1638,0.1114,3.4013,0.1346,0.1449,3.3458,0.2018,0,2.0072,2.4917,-0.0005,1.3925,2.6886,0.1333,2.0072,2.4917,0,3.7119,-2.1206,0.0628,3.0278,-2.231
 ,0.0986,3.7147,-2.1195,0.2008,2.4785,-0.9397,0.4717,2.7357,-0.2659,0.3474,2.9704,-0.5169,0.3766,3.0904,0.8294,0.5307,2.566,0.5264,0.5262,2.6342,1.0312,0.149,1.5412,-0.1889,0.3747,1.9526,0.2854,0.4307,1.5337,-0.1958,0.1725,-0.0578,-0.404,0.0664,0.1239,-0.5438,0.1858,0.1085,-0.3309,0.2143,1.1749,2.1207,0.0013,1.8975,2.1596,0.1385,1.2065,2.3135,0.1762,3.944,-1.78
 ,0.1715,3.9136,-1.6119,0.1447,3.942,-1.795,0.3661,-0.0154,1.9413,0.3675,-0.0617,1.9658,0.4183,-0.0684,2.0562,0.2007,3.206,0.0276,0.1449,3.3458,0.2018,0.1114,3.4013,0.1346,0.2025,3.2798,0.2665,0.2437,3.1502,0.1845,0.2886,3.0987,0.3426,0.0507,3.1126,2.5527,0.0173,3.1155,2.6947,0.0227,3.1687,2.4056,0.1114,3.5241,-0.2003,0.2007,3.206,0.0276,0.1114,3.4013,0.1346
@@ -1672,7 +1672,7 @@
 ,2030,2031,2032,2033,2034,2035,2036,2037,2038,2039,2040,2041,2042,2043,2044,2045,2046,2047,2048,2049,2050,2051,2052,2053,2054,2055,2056,2057,2058,2059]
 ,"subMeshes":[{"materialIndex":0,"verticesStart":0,"verticesCount":2060,"indexStart":0,"indexCount":2070}]
 ,"instances":[]}
-,{"name":"Saddle","id":"Saddle","materialId":"Texture Sheet","billboardMode":0,"position":[0,0,0],"rotation":[0,0,0],"scaling":[1,1,1],"isVisible":true,"freezeWorldMatrix":false,"isEnabled":true,"checkCollisions":false,"receiveShadows":false,"pickable":true,"tags":"","skeletonId":0,"numBoneInfluencers":3
+,{"name":"saddle","id":"saddle","materialId":"Texture Sheet","billboardMode":0,"position":[0,0,0],"rotation":[0,0,0],"scaling":[1,1,1],"isVisible":true,"freezeWorldMatrix":false,"isEnabled":true,"checkCollisions":false,"receiveShadows":false,"pickable":true,"tags":"","skeletonId":0,"numBoneInfluencers":3
 ,"positions":[-0.4959,3.1562,1.0985,-0.4375,3.5721,1.6166,-0.4896,3.3364,1.8498,-0.4896,3.3364,1.8498,0.4469,3.5734,1.6158,0.5222,3.3363,1.8498,0.4469,3.5734,1.6158,0.5113,3.1562,1.0985,0.5222,3.3363,1.8498,0.3516,3.3792,1.0432,-0.2414,3.3459,0.423,0.2698,3.3459,0.423,-0.4896,3.3364,1.8498,0.5558,2.9726,1.6627,-0.5274,2.9687,1.6625,0.4469,3.5734,1.6158,-0.3231,3.3792,1.0432
 ,0.3516,3.3792,1.0432,0.2698,3.3459,0.423,-0.0779,3.566,-0.0289,0.1064,3.5656,-0.0292,0.3516,3.3792,1.0432,0.4221,3.123,0.4782,0.5113,3.1562,1.0985,-0.3231,3.3792,1.0432,-0.3936,3.123,0.4782,-0.2414,3.3459,0.423,0.4221,3.123,0.4782,0.4276,2.8925,0.1773,0.5457,2.6974,0.5276,0.1064,3.5656,-0.0292,-0.2323,3.1876,-0.0178,0.2607,3.1882,-0.0176,0.2698,3.3459,0.423
 ,0.2607,3.1882,-0.0176,0.4221,3.123,0.4782,-0.4959,3.1562,1.0985,-0.5173,2.6979,0.5265,-0.3936,3.123,0.4782,-0.2414,3.3459,0.423,-0.2323,3.1876,-0.0178,-0.0779,3.566,-0.0289,-0.5274,2.9687,1.6625,0.5983,2.7307,1.1478,-0.5698,2.7307,1.1478,-0.5698,2.7307,1.1478,0.5457,2.6974,0.5276,-0.5173,2.6979,0.5265,-0.5173,2.6979,0.5265,0.4276,2.8925,0.1773,-0.3992,2.8925,0.1773
