@@ -80,7 +80,7 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		processing action axeAction:  in[1 - 785], out[4420 - 5205]
 		processing action sword.001Action:  in[1 - 785], out[5210 - 5995]
 		processing action swordAction:  in[1 - 785], out[6000 - 6785]
-	processing begun of skeleton:  bear, id:  2
+	processing begun of skeleton:  skeleton-bear, id:  2
 		processing begun of bone:  Root, index:  0
 		processing begun of bone:  bone.back.rear, index:  1
 		processing begun of bone:  bone.back.mid, index:  2
@@ -248,7 +248,7 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		processing action sword.001Action:  in[1 - 785], out[5210 - 5995]
 		processing action swordAction:  in[1 - 785], out[6000 - 6785]
 	processing begun of mesh:  Plane.004
-		processing begun of material:  Texture Sheet.001
+		processing begun of material:  Texture Sheet
 			processing texture Texturesheet
 				texture type:  diffuseTexture, mapped using: "UVMap"
 		num positions      :  1600
@@ -266,10 +266,9 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 			num skeletonWeights and skeletonIndices:  12800
 		WARNING: # of 0 area faces found:  173
 		Shape Keys:
-	processing begun of mesh:  axe.001
-		processing begun of material:  Texture Sheet.002
-			processing texture Texturesheet
-				texture type:  diffuseTexture, mapped using: "UVMap"
+	processing begun of mesh:  axe
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
 		num positions      :  225
 		num normals        :  225
 		num tangents       :  0
@@ -284,8 +283,8 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 			exported as 7 influencers
 			num skeletonWeights and skeletonIndices:  1800
 	processing begun of mesh:  backpack
-		processing begun of material:  Texture Sheet.002
-		registered as also a user of material:  Texture Sheet.002
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
 		num positions      :  97
 		num normals        :  97
 		num tangents       :  0
@@ -300,8 +299,8 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 			exported as 5 influencers
 			num skeletonWeights and skeletonIndices:  776
 	processing begun of mesh:  beard
-		processing begun of material:  Texture Sheet.002
-		registered as also a user of material:  Texture Sheet.002
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
 		num positions      :  261
 		num normals        :  261
 		num tangents       :  0
@@ -316,8 +315,8 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 			exported as 5 influencers
 			num skeletonWeights and skeletonIndices:  2088
 	processing begun of mesh:  beardp1
-		processing begun of material:  Texture Sheet.002
-		registered as also a user of material:  Texture Sheet.002
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
 		num positions      :  334
 		num normals        :  334
 		num tangents       :  0
@@ -332,8 +331,8 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 			exported as 5 influencers
 			num skeletonWeights and skeletonIndices:  2672
 	processing begun of mesh:  bearhelmet
-		processing begun of material:  Texture Sheet.002
-		registered as also a user of material:  Texture Sheet.002
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
 		num positions      :  573
 		num normals        :  573
 		num tangents       :  0
@@ -348,8 +347,8 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 			exported as 1 influencers
 			num skeletonWeights and skeletonIndices:  2292
 	processing begun of mesh:  blowpipe
-		processing begun of material:  Texture Sheet.002
-		registered as also a user of material:  Texture Sheet.002
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
 		num positions      :  159
 		num normals        :  159
 		num tangents       :  0
@@ -364,8 +363,8 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 			exported as 6 influencers
 			num skeletonWeights and skeletonIndices:  1272
 	processing begun of mesh:  bluntrock
-		processing begun of material:  Texture Sheet.002
-		registered as also a user of material:  Texture Sheet.002
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
 		num positions      :  60
 		num normals        :  60
 		num tangents       :  0
@@ -379,9 +378,9 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 			Highest # of influencers observed:  6, num vertices with this:  60
 			exported as 6 influencers
 			num skeletonWeights and skeletonIndices:  480
-	processing begun of mesh:  body.001
-		processing begun of material:  Texture Sheet.002
-		registered as also a user of material:  Texture Sheet.002
+	processing begun of mesh:  body
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
 		num positions      :  1605
 		num normals        :  1605
 		num tangents       :  0
@@ -396,8 +395,8 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 			exported as 6 influencers
 			num skeletonWeights and skeletonIndices:  12840
 	processing begun of mesh:  bodyfemale
-		processing begun of material:  Texture Sheet.002
-		registered as also a user of material:  Texture Sheet.002
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
 		num positions      :  1605
 		num normals        :  1605
 		num tangents       :  0
@@ -413,8 +412,8 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 			exported as 8 influencers
 			num skeletonWeights and skeletonIndices:  12840
 	processing begun of mesh:  bow
-		processing begun of material:  Texture Sheet.002
-		registered as also a user of material:  Texture Sheet.002
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
 		num positions      :  118
 		num normals        :  118
 		num tangents       :  0
@@ -430,8 +429,8 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 			exported as 8 influencers
 			num skeletonWeights and skeletonIndices:  944
 	processing begun of mesh:  cape
-		processing begun of material:  Texture Sheet.002
-		registered as also a user of material:  Texture Sheet.002
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
 		num positions      :  180
 		num normals        :  180
 		num tangents       :  0
@@ -446,8 +445,8 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 			exported as 7 influencers
 			num skeletonWeights and skeletonIndices:  1440
 	processing begun of mesh:  chestwrap
-		processing begun of material:  Texture Sheet.002
-		registered as also a user of material:  Texture Sheet.002
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
 		num positions      :  212
 		num normals        :  212
 		num tangents       :  0
@@ -463,8 +462,8 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 			exported as 8 influencers
 			num skeletonWeights and skeletonIndices:  1696
 	processing begun of mesh:  crossbow
-		processing begun of material:  Texture Sheet.002
-		registered as also a user of material:  Texture Sheet.002
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
 		num positions      :  138
 		num normals        :  138
 		num tangents       :  0
@@ -480,8 +479,8 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 			exported as 8 influencers
 			num skeletonWeights and skeletonIndices:  1104
 	processing begun of mesh:  crown
-		processing begun of material:  Texture Sheet.002
-		registered as also a user of material:  Texture Sheet.002
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
 		num positions      :  292
 		num normals        :  292
 		num tangents       :  0
@@ -497,8 +496,8 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 			exported as 8 influencers
 			num skeletonWeights and skeletonIndices:  2336
 	processing begun of mesh:  fishingrod
-		processing begun of material:  Texture Sheet.002
-		registered as also a user of material:  Texture Sheet.002
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
 		num positions      :  115
 		num normals        :  115
 		num tangents       :  0
@@ -513,8 +512,8 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 			exported as 7 influencers
 			num skeletonWeights and skeletonIndices:  920
 	processing begun of mesh:  flint
-		processing begun of material:  Texture Sheet.002
-		registered as also a user of material:  Texture Sheet.002
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
 		num positions      :  38
 		num normals        :  38
 		num tangents       :  0
@@ -529,8 +528,8 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 			exported as 5 influencers
 			num skeletonWeights and skeletonIndices:  304
 	processing begun of mesh:  gem
-		processing begun of material:  Texture Sheet.002
-		registered as also a user of material:  Texture Sheet.002
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
 		num positions      :  60
 		num normals        :  60
 		num tangents       :  0
@@ -545,8 +544,8 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 			exported as 8 influencers
 			num skeletonWeights and skeletonIndices:  480
 	processing begun of mesh:  goatee
-		processing begun of material:  Texture Sheet.002
-		registered as also a user of material:  Texture Sheet.002
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
 		num positions      :  183
 		num normals        :  183
 		num tangents       :  0
@@ -561,8 +560,8 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 			exported as 8 influencers
 			num skeletonWeights and skeletonIndices:  1464
 	processing begun of mesh:  hairf1
-		processing begun of material:  Texture Sheet.002
-		registered as also a user of material:  Texture Sheet.002
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
 		num positions      :  574
 		num normals        :  574
 		num tangents       :  0
@@ -578,8 +577,8 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 			exported as 8 influencers
 			num skeletonWeights and skeletonIndices:  4592
 	processing begun of mesh:  hairf2
-		processing begun of material:  Texture Sheet.002
-		registered as also a user of material:  Texture Sheet.002
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
 		num positions      :  518
 		num normals        :  518
 		num tangents       :  0
@@ -594,9 +593,9 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 			Highest # of influencers observed:  27, num vertices with this:  518
 			exported as 8 influencers
 			num skeletonWeights and skeletonIndices:  4144
-	processing begun of mesh:  hairm1.001
-		processing begun of material:  Texture Sheet.002
-		registered as also a user of material:  Texture Sheet.002
+	processing begun of mesh:  hairm1
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
 		num positions      :  392
 		num normals        :  392
 		num tangents       :  0
@@ -611,8 +610,8 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 			exported as 3 influencers
 			num skeletonWeights and skeletonIndices:  1568
 	processing begun of mesh:  hairm2
-		processing begun of material:  Texture Sheet.002
-		registered as also a user of material:  Texture Sheet.002
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
 		num positions      :  40
 		num normals        :  40
 		num tangents       :  0
@@ -628,8 +627,8 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 			exported as 8 influencers
 			num skeletonWeights and skeletonIndices:  320
 	processing begun of mesh:  hairp1
-		processing begun of material:  Texture Sheet.002
-		registered as also a user of material:  Texture Sheet.002
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
 		num positions      :  397
 		num normals        :  397
 		num tangents       :  0
@@ -644,8 +643,8 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 			exported as 3 influencers
 			num skeletonWeights and skeletonIndices:  1588
 	processing begun of mesh:  hairp2
-		processing begun of material:  Texture Sheet.002
-		registered as also a user of material:  Texture Sheet.002
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
 		num positions      :  676
 		num normals        :  676
 		num tangents       :  0
@@ -661,8 +660,8 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 			exported as 8 influencers
 			num skeletonWeights and skeletonIndices:  5408
 	processing begun of mesh:  hammer
-		processing begun of material:  Texture Sheet.002
-		registered as also a user of material:  Texture Sheet.002
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
 		num positions      :  99
 		num normals        :  99
 		num tangents       :  0
@@ -677,8 +676,8 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 			exported as 5 influencers
 			num skeletonWeights and skeletonIndices:  792
 	processing begun of mesh:  hatchet
-		processing begun of material:  Texture Sheet.002
-		registered as also a user of material:  Texture Sheet.002
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
 		num positions      :  158
 		num normals        :  158
 		num tangents       :  0
@@ -693,8 +692,8 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 			exported as 6 influencers
 			num skeletonWeights and skeletonIndices:  1264
 	processing begun of mesh:  helmet
-		processing begun of material:  Texture Sheet.002
-		registered as also a user of material:  Texture Sheet.002
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
 		num positions      :  490
 		num normals        :  490
 		num tangents       :  0
@@ -709,8 +708,8 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 			exported as 3 influencers
 			num skeletonWeights and skeletonIndices:  1960
 	processing begun of mesh:  hood
-		processing begun of material:  Texture Sheet.002
-		registered as also a user of material:  Texture Sheet.002
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
 		num positions      :  116
 		num normals        :  116
 		num tangents       :  0
@@ -726,8 +725,8 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 			exported as 8 influencers
 			num skeletonWeights and skeletonIndices:  928
 	processing begun of mesh:  knife
-		processing begun of material:  Texture Sheet.002
-		registered as also a user of material:  Texture Sheet.002
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
 		num positions      :  72
 		num normals        :  72
 		num tangents       :  0
@@ -742,8 +741,8 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 			exported as 4 influencers
 			num skeletonWeights and skeletonIndices:  288
 	processing begun of mesh:  legs
-		processing begun of material:  Texture Sheet.002
-		registered as also a user of material:  Texture Sheet.002
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
 		num positions      :  1577
 		num normals        :  1577
 		num tangents       :  0
@@ -758,8 +757,8 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 			exported as 6 influencers
 			num skeletonWeights and skeletonIndices:  12616
 	processing begun of mesh:  loincloth
-		processing begun of material:  Texture Sheet.002
-		registered as also a user of material:  Texture Sheet.002
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
 		num positions      :  128
 		num normals        :  128
 		num tangents       :  0
@@ -775,8 +774,8 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 			exported as 8 influencers
 			num skeletonWeights and skeletonIndices:  1024
 	processing begun of mesh:  mace
-		processing begun of material:  Texture Sheet.002
-		registered as also a user of material:  Texture Sheet.002
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
 		num positions      :  89
 		num normals        :  89
 		num tangents       :  0
@@ -791,8 +790,8 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 			exported as 6 influencers
 			num skeletonWeights and skeletonIndices:  712
 	processing begun of mesh:  maul
-		processing begun of material:  Texture Sheet.002
-		registered as also a user of material:  Texture Sheet.002
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
 		num positions      :  102
 		num normals        :  102
 		num tangents       :  0
@@ -806,9 +805,9 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 			Highest # of influencers observed:  7, num vertices with this:  87
 			exported as 7 influencers
 			num skeletonWeights and skeletonIndices:  816
-	processing begun of mesh:  mustache.001
-		processing begun of material:  Texture Sheet.002
-		registered as also a user of material:  Texture Sheet.002
+	processing begun of mesh:  mustache
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
 		num positions      :  51
 		num normals        :  51
 		num tangents       :  0
@@ -823,8 +822,8 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 			exported as 8 influencers
 			num skeletonWeights and skeletonIndices:  408
 	processing begun of mesh:  mustachep1
-		processing begun of material:  Texture Sheet.002
-		registered as also a user of material:  Texture Sheet.002
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
 		num positions      :  114
 		num normals        :  114
 		num tangents       :  0
@@ -839,8 +838,8 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 			exported as 8 influencers
 			num skeletonWeights and skeletonIndices:  912
 	processing begun of mesh:  necklace
-		processing begun of material:  Texture Sheet.002
-		registered as also a user of material:  Texture Sheet.002
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
 		num positions      :  331
 		num normals        :  331
 		num tangents       :  0
@@ -856,8 +855,8 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 			exported as 8 influencers
 			num skeletonWeights and skeletonIndices:  2648
 	processing begun of mesh:  pickaxe
-		processing begun of material:  Texture Sheet.002
-		registered as also a user of material:  Texture Sheet.002
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
 		num positions      :  166
 		num normals        :  166
 		num tangents       :  0
@@ -872,9 +871,9 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 			Highest # of influencers observed:  11, num vertices with this:  166
 			exported as 8 influencers
 			num skeletonWeights and skeletonIndices:  1328
-	processing begun of mesh:  player.003
-		processing begun of material:  Texture Sheet.002
-		registered as also a user of material:  Texture Sheet.002
+	processing begun of mesh:  player
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
 		num positions      :  2318
 		num normals        :  2318
 		num tangents       :  0
@@ -890,8 +889,8 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 			exported as 8 influencers
 			num skeletonWeights and skeletonIndices:  18544
 	processing begun of mesh:  playerfemale
-		processing begun of material:  Texture Sheet.002
-		registered as also a user of material:  Texture Sheet.002
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
 		num positions      :  2352
 		num normals        :  2352
 		num tangents       :  0
@@ -906,8 +905,8 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 			exported as 6 influencers
 			num skeletonWeights and skeletonIndices:  18816
 	processing begun of mesh:  quiver
-		processing begun of material:  Texture Sheet.002
-		registered as also a user of material:  Texture Sheet.002
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
 		num positions      :  42
 		num normals        :  42
 		num tangents       :  0
@@ -923,8 +922,8 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 			exported as 8 influencers
 			num skeletonWeights and skeletonIndices:  336
 	processing begun of mesh:  sharprock
-		processing begun of material:  Texture Sheet.002
-		registered as also a user of material:  Texture Sheet.002
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
 		num positions      :  44
 		num normals        :  44
 		num tangents       :  0
@@ -939,8 +938,8 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 			exported as 5 influencers
 			num skeletonWeights and skeletonIndices:  352
 	processing begun of mesh:  shield
-		processing begun of material:  Texture Sheet.002
-		registered as also a user of material:  Texture Sheet.002
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
 		num positions      :  82
 		num normals        :  82
 		num tangents       :  0
@@ -954,9 +953,9 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 			Highest # of influencers observed:  4, num vertices with this:  39
 			exported as 4 influencers
 			num skeletonWeights and skeletonIndices:  328
-	processing begun of mesh:  spear.001
-		processing begun of material:  Texture Sheet.002
-		registered as also a user of material:  Texture Sheet.002
+	processing begun of mesh:  spear
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
 		num positions      :  35
 		num normals        :  35
 		num tangents       :  0
@@ -971,8 +970,8 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 			exported as 8 influencers
 			num skeletonWeights and skeletonIndices:  280
 	processing begun of mesh:  stick
-		processing begun of material:  Texture Sheet.002
-		registered as also a user of material:  Texture Sheet.002
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
 		num positions      :  173
 		num normals        :  173
 		num tangents       :  0
@@ -986,9 +985,9 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 			Highest # of influencers observed:  6, num vertices with this:  173
 			exported as 6 influencers
 			num skeletonWeights and skeletonIndices:  1384
-	processing begun of mesh:  sword.002
-		processing begun of material:  Texture Sheet.002
-		registered as also a user of material:  Texture Sheet.002
+	processing begun of mesh:  sword
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
 		num positions      :  148
 		num normals        :  148
 		num tangents       :  0
@@ -1002,10 +1001,9 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 			Highest # of influencers observed:  7, num vertices with this:  24
 			exported as 7 influencers
 			num skeletonWeights and skeletonIndices:  1184
-	processing begun of mesh:  Plane.010
-		processing begun of material:  Texture Sheet.003
-			processing texture Texturesheet
-				texture type:  diffuseTexture, mapped using: "UVMap"
+	processing begun of mesh:  bear
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
 		num positions      :  1857
 		num normals        :  1857
 		num tangents       :  0
@@ -1021,9 +1019,8 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 			exported as 8 influencers
 			num skeletonWeights and skeletonIndices:  14856
 	processing begun of mesh:  cow
-		processing begun of material:  Texture Sheet.004
-			processing texture Texturesheet
-				texture type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
 		num positions      :  1384
 		num normals        :  1384
 		num tangents       :  0
@@ -1038,9 +1035,8 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 			exported as 7 influencers
 			num skeletonWeights and skeletonIndices:  11072
 	processing begun of mesh:  horse
-		processing begun of material:  Texture Sheet.005
-			processing texture Texturesheet
-				texture type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
 		num positions      :  2040
 		num normals        :  2040
 		num tangents       :  0
@@ -1055,8 +1051,8 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 			exported as 6 influencers
 			num skeletonWeights and skeletonIndices:  16320
 	processing begun of mesh:  saddle
-		processing begun of material:  Texture Sheet.005
-		registered as also a user of material:  Texture Sheet.005
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
 		num positions      :  123
 		num normals        :  123
 		num tangents       :  0
@@ -1071,9 +1067,8 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 			exported as 3 influencers
 			num skeletonWeights and skeletonIndices:  492
 	processing begun of mesh:  pig
-		processing begun of material:  Texture Sheet.006
-			processing texture Texturesheet
-				texture type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
 		num positions      :  927
 		num normals        :  927
 		num tangents       :  0
@@ -1089,8 +1084,7 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 			num skeletonWeights and skeletonIndices:  7416
 	processing begun of mesh:  tree-maple-dark
 		processing begun of material:  Texture Sheet
-			processing texture Texturesheet
-				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Texture Sheet
 		num positions      :  487
 		num normals        :  487
 		num tangents       :  0
@@ -1800,6 +1794,16 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		num uvs2           :  0
 		num colors         :  0
 		num indices        :  180
+	processing begun of mesh:  sleepingbag-bear
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  241
+		num normals        :  241
+		num tangents       :  0
+		num uvs            :  482
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  246
 	processing begun of mesh:  sleepingbag
 		processing begun of material:  Texture Sheet
 		registered as also a user of material:  Texture Sheet
@@ -1840,16 +1844,181 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		num uvs2           :  0
 		num colors         :  0
 		num indices        :  120
+	processing begun of mesh:  pot-plant
+		processing begun of material:  Clay
+		processing begun of material:  Dirt
+		processing begun of multimaterial:  scene.Multimaterial#1
+		num positions      :  281
+		num normals        :  281
+		num tangents       :  0
+		num uvs            :  562
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  339
+	processing begun of mesh:  coffee-small
+		processing begun of material:  Clay
+		processing begun of material:  Dirt
+		processing begun of material:  OakLeaves
+		registered as also a user of material:  Clay
+		registered as also a user of material:  Dirt
+		processing begun of multimaterial:  scene.Multimaterial#2
+		num positions      :  18
+		num normals        :  18
+		num tangents       :  0
+		num uvs            :  36
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  18
+	processing begun of mesh:  coffee-medium
+		processing begun of material:  Clay
+		processing begun of material:  Dirt
+		processing begun of material:  OakLeaves
+		registered as also a user of material:  Clay
+		registered as also a user of material:  Dirt
+		registered as also a user of material:  OakLeaves
+		processing begun of multimaterial:  scene.Multimaterial#3
+		num positions      :  200
+		num normals        :  200
+		num tangents       :  0
+		num uvs            :  400
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  228
+	processing begun of mesh:  coffee
+		processing begun of material:  Clay
+		processing begun of material:  Dirt
+		processing begun of material:  OakLeaves
+		registered as also a user of material:  Clay
+		registered as also a user of material:  Dirt
+		registered as also a user of material:  OakLeaves
+		processing begun of multimaterial:  scene.Multimaterial#4
+		num positions      :  867
+		num normals        :  867
+		num tangents       :  0
+		num uvs            :  1734
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  990
+	processing begun of mesh:  coffee-full
+		processing begun of material:  Texture Sheet
+		processing begun of material:  Clay
+		processing begun of material:  Dirt
+		processing begun of material:  OakLeaves
+			processing texture Texturesheet
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Clay
+		registered as also a user of material:  Dirt
+		registered as also a user of material:  OakLeaves
+		processing begun of multimaterial:  scene.Multimaterial#5
+		num positions      :  2129
+		num normals        :  2129
+		num tangents       :  0
+		num uvs            :  4258
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2250
+	processing begun of mesh:  poison-small
+		processing begun of material:  OakDarkLeaves
+		num positions      :  24
+		num normals        :  24
+		num tangents       :  0
+		num uvs            :  48
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  24
+	processing begun of mesh:  poison-medium
+		processing begun of material:  Titanium
+		processing begun of material:  OakDarkLeaves
+		registered as also a user of material:  OakDarkLeaves
+		processing begun of multimaterial:  scene.Multimaterial#6
+		num positions      :  374
+		num normals        :  374
+		num tangents       :  0
+		num uvs            :  748
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  402
+	processing begun of mesh:  poison
+		processing begun of material:  Titanium
+		processing begun of material:  OakDarkLeaves
+		processing begun of material:  Corn
+		registered as also a user of material:  Titanium
+		registered as also a user of material:  OakDarkLeaves
+		processing begun of multimaterial:  scene.Multimaterial#7
+		num positions      :  417
+		num normals        :  417
+		num tangents       :  0
+		num uvs            :  834
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  462
+	processing begun of mesh:  poison-full
+		processing begun of material:  TungstenAlloy
+		processing begun of material:  Titanium
+		processing begun of material:  OakDarkLeaves
+		processing begun of material:  Corn
+		registered as also a user of material:  Titanium
+		registered as also a user of material:  OakDarkLeaves
+		processing begun of multimaterial:  scene.Multimaterial#8
+		num positions      :  660
+		num normals        :  660
+		num tangents       :  0
+		num uvs            :  1320
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  702
+	processing begun of mesh:  pot-tree
+		processing begun of material:  Clay
+		processing begun of material:  Dirt
+		registered as also a user of material:  Clay
+		registered as also a user of material:  Dirt
+		processing begun of multimaterial:  scene.Multimaterial#9
+		num positions      :  2334
+		num normals        :  2334
+		num tangents       :  0
+		num uvs            :  4668
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2628
+	processing begun of mesh:  bamboo-small
+		processing begun of material:  Bamboo
+		num positions      :  276
+		num normals        :  276
+		num tangents       :  0
+		num uvs            :  552
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  324
+	processing begun of mesh:  bamboo-medium
+		processing begun of material:  Bamboo
+		registered as also a user of material:  Bamboo
+		num positions      :  276
+		num normals        :  276
+		num tangents       :  0
+		num uvs            :  552
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  324
+	processing begun of mesh:  bamboo-full
+		processing begun of material:  Bamboo
+		registered as also a user of material:  Bamboo
+		num positions      :  578
+		num normals        :  578
+		num tangents       :  0
+		num uvs            :  1156
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  684
 ========= Writing of JSON file started =========
 	writing mesh:  Plane.004
-	writing mesh:  axe.001
+	writing mesh:  axe
 	writing mesh:  backpack
 	writing mesh:  beard
 	writing mesh:  beardp1
 	writing mesh:  bearhelmet
 	writing mesh:  blowpipe
 	writing mesh:  bluntrock
-	writing mesh:  body.001
+	writing mesh:  body
 	writing mesh:  bodyfemale
 	writing mesh:  bow
 	writing mesh:  cape
@@ -1862,7 +2031,7 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 	writing mesh:  goatee
 	writing mesh:  hairf1
 	writing mesh:  hairf2
-	writing mesh:  hairm1.001
+	writing mesh:  hairm1
 	writing mesh:  hairm2
 	writing mesh:  hairp1
 	writing mesh:  hairp2
@@ -1875,19 +2044,19 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 	writing mesh:  loincloth
 	writing mesh:  mace
 	writing mesh:  maul
-	writing mesh:  mustache.001
+	writing mesh:  mustache
 	writing mesh:  mustachep1
 	writing mesh:  necklace
 	writing mesh:  pickaxe
-	writing mesh:  player.003
+	writing mesh:  player
 	writing mesh:  playerfemale
 	writing mesh:  quiver
 	writing mesh:  sharprock
 	writing mesh:  shield
-	writing mesh:  spear.001
+	writing mesh:  spear
 	writing mesh:  stick
-	writing mesh:  sword.002
-	writing mesh:  Plane.010
+	writing mesh:  sword
+	writing mesh:  bear
 	writing mesh:  cow
 	writing mesh:  horse
 	writing mesh:  saddle
@@ -1962,10 +2131,24 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 	writing mesh:  flag
 	writing mesh:  potato
 	writing mesh:  potato-grown
+	writing mesh:  sleepingbag-bear
 	writing mesh:  sleepingbag
 	writing mesh:  chest-metal-lock
 	writing mesh:  chest-metal-locked
 	writing mesh:  chest-metal-unlocked
+	writing mesh:  pot-plant
+	writing mesh:  coffee-small
+	writing mesh:  coffee-medium
+	writing mesh:  coffee
+	writing mesh:  coffee-full
+	writing mesh:  poison-small
+	writing mesh:  poison-medium
+	writing mesh:  poison
+	writing mesh:  poison-full
+	writing mesh:  pot-tree
+	writing mesh:  bamboo-small
+	writing mesh:  bamboo-medium
+	writing mesh:  bamboo-full
 ========= Writing of JSON file completed =========
 ========= end of processing =========
-elapsed time:  1 min, 56.6485 secs
+elapsed time:  2 min, 5.2474 secs
