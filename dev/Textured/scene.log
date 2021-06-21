@@ -11,16 +11,1082 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		Keep Z-up r-handed  :  no
 		Texture directory   :  D:\Desktop\morterra.github.io\dev\Textured\
 	Python World class constructor completed
-	processing begun of skeleton:  skeleton-flag, id:  0
+	processing begun of skeleton:  skeleton-chicken, id:  0
 		processing begun of bone:  Bone, index:  0
 		processing begun of bone:  Bone.001, index:  1
 		processing begun of bone:  Bone.002, index:  2
 		processing begun of bone:  Bone.003, index:  3
-		processing action ArmatureAction:  in[0 - 30], out[0 - 30]
-		processing action ArmatureAction.005:  in[0 - 1249], out[40 - 1289]
-		processing action axeAction:  in[1 - 785], out[1300 - 2085]
-		processing action sword.001Action:  in[1 - 785], out[2090 - 2875]
-		processing action swordAction:  in[1 - 785], out[2880 - 3665]
+		processing begun of bone:  Bone.005, index:  4
+		processing begun of bone:  Bone.012, index:  5
+		processing begun of bone:  ik.target.l, index:  6
+		processing begun of bone:  ik.pole.l, index:  7
+		processing begun of bone:  Bone.006, index:  8
+		processing begun of bone:  leg2.l, index:  9
+		processing begun of bone:  Bone.010, index:  10
+		processing begun of bone:  ik.pole.r, index:  11
+		processing begun of bone:  Bone.004, index:  12
+		processing begun of bone:  Bone.007, index:  13
+		processing begun of bone:  ik.target.r, index:  14
+		processing begun of bone:  Bone.008, index:  15
+		processing begun of bone:  Bone.009, index:  16
+		processing begun of bone:  Bone.011, index:  17
+		processing action Armature.001Action.001:  in[0 - 130], out[0 - 130]
+		processing action ArmatureAction:  in[0 - 30], out[140 - 170]
+		processing action ArmatureAction.001:  in[0 - 1249], out[180 - 1429]
+		processing action ArmatureAction.002:  in[0 - 460], out[1440 - 1900]
+		processing action ArmatureAction.003:  in[0 - 80], out[1910 - 1990]
+		processing action ArmatureAction.004:  in[0 - 1050], out[2000 - 3050]
+		processing action ArmatureAction.005:  in[0 - 1249], out[3060 - 4309]
+		processing action ArmatureAction.006:  in[0 - 90], out[4320 - 4410]
+		processing action axeAction:  in[1 - 785], out[4420 - 5205]
+		processing action sword.001Action:  in[1 - 785], out[5210 - 5995]
+		processing action swordAction:  in[1 - 785], out[6000 - 6785]
+	processing begun of skeleton:  skeleton-player, id:  1
+		processing begun of bone:  Pole Target.L, index:  0
+		processing begun of bone:  Pole Target.R, index:  1
+		processing begun of bone:  Ankle_L.001, index:  2
+		processing begun of bone:  Ankle_R.001, index:  3
+		processing begun of bone:  Base, index:  4
+		processing begun of bone:  Thigh_L, index:  5
+		processing begun of bone:  Leg_L, index:  6
+		processing begun of bone:  Foot_L, index:  7
+		processing begun of bone:  Thigh_R, index:  8
+		processing begun of bone:  Leg_R, index:  9
+		processing begun of bone:  Foot_R, index:  10
+		processing begun of bone:  Stomach, index:  11
+		processing begun of bone:  Chest, index:  12
+		processing begun of bone:  Neck, index:  13
+		processing begun of bone:  Head, index:  14
+		processing begun of bone:  Bicep_L, index:  15
+		processing begun of bone:  Arm_L, index:  16
+		processing begun of bone:  Hand_L, index:  17
+		processing begun of bone:  Thumb_L, index:  18
+		processing begun of bone:  Hand_L.001, index:  19
+		processing begun of bone:  Hand_Hold_L, index:  20
+		processing begun of bone:  Bicep_R, index:  21
+		processing begun of bone:  Arm_R, index:  22
+		processing begun of bone:  Hand_R, index:  23
+		processing begun of bone:  Thumb_R, index:  24
+		processing begun of bone:  Hand_Hold_R, index:  25
+		processing begun of bone:  Hand_R.001, index:  26
+		processing action Armature.001Action.001:  in[0 - 130], out[0 - 130]
+		processing action ArmatureAction:  in[0 - 30], out[140 - 170]
+		processing action ArmatureAction.001:  in[0 - 1249], out[180 - 1429]
+		processing action ArmatureAction.002:  in[0 - 460], out[1440 - 1900]
+		processing action ArmatureAction.003:  in[0 - 80], out[1910 - 1990]
+		processing action ArmatureAction.004:  in[0 - 1050], out[2000 - 3050]
+		processing action ArmatureAction.005:  in[0 - 1249], out[3060 - 4309]
+		processing action ArmatureAction.006:  in[0 - 90], out[4320 - 4410]
+		processing action axeAction:  in[1 - 785], out[4420 - 5205]
+		processing action sword.001Action:  in[1 - 785], out[5210 - 5995]
+		processing action swordAction:  in[1 - 785], out[6000 - 6785]
+	processing begun of skeleton:  bear, id:  2
+		processing begun of bone:  Root, index:  0
+		processing begun of bone:  bone.back.rear, index:  1
+		processing begun of bone:  bone.back.mid, index:  2
+		processing begun of bone:  bone.leg.front.l, index:  3
+		processing begun of bone:  bone.foot.front.l, index:  4
+		processing begun of bone:  bone.leg.front.r, index:  5
+		processing begun of bone:  bone.foot.front.r, index:  6
+		processing begun of bone:  bone.neck, index:  7
+		processing begun of bone:  bone.head, index:  8
+		processing begun of bone:  bone.leg.back.l, index:  9
+		processing begun of bone:  bone.foot.back.l, index:  10
+		processing begun of bone:  bone.leg.back.r, index:  11
+		processing begun of bone:  bone.foot.back.r, index:  12
+		processing begun of bone:  bone.foot.front.l.001 ik, index:  13
+		processing begun of bone:  left front foot, index:  14
+		processing begun of bone:  bone.foot.front.l.002 knee, index:  15
+		processing begun of bone:  bone.foot.front.r.001 ik, index:  16
+		processing begun of bone:  right front foot, index:  17
+		processing begun of bone:  bone.foot.front.r.002 knee, index:  18
+		processing begun of bone:  bone.foot.back.l.001 ik, index:  19
+		processing begun of bone:  left back foot, index:  20
+		processing begun of bone:  bone.foot.back.l.002 knee, index:  21
+		processing begun of bone:  bone.foot.back.r.001 ik, index:  22
+		processing begun of bone:  right back foot, index:  23
+		processing begun of bone:  bone.foot.back.r.002 knee, index:  24
+		processing action Armature.001Action.001:  in[0 - 130], out[0 - 130]
+		processing action ArmatureAction:  in[0 - 30], out[140 - 170]
+		processing action ArmatureAction.001:  in[0 - 1249], out[180 - 1429]
+		processing action ArmatureAction.002:  in[0 - 460], out[1440 - 1900]
+		processing action ArmatureAction.003:  in[0 - 80], out[1910 - 1990]
+		processing action ArmatureAction.004:  in[0 - 1050], out[2000 - 3050]
+		processing action ArmatureAction.005:  in[0 - 1249], out[3060 - 4309]
+		processing action ArmatureAction.006:  in[0 - 90], out[4320 - 4410]
+		processing action axeAction:  in[1 - 785], out[4420 - 5205]
+		processing action sword.001Action:  in[1 - 785], out[5210 - 5995]
+		processing action swordAction:  in[1 - 785], out[6000 - 6785]
+	processing begun of skeleton:  skeleton-cow, id:  3
+		processing begun of bone:  Root, index:  0
+		processing begun of bone:  bone.foot.front.l.001 ik, index:  1
+		processing begun of bone:  left front foot, index:  2
+		processing begun of bone:  bone.foot.front.l.002 knee, index:  3
+		processing begun of bone:  bone.foot.front.r.001 ik, index:  4
+		processing begun of bone:  right front foot, index:  5
+		processing begun of bone:  bone.foot.front.r.002 knee, index:  6
+		processing begun of bone:  bone.foot.back.l.001 ik, index:  7
+		processing begun of bone:  left back foot, index:  8
+		processing begun of bone:  bone.foot.back.l.002 knee, index:  9
+		processing begun of bone:  bone.foot.back.r.001 ik, index:  10
+		processing begun of bone:  right back foot, index:  11
+		processing begun of bone:  bone.foot.back.r.002 knee, index:  12
+		processing begun of bone:  bone.back.rear, index:  13
+		processing begun of bone:  bone.back.mid, index:  14
+		processing begun of bone:  bone.leg.front.r, index:  15
+		processing begun of bone:  bone.foot.front.r, index:  16
+		processing begun of bone:  bone.neck, index:  17
+		processing begun of bone:  bone.head, index:  18
+		processing begun of bone:  bone.leg.front.l, index:  19
+		processing begun of bone:  bone.foot.front.l, index:  20
+		processing begun of bone:  bone.leg.back.l, index:  21
+		processing begun of bone:  bone.foot.back.l, index:  22
+		processing begun of bone:  bone.leg.back.r, index:  23
+		processing begun of bone:  bone.foot.back.r, index:  24
+		processing action Armature.001Action.001:  in[0 - 130], out[0 - 130]
+		processing action ArmatureAction:  in[0 - 30], out[140 - 170]
+		processing action ArmatureAction.001:  in[0 - 1249], out[180 - 1429]
+		processing action ArmatureAction.002:  in[0 - 460], out[1440 - 1900]
+		processing action ArmatureAction.003:  in[0 - 80], out[1910 - 1990]
+		processing action ArmatureAction.004:  in[0 - 1050], out[2000 - 3050]
+		processing action ArmatureAction.005:  in[0 - 1249], out[3060 - 4309]
+		processing action ArmatureAction.006:  in[0 - 90], out[4320 - 4410]
+		processing action axeAction:  in[1 - 785], out[4420 - 5205]
+		processing action sword.001Action:  in[1 - 785], out[5210 - 5995]
+		processing action swordAction:  in[1 - 785], out[6000 - 6785]
+	processing begun of skeleton:  skeleton-horse, id:  4
+		processing begun of bone:  Root, index:  0
+		processing begun of bone:  bone.foot.front.l.001 ik, index:  1
+		processing begun of bone:  left front foot, index:  2
+		processing begun of bone:  bone.foot.front.l.002 knee, index:  3
+		processing begun of bone:  bone.foot.front.r.001 ik, index:  4
+		processing begun of bone:  right front foot, index:  5
+		processing begun of bone:  bone.foot.front.r.002 knee, index:  6
+		processing begun of bone:  bone.foot.back.l.001 ik, index:  7
+		processing begun of bone:  left back foot, index:  8
+		processing begun of bone:  bone.foot.back.l.002 knee, index:  9
+		processing begun of bone:  bone.foot.back.r.001 ik, index:  10
+		processing begun of bone:  right back foot, index:  11
+		processing begun of bone:  bone.foot.back.r.002 knee, index:  12
+		processing begun of bone:  bone.back.rear, index:  13
+		processing begun of bone:  bone.back.mid, index:  14
+		processing begun of bone:  bone.leg.front.r, index:  15
+		processing begun of bone:  bone.foot.front.r, index:  16
+		processing begun of bone:  bone.neck, index:  17
+		processing begun of bone:  bone.head, index:  18
+		processing begun of bone:  bone.leg.front.l, index:  19
+		processing begun of bone:  bone.foot.front.l, index:  20
+		processing begun of bone:  bone.leg.back.l, index:  21
+		processing begun of bone:  bone.foot.back.l, index:  22
+		processing begun of bone:  bone.leg.back.r, index:  23
+		processing begun of bone:  bone.foot.back.r, index:  24
+		processing begun of bone:  bone.back.rear.001, index:  25
+		processing begun of bone:  bone.back.rear.002, index:  26
+		processing begun of bone:  bone.back.rear.003, index:  27
+		processing action Armature.001Action.001:  in[0 - 130], out[0 - 130]
+		processing action ArmatureAction:  in[0 - 30], out[140 - 170]
+		processing action ArmatureAction.001:  in[0 - 1249], out[180 - 1429]
+		processing action ArmatureAction.002:  in[0 - 460], out[1440 - 1900]
+		processing action ArmatureAction.003:  in[0 - 80], out[1910 - 1990]
+		processing action ArmatureAction.004:  in[0 - 1050], out[2000 - 3050]
+		processing action ArmatureAction.005:  in[0 - 1249], out[3060 - 4309]
+		processing action ArmatureAction.006:  in[0 - 90], out[4320 - 4410]
+		processing action axeAction:  in[1 - 785], out[4420 - 5205]
+		processing action sword.001Action:  in[1 - 785], out[5210 - 5995]
+		processing action swordAction:  in[1 - 785], out[6000 - 6785]
+	processing begun of skeleton:  skeleton-pig, id:  5
+		processing begun of bone:  Root, index:  0
+		processing begun of bone:  bone.foot.front.l.001 ik, index:  1
+		processing begun of bone:  left front foot, index:  2
+		processing begun of bone:  bone.foot.front.l.002 knee, index:  3
+		processing begun of bone:  bone.foot.front.r.001 ik, index:  4
+		processing begun of bone:  right front foot, index:  5
+		processing begun of bone:  bone.foot.front.r.002 knee, index:  6
+		processing begun of bone:  bone.foot.back.l.001 ik, index:  7
+		processing begun of bone:  left back foot, index:  8
+		processing begun of bone:  bone.foot.back.l.002 knee, index:  9
+		processing begun of bone:  bone.foot.back.r.001 ik, index:  10
+		processing begun of bone:  right back foot, index:  11
+		processing begun of bone:  bone.foot.back.r.002 knee, index:  12
+		processing begun of bone:  bone.back.rear, index:  13
+		processing begun of bone:  bone.back.mid, index:  14
+		processing begun of bone:  bone.leg.front.r, index:  15
+		processing begun of bone:  bone.foot.front.r, index:  16
+		processing begun of bone:  bone.neck, index:  17
+		processing begun of bone:  bone.head, index:  18
+		processing begun of bone:  bone.leg.front.l, index:  19
+		processing begun of bone:  bone.foot.front.l, index:  20
+		processing begun of bone:  bone.leg.back.l, index:  21
+		processing begun of bone:  bone.foot.back.l, index:  22
+		processing begun of bone:  bone.leg.back.r, index:  23
+		processing begun of bone:  bone.foot.back.r, index:  24
+		processing action Armature.001Action.001:  in[0 - 130], out[0 - 130]
+		processing action ArmatureAction:  in[0 - 30], out[140 - 170]
+		processing action ArmatureAction.001:  in[0 - 1249], out[180 - 1429]
+		processing action ArmatureAction.002:  in[0 - 460], out[1440 - 1900]
+		processing action ArmatureAction.003:  in[0 - 80], out[1910 - 1990]
+		processing action ArmatureAction.004:  in[0 - 1050], out[2000 - 3050]
+		processing action ArmatureAction.005:  in[0 - 1249], out[3060 - 4309]
+		processing action ArmatureAction.006:  in[0 - 90], out[4320 - 4410]
+		processing action axeAction:  in[1 - 785], out[4420 - 5205]
+		processing action sword.001Action:  in[1 - 785], out[5210 - 5995]
+		processing action swordAction:  in[1 - 785], out[6000 - 6785]
+	processing begun of skeleton:  skeleton-flag, id:  6
+		processing begun of bone:  Bone, index:  0
+		processing begun of bone:  Bone.001, index:  1
+		processing begun of bone:  Bone.002, index:  2
+		processing begun of bone:  Bone.003, index:  3
+		processing action Armature.001Action.001:  in[0 - 130], out[0 - 130]
+		processing action ArmatureAction:  in[0 - 30], out[140 - 170]
+		processing action ArmatureAction.001:  in[0 - 1249], out[180 - 1429]
+		processing action ArmatureAction.002:  in[0 - 460], out[1440 - 1900]
+		processing action ArmatureAction.003:  in[0 - 80], out[1910 - 1990]
+		processing action ArmatureAction.004:  in[0 - 1050], out[2000 - 3050]
+		processing action ArmatureAction.005:  in[0 - 1249], out[3060 - 4309]
+		processing action ArmatureAction.006:  in[0 - 90], out[4320 - 4410]
+		processing action axeAction:  in[1 - 785], out[4420 - 5205]
+		processing action sword.001Action:  in[1 - 785], out[5210 - 5995]
+		processing action swordAction:  in[1 - 785], out[6000 - 6785]
+	processing begun of mesh:  Plane.004
+		processing begun of material:  Texture Sheet.001
+			processing texture Texturesheet
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  1600
+		num normals        :  1600
+		num tangents       :  0
+		num uvs            :  3200
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  1938
+		Skeleton stats:  
+			Total Influencers:  3381
+			Avg # of influencers per vertex:  2.1131
+			Highest # of influencers observed:  5, num vertices with this:  11
+			exported as 5 influencers
+			num skeletonWeights and skeletonIndices:  12800
+		WARNING: # of 0 area faces found:  173
+		Shape Keys:
+	processing begun of mesh:  axe.001
+		processing begun of material:  Texture Sheet.002
+			processing texture Texturesheet
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  225
+		num normals        :  225
+		num tangents       :  0
+		num uvs            :  450
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  228
+		Skeleton stats:  
+			Total Influencers:  1356
+			Avg # of influencers per vertex:  6.0267
+			Highest # of influencers observed:  7, num vertices with this:  24
+			exported as 7 influencers
+			num skeletonWeights and skeletonIndices:  1800
+	processing begun of mesh:  backpack
+		processing begun of material:  Texture Sheet.002
+		registered as also a user of material:  Texture Sheet.002
+		num positions      :  97
+		num normals        :  97
+		num tangents       :  0
+		num uvs            :  194
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  102
+		Skeleton stats:  
+			Total Influencers:  485
+			Avg # of influencers per vertex:  5
+			Highest # of influencers observed:  5, num vertices with this:  97
+			exported as 5 influencers
+			num skeletonWeights and skeletonIndices:  776
+	processing begun of mesh:  beard
+		processing begun of material:  Texture Sheet.002
+		registered as also a user of material:  Texture Sheet.002
+		num positions      :  261
+		num normals        :  261
+		num tangents       :  0
+		num uvs            :  522
+		num uvs2           :  0
+		num colors         :  1044
+		num indices        :  273
+		Skeleton stats:  
+			Total Influencers:  1305
+			Avg # of influencers per vertex:  5
+			Highest # of influencers observed:  5, num vertices with this:  261
+			exported as 5 influencers
+			num skeletonWeights and skeletonIndices:  2088
+	processing begun of mesh:  beardp1
+		processing begun of material:  Texture Sheet.002
+		registered as also a user of material:  Texture Sheet.002
+		num positions      :  334
+		num normals        :  334
+		num tangents       :  0
+		num uvs            :  668
+		num uvs2           :  0
+		num colors         :  1336
+		num indices        :  342
+		Skeleton stats:  
+			Total Influencers:  1670
+			Avg # of influencers per vertex:  5
+			Highest # of influencers observed:  5, num vertices with this:  334
+			exported as 5 influencers
+			num skeletonWeights and skeletonIndices:  2672
+	processing begun of mesh:  bearhelmet
+		processing begun of material:  Texture Sheet.002
+		registered as also a user of material:  Texture Sheet.002
+		num positions      :  573
+		num normals        :  573
+		num tangents       :  0
+		num uvs            :  1146
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  588
+		Skeleton stats:  
+			Total Influencers:  573
+			Avg # of influencers per vertex:  1
+			Highest # of influencers observed:  1, num vertices with this:  573
+			exported as 1 influencers
+			num skeletonWeights and skeletonIndices:  2292
+	processing begun of mesh:  blowpipe
+		processing begun of material:  Texture Sheet.002
+		registered as also a user of material:  Texture Sheet.002
+		num positions      :  159
+		num normals        :  159
+		num tangents       :  0
+		num uvs            :  318
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  204
+		Skeleton stats:  
+			Total Influencers:  954
+			Avg # of influencers per vertex:  6
+			Highest # of influencers observed:  6, num vertices with this:  159
+			exported as 6 influencers
+			num skeletonWeights and skeletonIndices:  1272
+	processing begun of mesh:  bluntrock
+		processing begun of material:  Texture Sheet.002
+		registered as also a user of material:  Texture Sheet.002
+		num positions      :  60
+		num normals        :  60
+		num tangents       :  0
+		num uvs            :  120
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  60
+		Skeleton stats:  
+			Total Influencers:  360
+			Avg # of influencers per vertex:  6
+			Highest # of influencers observed:  6, num vertices with this:  60
+			exported as 6 influencers
+			num skeletonWeights and skeletonIndices:  480
+	processing begun of mesh:  body.001
+		processing begun of material:  Texture Sheet.002
+		registered as also a user of material:  Texture Sheet.002
+		num positions      :  1605
+		num normals        :  1605
+		num tangents       :  0
+		num uvs            :  3210
+		num uvs2           :  0
+		num colors         :  6420
+		num indices        :  1608
+		Skeleton stats:  
+			Total Influencers:  5812
+			Avg # of influencers per vertex:  3.6212
+			Highest # of influencers observed:  6, num vertices with this:  49
+			exported as 6 influencers
+			num skeletonWeights and skeletonIndices:  12840
+	processing begun of mesh:  bodyfemale
+		processing begun of material:  Texture Sheet.002
+		registered as also a user of material:  Texture Sheet.002
+		num positions      :  1605
+		num normals        :  1605
+		num tangents       :  0
+		num uvs            :  3210
+		num uvs2           :  0
+		num colors         :  6420
+		num indices        :  1608
+		Skeleton stats:  
+			WARNING: Maximum # of influencers exceeded for 1605 vertices, extras ignored
+			Total Influencers:  43335
+			Avg # of influencers per vertex:  27
+			Highest # of influencers observed:  27, num vertices with this:  1605
+			exported as 8 influencers
+			num skeletonWeights and skeletonIndices:  12840
+	processing begun of mesh:  bow
+		processing begun of material:  Texture Sheet.002
+		registered as also a user of material:  Texture Sheet.002
+		num positions      :  118
+		num normals        :  118
+		num tangents       :  0
+		num uvs            :  236
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  132
+		Skeleton stats:  
+			WARNING: Maximum # of influencers exceeded for 18 vertices, extras ignored
+			Total Influencers:  962
+			Avg # of influencers per vertex:  8.1525
+			Highest # of influencers observed:  9, num vertices with this:  18
+			exported as 8 influencers
+			num skeletonWeights and skeletonIndices:  944
+	processing begun of mesh:  cape
+		processing begun of material:  Texture Sheet.002
+		registered as also a user of material:  Texture Sheet.002
+		num positions      :  180
+		num normals        :  180
+		num tangents       :  0
+		num uvs            :  360
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  180
+		Skeleton stats:  
+			Total Influencers:  1174
+			Avg # of influencers per vertex:  6.5222
+			Highest # of influencers observed:  7, num vertices with this:  114
+			exported as 7 influencers
+			num skeletonWeights and skeletonIndices:  1440
+	processing begun of mesh:  chestwrap
+		processing begun of material:  Texture Sheet.002
+		registered as also a user of material:  Texture Sheet.002
+		num positions      :  212
+		num normals        :  212
+		num tangents       :  0
+		num uvs            :  424
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  228
+		Skeleton stats:  
+			WARNING: Maximum # of influencers exceeded for 212 vertices, extras ignored
+			Total Influencers:  5300
+			Avg # of influencers per vertex:  25
+			Highest # of influencers observed:  25, num vertices with this:  212
+			exported as 8 influencers
+			num skeletonWeights and skeletonIndices:  1696
+	processing begun of mesh:  crossbow
+		processing begun of material:  Texture Sheet.002
+		registered as also a user of material:  Texture Sheet.002
+		num positions      :  138
+		num normals        :  138
+		num tangents       :  0
+		num uvs            :  276
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  156
+		Skeleton stats:  
+			WARNING: Maximum # of influencers exceeded for 28 vertices, extras ignored
+			Total Influencers:  919
+			Avg # of influencers per vertex:  6.6594
+			Highest # of influencers observed:  12, num vertices with this:  28
+			exported as 8 influencers
+			num skeletonWeights and skeletonIndices:  1104
+	processing begun of mesh:  crown
+		processing begun of material:  Texture Sheet.002
+		registered as also a user of material:  Texture Sheet.002
+		num positions      :  292
+		num normals        :  292
+		num tangents       :  0
+		num uvs            :  584
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  336
+		Skeleton stats:  
+			WARNING: Maximum # of influencers exceeded for 292 vertices, extras ignored
+			Total Influencers:  6132
+			Avg # of influencers per vertex:  21
+			Highest # of influencers observed:  21, num vertices with this:  292
+			exported as 8 influencers
+			num skeletonWeights and skeletonIndices:  2336
+	processing begun of mesh:  fishingrod
+		processing begun of material:  Texture Sheet.002
+		registered as also a user of material:  Texture Sheet.002
+		num positions      :  115
+		num normals        :  115
+		num tangents       :  0
+		num uvs            :  230
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  120
+		Skeleton stats:  
+			Total Influencers:  756
+			Avg # of influencers per vertex:  6.5739
+			Highest # of influencers observed:  7, num vertices with this:  66
+			exported as 7 influencers
+			num skeletonWeights and skeletonIndices:  920
+	processing begun of mesh:  flint
+		processing begun of material:  Texture Sheet.002
+		registered as also a user of material:  Texture Sheet.002
+		num positions      :  38
+		num normals        :  38
+		num tangents       :  0
+		num uvs            :  76
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  42
+		Skeleton stats:  
+			Total Influencers:  169
+			Avg # of influencers per vertex:  4.4474
+			Highest # of influencers observed:  5, num vertices with this:  17
+			exported as 5 influencers
+			num skeletonWeights and skeletonIndices:  304
+	processing begun of mesh:  gem
+		processing begun of material:  Texture Sheet.002
+		registered as also a user of material:  Texture Sheet.002
+		num positions      :  60
+		num normals        :  60
+		num tangents       :  0
+		num uvs            :  120
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  60
+		Skeleton stats:  
+			Total Influencers:  480
+			Avg # of influencers per vertex:  8
+			Highest # of influencers observed:  8, num vertices with this:  60
+			exported as 8 influencers
+			num skeletonWeights and skeletonIndices:  480
+	processing begun of mesh:  goatee
+		processing begun of material:  Texture Sheet.002
+		registered as also a user of material:  Texture Sheet.002
+		num positions      :  183
+		num normals        :  183
+		num tangents       :  0
+		num uvs            :  366
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  192
+		Skeleton stats:  
+			Total Influencers:  1188
+			Avg # of influencers per vertex:  6.4918
+			Highest # of influencers observed:  8, num vertices with this:  75
+			exported as 8 influencers
+			num skeletonWeights and skeletonIndices:  1464
+	processing begun of mesh:  hairf1
+		processing begun of material:  Texture Sheet.002
+		registered as also a user of material:  Texture Sheet.002
+		num positions      :  574
+		num normals        :  574
+		num tangents       :  0
+		num uvs            :  1148
+		num uvs2           :  0
+		num colors         :  2296
+		num indices        :  588
+		Skeleton stats:  
+			WARNING: Maximum # of influencers exceeded for 574 vertices, extras ignored
+			Total Influencers:  15498
+			Avg # of influencers per vertex:  27
+			Highest # of influencers observed:  27, num vertices with this:  574
+			exported as 8 influencers
+			num skeletonWeights and skeletonIndices:  4592
+	processing begun of mesh:  hairf2
+		processing begun of material:  Texture Sheet.002
+		registered as also a user of material:  Texture Sheet.002
+		num positions      :  518
+		num normals        :  518
+		num tangents       :  0
+		num uvs            :  1036
+		num uvs2           :  0
+		num colors         :  2072
+		num indices        :  528
+		Skeleton stats:  
+			WARNING: Maximum # of influencers exceeded for 518 vertices, extras ignored
+			Total Influencers:  13986
+			Avg # of influencers per vertex:  27
+			Highest # of influencers observed:  27, num vertices with this:  518
+			exported as 8 influencers
+			num skeletonWeights and skeletonIndices:  4144
+	processing begun of mesh:  hairm1.001
+		processing begun of material:  Texture Sheet.002
+		registered as also a user of material:  Texture Sheet.002
+		num positions      :  392
+		num normals        :  392
+		num tangents       :  0
+		num uvs            :  784
+		num uvs2           :  0
+		num colors         :  1568
+		num indices        :  408
+		Skeleton stats:  
+			Total Influencers:  624
+			Avg # of influencers per vertex:  1.5918
+			Highest # of influencers observed:  3, num vertices with this:  10
+			exported as 3 influencers
+			num skeletonWeights and skeletonIndices:  1568
+	processing begun of mesh:  hairm2
+		processing begun of material:  Texture Sheet.002
+		registered as also a user of material:  Texture Sheet.002
+		num positions      :  40
+		num normals        :  40
+		num tangents       :  0
+		num uvs            :  80
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  48
+		Skeleton stats:  
+			WARNING: Maximum # of influencers exceeded for 40 vertices, extras ignored
+			Total Influencers:  1080
+			Avg # of influencers per vertex:  27
+			Highest # of influencers observed:  27, num vertices with this:  40
+			exported as 8 influencers
+			num skeletonWeights and skeletonIndices:  320
+	processing begun of mesh:  hairp1
+		processing begun of material:  Texture Sheet.002
+		registered as also a user of material:  Texture Sheet.002
+		num positions      :  397
+		num normals        :  397
+		num tangents       :  0
+		num uvs            :  794
+		num uvs2           :  0
+		num colors         :  1588
+		num indices        :  408
+		Skeleton stats:  
+			Total Influencers:  629
+			Avg # of influencers per vertex:  1.5844
+			Highest # of influencers observed:  3, num vertices with this:  10
+			exported as 3 influencers
+			num skeletonWeights and skeletonIndices:  1588
+	processing begun of mesh:  hairp2
+		processing begun of material:  Texture Sheet.002
+		registered as also a user of material:  Texture Sheet.002
+		num positions      :  676
+		num normals        :  676
+		num tangents       :  0
+		num uvs            :  1352
+		num uvs2           :  0
+		num colors         :  2704
+		num indices        :  684
+		Skeleton stats:  
+			WARNING: Maximum # of influencers exceeded for 556 vertices, extras ignored
+			Total Influencers:  15132
+			Avg # of influencers per vertex:  22.3846
+			Highest # of influencers observed:  27, num vertices with this:  556
+			exported as 8 influencers
+			num skeletonWeights and skeletonIndices:  5408
+	processing begun of mesh:  hammer
+		processing begun of material:  Texture Sheet.002
+		registered as also a user of material:  Texture Sheet.002
+		num positions      :  99
+		num normals        :  99
+		num tangents       :  0
+		num uvs            :  198
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  108
+		Skeleton stats:  
+			Total Influencers:  495
+			Avg # of influencers per vertex:  5
+			Highest # of influencers observed:  5, num vertices with this:  99
+			exported as 5 influencers
+			num skeletonWeights and skeletonIndices:  792
+	processing begun of mesh:  hatchet
+		processing begun of material:  Texture Sheet.002
+		registered as also a user of material:  Texture Sheet.002
+		num positions      :  158
+		num normals        :  158
+		num tangents       :  0
+		num uvs            :  316
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  168
+		Skeleton stats:  
+			Total Influencers:  948
+			Avg # of influencers per vertex:  6
+			Highest # of influencers observed:  6, num vertices with this:  158
+			exported as 6 influencers
+			num skeletonWeights and skeletonIndices:  1264
+	processing begun of mesh:  helmet
+		processing begun of material:  Texture Sheet.002
+		registered as also a user of material:  Texture Sheet.002
+		num positions      :  490
+		num normals        :  490
+		num tangents       :  0
+		num uvs            :  980
+		num uvs2           :  0
+		num colors         :  1960
+		num indices        :  510
+		Skeleton stats:  
+			Total Influencers:  627
+			Avg # of influencers per vertex:  1.2796
+			Highest # of influencers observed:  3, num vertices with this:  54
+			exported as 3 influencers
+			num skeletonWeights and skeletonIndices:  1960
+	processing begun of mesh:  hood
+		processing begun of material:  Texture Sheet.002
+		registered as also a user of material:  Texture Sheet.002
+		num positions      :  116
+		num normals        :  116
+		num tangents       :  0
+		num uvs            :  232
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  120
+		Skeleton stats:  
+			WARNING: Maximum # of influencers exceeded for 116 vertices, extras ignored
+			Total Influencers:  1624
+			Avg # of influencers per vertex:  14
+			Highest # of influencers observed:  14, num vertices with this:  116
+			exported as 8 influencers
+			num skeletonWeights and skeletonIndices:  928
+	processing begun of mesh:  knife
+		processing begun of material:  Texture Sheet.002
+		registered as also a user of material:  Texture Sheet.002
+		num positions      :  72
+		num normals        :  72
+		num tangents       :  0
+		num uvs            :  144
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  78
+		Skeleton stats:  
+			Total Influencers:  288
+			Avg # of influencers per vertex:  4
+			Highest # of influencers observed:  4, num vertices with this:  72
+			exported as 4 influencers
+			num skeletonWeights and skeletonIndices:  288
+	processing begun of mesh:  legs
+		processing begun of material:  Texture Sheet.002
+		registered as also a user of material:  Texture Sheet.002
+		num positions      :  1577
+		num normals        :  1577
+		num tangents       :  0
+		num uvs            :  3154
+		num uvs2           :  0
+		num colors         :  6308
+		num indices        :  1578
+		Skeleton stats:  
+			Total Influencers:  4692
+			Avg # of influencers per vertex:  2.9753
+			Highest # of influencers observed:  6, num vertices with this:  55
+			exported as 6 influencers
+			num skeletonWeights and skeletonIndices:  12616
+	processing begun of mesh:  loincloth
+		processing begun of material:  Texture Sheet.002
+		registered as also a user of material:  Texture Sheet.002
+		num positions      :  128
+		num normals        :  128
+		num tangents       :  0
+		num uvs            :  256
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  132
+		Skeleton stats:  
+			WARNING: Maximum # of influencers exceeded for 128 vertices, extras ignored
+			Total Influencers:  1336
+			Avg # of influencers per vertex:  10.4375
+			Highest # of influencers observed:  12, num vertices with this:  128
+			exported as 8 influencers
+			num skeletonWeights and skeletonIndices:  1024
+	processing begun of mesh:  mace
+		processing begun of material:  Texture Sheet.002
+		registered as also a user of material:  Texture Sheet.002
+		num positions      :  89
+		num normals        :  89
+		num tangents       :  0
+		num uvs            :  178
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  96
+		Skeleton stats:  
+			Total Influencers:  505
+			Avg # of influencers per vertex:  5.6742
+			Highest # of influencers observed:  6, num vertices with this:  60
+			exported as 6 influencers
+			num skeletonWeights and skeletonIndices:  712
+	processing begun of mesh:  maul
+		processing begun of material:  Texture Sheet.002
+		registered as also a user of material:  Texture Sheet.002
+		num positions      :  102
+		num normals        :  102
+		num tangents       :  0
+		num uvs            :  204
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  120
+		Skeleton stats:  
+			Total Influencers:  699
+			Avg # of influencers per vertex:  6.8529
+			Highest # of influencers observed:  7, num vertices with this:  87
+			exported as 7 influencers
+			num skeletonWeights and skeletonIndices:  816
+	processing begun of mesh:  mustache.001
+		processing begun of material:  Texture Sheet.002
+		registered as also a user of material:  Texture Sheet.002
+		num positions      :  51
+		num normals        :  51
+		num tangents       :  0
+		num uvs            :  102
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  60
+		Skeleton stats:  
+			Total Influencers:  383
+			Avg # of influencers per vertex:  7.5098
+			Highest # of influencers observed:  8, num vertices with this:  33
+			exported as 8 influencers
+			num skeletonWeights and skeletonIndices:  408
+	processing begun of mesh:  mustachep1
+		processing begun of material:  Texture Sheet.002
+		registered as also a user of material:  Texture Sheet.002
+		num positions      :  114
+		num normals        :  114
+		num tangents       :  0
+		num uvs            :  228
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  120
+		Skeleton stats:  
+			Total Influencers:  835
+			Avg # of influencers per vertex:  7.3246
+			Highest # of influencers observed:  8, num vertices with this:  56
+			exported as 8 influencers
+			num skeletonWeights and skeletonIndices:  912
+	processing begun of mesh:  necklace
+		processing begun of material:  Texture Sheet.002
+		registered as also a user of material:  Texture Sheet.002
+		num positions      :  331
+		num normals        :  331
+		num tangents       :  0
+		num uvs            :  662
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  354
+		Skeleton stats:  
+			WARNING: Maximum # of influencers exceeded for 120 vertices, extras ignored
+			Total Influencers:  2605
+			Avg # of influencers per vertex:  7.8701
+			Highest # of influencers observed:  9, num vertices with this:  120
+			exported as 8 influencers
+			num skeletonWeights and skeletonIndices:  2648
+	processing begun of mesh:  pickaxe
+		processing begun of material:  Texture Sheet.002
+		registered as also a user of material:  Texture Sheet.002
+		num positions      :  166
+		num normals        :  166
+		num tangents       :  0
+		num uvs            :  332
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  180
+		Skeleton stats:  
+			WARNING: Maximum # of influencers exceeded for 166 vertices, extras ignored
+			Total Influencers:  1678
+			Avg # of influencers per vertex:  10.1084
+			Highest # of influencers observed:  11, num vertices with this:  166
+			exported as 8 influencers
+			num skeletonWeights and skeletonIndices:  1328
+	processing begun of mesh:  player.003
+		processing begun of material:  Texture Sheet.002
+		registered as also a user of material:  Texture Sheet.002
+		num positions      :  2318
+		num normals        :  2318
+		num tangents       :  0
+		num uvs            :  4636
+		num uvs2           :  0
+		num colors         :  9272
+		num indices        :  2382
+		Skeleton stats:  
+			WARNING: Maximum # of influencers exceeded for 2318 vertices, extras ignored
+			Total Influencers:  62586
+			Avg # of influencers per vertex:  27
+			Highest # of influencers observed:  27, num vertices with this:  2318
+			exported as 8 influencers
+			num skeletonWeights and skeletonIndices:  18544
+	processing begun of mesh:  playerfemale
+		processing begun of material:  Texture Sheet.002
+		registered as also a user of material:  Texture Sheet.002
+		num positions      :  2352
+		num normals        :  2352
+		num tangents       :  0
+		num uvs            :  4704
+		num uvs2           :  0
+		num colors         :  9408
+		num indices        :  2418
+		Skeleton stats:  
+			Total Influencers:  6551
+			Avg # of influencers per vertex:  2.7853
+			Highest # of influencers observed:  6, num vertices with this:  38
+			exported as 6 influencers
+			num skeletonWeights and skeletonIndices:  18816
+	processing begun of mesh:  quiver
+		processing begun of material:  Texture Sheet.002
+		registered as also a user of material:  Texture Sheet.002
+		num positions      :  42
+		num normals        :  42
+		num tangents       :  0
+		num uvs            :  84
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  48
+		Skeleton stats:  
+			WARNING: Maximum # of influencers exceeded for 42 vertices, extras ignored
+			Total Influencers:  378
+			Avg # of influencers per vertex:  9
+			Highest # of influencers observed:  9, num vertices with this:  42
+			exported as 8 influencers
+			num skeletonWeights and skeletonIndices:  336
+	processing begun of mesh:  sharprock
+		processing begun of material:  Texture Sheet.002
+		registered as also a user of material:  Texture Sheet.002
+		num positions      :  44
+		num normals        :  44
+		num tangents       :  0
+		num uvs            :  88
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  48
+		Skeleton stats:  
+			Total Influencers:  180
+			Avg # of influencers per vertex:  4.0909
+			Highest # of influencers observed:  5, num vertices with this:  4
+			exported as 5 influencers
+			num skeletonWeights and skeletonIndices:  352
+	processing begun of mesh:  shield
+		processing begun of material:  Texture Sheet.002
+		registered as also a user of material:  Texture Sheet.002
+		num positions      :  82
+		num normals        :  82
+		num tangents       :  0
+		num uvs            :  164
+		num uvs2           :  0
+		num colors         :  328
+		num indices        :  96
+		Skeleton stats:  
+			Total Influencers:  278
+			Avg # of influencers per vertex:  3.3902
+			Highest # of influencers observed:  4, num vertices with this:  39
+			exported as 4 influencers
+			num skeletonWeights and skeletonIndices:  328
+	processing begun of mesh:  spear.001
+		processing begun of material:  Texture Sheet.002
+		registered as also a user of material:  Texture Sheet.002
+		num positions      :  35
+		num normals        :  35
+		num tangents       :  0
+		num uvs            :  70
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  42
+		Skeleton stats:  
+			Total Influencers:  280
+			Avg # of influencers per vertex:  8
+			Highest # of influencers observed:  8, num vertices with this:  35
+			exported as 8 influencers
+			num skeletonWeights and skeletonIndices:  280
+	processing begun of mesh:  stick
+		processing begun of material:  Texture Sheet.002
+		registered as also a user of material:  Texture Sheet.002
+		num positions      :  173
+		num normals        :  173
+		num tangents       :  0
+		num uvs            :  346
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  228
+		Skeleton stats:  
+			Total Influencers:  1038
+			Avg # of influencers per vertex:  6
+			Highest # of influencers observed:  6, num vertices with this:  173
+			exported as 6 influencers
+			num skeletonWeights and skeletonIndices:  1384
+	processing begun of mesh:  sword.002
+		processing begun of material:  Texture Sheet.002
+		registered as also a user of material:  Texture Sheet.002
+		num positions      :  148
+		num normals        :  148
+		num tangents       :  0
+		num uvs            :  296
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  162
+		Skeleton stats:  
+			Total Influencers:  912
+			Avg # of influencers per vertex:  6.1622
+			Highest # of influencers observed:  7, num vertices with this:  24
+			exported as 7 influencers
+			num skeletonWeights and skeletonIndices:  1184
+	processing begun of mesh:  Plane.010
+		processing begun of material:  Texture Sheet.003
+			processing texture Texturesheet
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  1857
+		num normals        :  1857
+		num tangents       :  0
+		num uvs            :  3714
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  1884
+		Skeleton stats:  
+			WARNING: Maximum # of influencers exceeded for 1162 vertices, extras ignored
+			Total Influencers:  17881
+			Avg # of influencers per vertex:  9.629
+			Highest # of influencers observed:  17, num vertices with this:  1162
+			exported as 8 influencers
+			num skeletonWeights and skeletonIndices:  14856
+	processing begun of mesh:  cow
+		processing begun of material:  Texture Sheet.004
+			processing texture Texturesheet
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  1384
+		num normals        :  1384
+		num tangents       :  0
+		num uvs            :  2768
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  1407
+		Skeleton stats:  
+			Total Influencers:  3429
+			Avg # of influencers per vertex:  2.4776
+			Highest # of influencers observed:  7, num vertices with this:  12
+			exported as 7 influencers
+			num skeletonWeights and skeletonIndices:  11072
+	processing begun of mesh:  horse
+		processing begun of material:  Texture Sheet.005
+			processing texture Texturesheet
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  2040
+		num normals        :  2040
+		num tangents       :  0
+		num uvs            :  4080
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2070
+		Skeleton stats:  
+			Total Influencers:  5098
+			Avg # of influencers per vertex:  2.499
+			Highest # of influencers observed:  6, num vertices with this:  59
+			exported as 6 influencers
+			num skeletonWeights and skeletonIndices:  16320
+	processing begun of mesh:  saddle
+		processing begun of material:  Texture Sheet.005
+		registered as also a user of material:  Texture Sheet.005
+		num positions      :  123
+		num normals        :  123
+		num tangents       :  0
+		num uvs            :  246
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  132
+		Skeleton stats:  
+			Total Influencers:  278
+			Avg # of influencers per vertex:  2.2602
+			Highest # of influencers observed:  3, num vertices with this:  32
+			exported as 3 influencers
+			num skeletonWeights and skeletonIndices:  492
+	processing begun of mesh:  pig
+		processing begun of material:  Texture Sheet.006
+			processing texture Texturesheet
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  927
+		num normals        :  927
+		num tangents       :  0
+		num uvs            :  1854
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  948
+		Skeleton stats:  
+			Total Influencers:  2592
+			Avg # of influencers per vertex:  2.7961
+			Highest # of influencers observed:  8, num vertices with this:  7
+			exported as 8 influencers
+			num skeletonWeights and skeletonIndices:  7416
 	processing begun of mesh:  tree-maple-dark
 		processing begun of material:  Texture Sheet
 			processing texture Texturesheet
@@ -324,7 +1390,7 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		num uvs2           :  0
 		num colors         :  0
 		num indices        :  66
-	processing begun of mesh:  door-metal.001
+	processing begun of mesh:  door-metal-lock
 		processing begun of material:  Texture Sheet
 		registered as also a user of material:  Texture Sheet
 		num positions      :  31
@@ -515,7 +1581,7 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		num uvs2           :  0
 		num colors         :  0
 		num indices        :  408
-	processing begun of mesh:  trim
+	processing begun of mesh:  chest-wood-unlocked-trim
 		processing begun of material:  Texture Sheet
 		registered as also a user of material:  Texture Sheet
 		num positions      :  205
@@ -525,7 +1591,7 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		num uvs2           :  0
 		num colors         :  0
 		num indices        :  288
-	processing begun of mesh:  woodlock
+	processing begun of mesh:  chest-wood-lock
 		processing begun of material:  Texture Sheet
 		registered as also a user of material:  Texture Sheet
 		num positions      :  36
@@ -535,7 +1601,7 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		num uvs2           :  0
 		num colors         :  0
 		num indices        :  54
-	processing begun of mesh:  woodtrim
+	processing begun of mesh:  chest-wood-locked-trim
 		processing begun of material:  Texture Sheet
 		registered as also a user of material:  Texture Sheet
 		num positions      :  189
@@ -646,7 +1712,7 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		num uvs2           :  0
 		num colors         :  0
 		num indices        :  192
-	processing begun of mesh:  doorwoodlock(lock)
+	processing begun of mesh:  door-wood-lock
 		processing begun of material:  Texture Sheet
 		registered as also a user of material:  Texture Sheet
 		num positions      :  29
@@ -656,7 +1722,7 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		num uvs2           :  0
 		num colors         :  0
 		num indices        :  36
-	processing begun of mesh:  doorwoodtrim(trim)
+	processing begun of mesh:  door-wood-trim
 		processing begun of material:  Texture Sheet
 		registered as also a user of material:  Texture Sheet
 		num positions      :  101
@@ -744,7 +1810,7 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		num uvs2           :  0
 		num colors         :  0
 		num indices        :  120
-	processing begun of mesh:  lock
+	processing begun of mesh:  chest-metal-lock
 		processing begun of material:  Texture Sheet
 		registered as also a user of material:  Texture Sheet
 		num positions      :  24
@@ -774,242 +1840,58 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		num uvs2           :  0
 		num colors         :  0
 		num indices        :  120
-	processing begun of mesh:  bountyboard
-		processing begun of material:  RawWood
-		processing begun of material:  Oak
-		processing begun of material:  Clay
-		processing begun of material:  Cloth
-		processing begun of material:  Gold
-		processing begun of material:  Iron
-		processing begun of multimaterial:  scene.Multimaterial#1
-		num positions      :  578
-		num normals        :  578
-		num tangents       :  0
-		num uvs            :  1156
-		num uvs2           :  0
-		num colors         :  0
-		num indices        :  708
-	processing begun of mesh:  pot-plant
-		processing begun of material:  Clay
-		processing begun of material:  Dirt
-		registered as also a user of material:  Clay
-		processing begun of multimaterial:  scene.Multimaterial#2
-		num positions      :  281
-		num normals        :  281
-		num tangents       :  0
-		num uvs            :  562
-		num uvs2           :  0
-		num colors         :  0
-		num indices        :  339
-	processing begun of mesh:  coffee-small
-		processing begun of material:  Clay
-		processing begun of material:  Dirt
-		processing begun of material:  OakLeaves
-		registered as also a user of material:  Clay
-		registered as also a user of material:  Dirt
-		processing begun of multimaterial:  scene.Multimaterial#3
-		num positions      :  18
-		num normals        :  18
-		num tangents       :  0
-		num uvs            :  36
-		num uvs2           :  0
-		num colors         :  0
-		num indices        :  18
-	processing begun of mesh:  coffee-medium
-		processing begun of material:  Clay
-		processing begun of material:  Dirt
-		processing begun of material:  OakLeaves
-		registered as also a user of material:  Clay
-		registered as also a user of material:  Dirt
-		registered as also a user of material:  OakLeaves
-		processing begun of multimaterial:  scene.Multimaterial#4
-		num positions      :  200
-		num normals        :  200
-		num tangents       :  0
-		num uvs            :  400
-		num uvs2           :  0
-		num colors         :  0
-		num indices        :  228
-	processing begun of mesh:  coffee
-		processing begun of material:  Clay
-		processing begun of material:  Dirt
-		processing begun of material:  OakLeaves
-		registered as also a user of material:  Clay
-		registered as also a user of material:  Dirt
-		registered as also a user of material:  OakLeaves
-		processing begun of multimaterial:  scene.Multimaterial#5
-		num positions      :  867
-		num normals        :  867
-		num tangents       :  0
-		num uvs            :  1734
-		num uvs2           :  0
-		num colors         :  0
-		num indices        :  990
-	processing begun of mesh:  coffee-full
-		processing begun of material:  Texture Sheet
-		processing begun of material:  Clay
-		processing begun of material:  Dirt
-		processing begun of material:  OakLeaves
-			processing texture Texturesheet
-				texture type:  diffuseTexture, mapped using: "UVMap"
-		registered as also a user of material:  Clay
-		registered as also a user of material:  Dirt
-		registered as also a user of material:  OakLeaves
-		processing begun of multimaterial:  scene.Multimaterial#6
-		num positions      :  2129
-		num normals        :  2129
-		num tangents       :  0
-		num uvs            :  4258
-		num uvs2           :  0
-		num colors         :  0
-		num indices        :  2250
-	processing begun of mesh:  poison-small
-		processing begun of material:  OakDarkLeaves
-		num positions      :  24
-		num normals        :  24
-		num tangents       :  0
-		num uvs            :  48
-		num uvs2           :  0
-		num colors         :  0
-		num indices        :  24
-	processing begun of mesh:  poison-medium
-		processing begun of material:  Titanium
-		processing begun of material:  OakDarkLeaves
-		registered as also a user of material:  OakDarkLeaves
-		processing begun of multimaterial:  scene.Multimaterial#7
-		num positions      :  374
-		num normals        :  374
-		num tangents       :  0
-		num uvs            :  748
-		num uvs2           :  0
-		num colors         :  0
-		num indices        :  402
-	processing begun of mesh:  poison
-		processing begun of material:  Titanium
-		processing begun of material:  OakDarkLeaves
-		processing begun of material:  Corn
-		registered as also a user of material:  Titanium
-		registered as also a user of material:  OakDarkLeaves
-		processing begun of multimaterial:  scene.Multimaterial#8
-		num positions      :  417
-		num normals        :  417
-		num tangents       :  0
-		num uvs            :  834
-		num uvs2           :  0
-		num colors         :  0
-		num indices        :  462
-	processing begun of mesh:  poison-full
-		processing begun of material:  TungstenAlloy
-		processing begun of material:  Titanium
-		processing begun of material:  OakDarkLeaves
-		processing begun of material:  Corn
-		registered as also a user of material:  Titanium
-		registered as also a user of material:  OakDarkLeaves
-		processing begun of multimaterial:  scene.Multimaterial#9
-		num positions      :  660
-		num normals        :  660
-		num tangents       :  0
-		num uvs            :  1320
-		num uvs2           :  0
-		num colors         :  0
-		num indices        :  702
-	processing begun of mesh:  pot-tree
-		processing begun of material:  Clay
-		processing begun of material:  Dirt
-		registered as also a user of material:  Clay
-		registered as also a user of material:  Dirt
-		processing begun of multimaterial:  scene.Multimaterial#10
-		num positions      :  2334
-		num normals        :  2334
-		num tangents       :  0
-		num uvs            :  4668
-		num uvs2           :  0
-		num colors         :  0
-		num indices        :  2628
-	processing begun of mesh:  sign
-		processing begun of material:  RawWood
-		registered as also a user of material:  RawWood
-		num positions      :  58
-		num normals        :  58
-		num tangents       :  0
-		num uvs            :  116
-		num uvs2           :  0
-		num colors         :  0
-		num indices        :  72
-	processing begun of mesh:  spear
-		processing begun of material:  Oak
-		processing begun of material:  RawWood
-		processing begun of material:  Maple
-		processing begun of material:  Fruit
-		registered as also a user of material:  Oak
-		registered as also a user of material:  RawWood
-		processing begun of multimaterial:  scene.Multimaterial#11
-		num positions      :  39
-		num normals        :  39
-		num tangents       :  0
-		num uvs            :  78
-		num uvs2           :  0
-		num colors         :  0
-		num indices        :  42
-	processing begun of mesh:  arrow
-		processing begun of material:  Texture Sheet
-		registered as also a user of material:  Texture Sheet
-		num positions      :  148
-		num normals        :  148
-		num tangents       :  0
-		num uvs            :  296
-		num uvs2           :  0
-		num colors         :  0
-		num indices        :  162
-	processing begun of mesh:  dart
-		processing begun of material:  Oak
-		processing begun of material:  RawWood
-		processing begun of material:  Maple
-		processing begun of material:  Fruit
-		processing begun of material:  Cloth
-		registered as also a user of material:  Oak
-		registered as also a user of material:  RawWood
-		registered as also a user of material:  Maple
-		registered as also a user of material:  Fruit
-		registered as also a user of material:  Cloth
-		processing begun of multimaterial:  scene.Multimaterial#12
-		num positions      :  129
-		num normals        :  129
-		num tangents       :  0
-		num uvs            :  258
-		num uvs2           :  0
-		num colors         :  0
-		num indices        :  138
-	processing begun of mesh:  bamboo-small
-		processing begun of material:  Bamboo
-		num positions      :  276
-		num normals        :  276
-		num tangents       :  0
-		num uvs            :  552
-		num uvs2           :  0
-		num colors         :  0
-		num indices        :  324
-	processing begun of mesh:  bamboo-medium
-		processing begun of material:  Bamboo
-		registered as also a user of material:  Bamboo
-		num positions      :  276
-		num normals        :  276
-		num tangents       :  0
-		num uvs            :  552
-		num uvs2           :  0
-		num colors         :  0
-		num indices        :  324
-	processing begun of mesh:  bamboo-full
-		processing begun of material:  Bamboo
-		registered as also a user of material:  Bamboo
-		num positions      :  578
-		num normals        :  578
-		num tangents       :  0
-		num uvs            :  1156
-		num uvs2           :  0
-		num colors         :  0
-		num indices        :  684
 ========= Writing of JSON file started =========
+	writing mesh:  Plane.004
+	writing mesh:  axe.001
+	writing mesh:  backpack
+	writing mesh:  beard
+	writing mesh:  beardp1
+	writing mesh:  bearhelmet
+	writing mesh:  blowpipe
+	writing mesh:  bluntrock
+	writing mesh:  body.001
+	writing mesh:  bodyfemale
+	writing mesh:  bow
+	writing mesh:  cape
+	writing mesh:  chestwrap
+	writing mesh:  crossbow
+	writing mesh:  crown
+	writing mesh:  fishingrod
+	writing mesh:  flint
+	writing mesh:  gem
+	writing mesh:  goatee
+	writing mesh:  hairf1
+	writing mesh:  hairf2
+	writing mesh:  hairm1.001
+	writing mesh:  hairm2
+	writing mesh:  hairp1
+	writing mesh:  hairp2
+	writing mesh:  hammer
+	writing mesh:  hatchet
+	writing mesh:  helmet
+	writing mesh:  hood
+	writing mesh:  knife
+	writing mesh:  legs
+	writing mesh:  loincloth
+	writing mesh:  mace
+	writing mesh:  maul
+	writing mesh:  mustache.001
+	writing mesh:  mustachep1
+	writing mesh:  necklace
+	writing mesh:  pickaxe
+	writing mesh:  player.003
+	writing mesh:  playerfemale
+	writing mesh:  quiver
+	writing mesh:  sharprock
+	writing mesh:  shield
+	writing mesh:  spear.001
+	writing mesh:  stick
+	writing mesh:  sword.002
+	writing mesh:  Plane.010
+	writing mesh:  cow
+	writing mesh:  horse
+	writing mesh:  saddle
+	writing mesh:  pig
 	writing mesh:  tree-maple-dark
 	writing mesh:  tree-maple-dark-cut
 	writing mesh:  tree-maple-dark-stump
@@ -1040,7 +1922,7 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 	writing mesh:  logspike-oak
 	writing mesh:  logspike-fruit
 	writing mesh:  logspike-maple
-	writing mesh:  door-metal.001
+	writing mesh:  door-metal-lock
 	writing mesh:  door-metal
 	writing mesh:  metalspike
 	writing mesh:  alchemy-table-maple
@@ -1059,9 +1941,9 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 	writing mesh:  bush-blueberry-full
 	writing mesh:  bush-blueberry
 	writing mesh:  chest-wood-unlocked
-	writing mesh:  trim
-	writing mesh:  woodlock
-	writing mesh:  woodtrim
+	writing mesh:  chest-wood-unlocked-trim
+	writing mesh:  chest-wood-lock
+	writing mesh:  chest-wood-locked-trim
 	writing mesh:  chest-wood-locked
 	writing mesh:  anvil
 	writing mesh:  pond
@@ -1072,8 +1954,8 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 	writing mesh:  logsetup-oak
 	writing mesh:  logsetup-maple
 	writing mesh:  logsetup-fruit
-	writing mesh:  doorwoodlock(lock)
-	writing mesh:  doorwoodtrim(trim)
+	writing mesh:  door-wood-lock
+	writing mesh:  door-wood-trim
 	writing mesh:  door-wood
 	writing mesh:  workbench-oak
 	writing mesh:  workbench-maple
@@ -1081,27 +1963,9 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 	writing mesh:  potato
 	writing mesh:  potato-grown
 	writing mesh:  sleepingbag
-	writing mesh:  lock
+	writing mesh:  chest-metal-lock
 	writing mesh:  chest-metal-locked
 	writing mesh:  chest-metal-unlocked
-	writing mesh:  bountyboard
-	writing mesh:  pot-plant
-	writing mesh:  coffee-small
-	writing mesh:  coffee-medium
-	writing mesh:  coffee
-	writing mesh:  coffee-full
-	writing mesh:  poison-small
-	writing mesh:  poison-medium
-	writing mesh:  poison
-	writing mesh:  poison-full
-	writing mesh:  pot-tree
-	writing mesh:  sign
-	writing mesh:  spear
-	writing mesh:  arrow
-	writing mesh:  dart
-	writing mesh:  bamboo-small
-	writing mesh:  bamboo-medium
-	writing mesh:  bamboo-full
 ========= Writing of JSON file completed =========
 ========= end of processing =========
-elapsed time:  0 min, 2.8321 secs
+elapsed time:  1 min, 56.6485 secs
