@@ -247,7 +247,7 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		processing action axeAction:  in[1 - 785], out[4420 - 5205]
 		processing action sword.001Action:  in[1 - 785], out[5210 - 5995]
 		processing action swordAction:  in[1 - 785], out[6000 - 6785]
-	processing begun of mesh:  Plane.004
+	processing begun of mesh:  chicken
 		processing begun of material:  Texture Sheet
 			processing texture Texturesheet
 				texture type:  diffuseTexture, mapped using: "UVMap"
@@ -1568,23 +1568,13 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 	processing begun of mesh:  chest-wood-unlocked
 		processing begun of material:  Texture Sheet
 		registered as also a user of material:  Texture Sheet
-		num positions      :  283
-		num normals        :  283
+		num positions      :  488
+		num normals        :  488
 		num tangents       :  0
-		num uvs            :  566
+		num uvs            :  976
 		num uvs2           :  0
 		num colors         :  0
-		num indices        :  408
-	processing begun of mesh:  chest-wood-unlocked-trim
-		processing begun of material:  Texture Sheet
-		registered as also a user of material:  Texture Sheet
-		num positions      :  205
-		num normals        :  205
-		num tangents       :  0
-		num uvs            :  410
-		num uvs2           :  0
-		num colors         :  0
-		num indices        :  288
+		num indices        :  696
 	processing begun of mesh:  chest-wood-lock
 		processing begun of material:  Texture Sheet
 		registered as also a user of material:  Texture Sheet
@@ -1595,27 +1585,17 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		num uvs2           :  0
 		num colors         :  0
 		num indices        :  54
-	processing begun of mesh:  chest-wood-locked-trim
-		processing begun of material:  Texture Sheet
-		registered as also a user of material:  Texture Sheet
-		num positions      :  189
-		num normals        :  189
-		num tangents       :  0
-		num uvs            :  378
-		num uvs2           :  0
-		num colors         :  0
-		num indices        :  282
-		WARNING: # of 0 area faces found:  24
 	processing begun of mesh:  chest-wood-locked
 		processing begun of material:  Texture Sheet
 		registered as also a user of material:  Texture Sheet
-		num positions      :  182
-		num normals        :  182
+		num positions      :  371
+		num normals        :  371
 		num tangents       :  0
-		num uvs            :  364
+		num uvs            :  742
 		num uvs2           :  0
 		num colors         :  0
-		num indices        :  276
+		num indices        :  558
+		WARNING: # of 0 area faces found:  24
 	processing begun of mesh:  anvil
 		processing begun of material:  Texture Sheet
 		registered as also a user of material:  Texture Sheet
@@ -1716,26 +1696,16 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		num uvs2           :  0
 		num colors         :  0
 		num indices        :  36
-	processing begun of mesh:  door-wood-trim
-		processing begun of material:  Texture Sheet
-		registered as also a user of material:  Texture Sheet
-		num positions      :  101
-		num normals        :  101
-		num tangents       :  0
-		num uvs            :  202
-		num uvs2           :  0
-		num colors         :  0
-		num indices        :  120
 	processing begun of mesh:  door-wood
 		processing begun of material:  Texture Sheet
 		registered as also a user of material:  Texture Sheet
-		num positions      :  8
-		num normals        :  8
+		num positions      :  109
+		num normals        :  109
 		num tangents       :  0
-		num uvs            :  16
+		num uvs            :  218
 		num uvs2           :  0
 		num colors         :  0
-		num indices        :  12
+		num indices        :  132
 	processing begun of mesh:  workbench-oak
 		processing begun of material:  Texture Sheet
 		registered as also a user of material:  Texture Sheet
@@ -2010,7 +1980,7 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		num colors         :  0
 		num indices        :  684
 ========= Writing of JSON file started =========
-	writing mesh:  Plane.004
+	writing mesh:  chicken
 	writing mesh:  axe
 	writing mesh:  backpack
 	writing mesh:  beard
@@ -2110,9 +2080,7 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 	writing mesh:  bush-blueberry-full
 	writing mesh:  bush-blueberry
 	writing mesh:  chest-wood-unlocked
-	writing mesh:  chest-wood-unlocked-trim
 	writing mesh:  chest-wood-lock
-	writing mesh:  chest-wood-locked-trim
 	writing mesh:  chest-wood-locked
 	writing mesh:  anvil
 	writing mesh:  pond
@@ -2124,7 +2092,6 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 	writing mesh:  logsetup-maple
 	writing mesh:  logsetup-fruit
 	writing mesh:  door-wood-lock
-	writing mesh:  door-wood-trim
 	writing mesh:  door-wood
 	writing mesh:  workbench-oak
 	writing mesh:  workbench-maple
@@ -2151,4 +2118,4 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 	writing mesh:  bamboo-full
 ========= Writing of JSON file completed =========
 ========= end of processing =========
-elapsed time:  2 min, 5.2474 secs
+elapsed time:  1 min, 57.6738 secs
