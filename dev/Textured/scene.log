@@ -9,7 +9,7 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		Vert Color Precision:  3
 		Mat Weight Precision:  2
 		Keep Z-up r-handed  :  no
-		Texture directory   :  D:\Desktop\morterra.github.io\dev\Textured\
+		Texture directory   :  C:\Users\Levi\Desktop\morterra.github.io\dev\Textured\
 	Python World class constructor completed
 	processing begun of skeleton:  skeleton-chicken, id:  0
 		processing begun of bone:  Bone, index:  0
@@ -30,17 +30,10 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		processing begun of bone:  Bone.008, index:  15
 		processing begun of bone:  Bone.009, index:  16
 		processing begun of bone:  Bone.011, index:  17
-		processing action Armature.001Action.001:  in[0 - 130], out[0 - 130]
-		processing action ArmatureAction:  in[0 - 30], out[140 - 170]
-		processing action ArmatureAction.001:  in[0 - 1249], out[180 - 1429]
-		processing action ArmatureAction.002:  in[0 - 460], out[1440 - 1900]
-		processing action ArmatureAction.003:  in[0 - 80], out[1910 - 1990]
-		processing action ArmatureAction.004:  in[0 - 1050], out[2000 - 3050]
-		processing action ArmatureAction.005:  in[0 - 1249], out[3060 - 4309]
-		processing action ArmatureAction.006:  in[0 - 90], out[4320 - 4410]
-		processing action axeAction:  in[1 - 785], out[4420 - 5205]
-		processing action sword.001Action:  in[1 - 785], out[5210 - 5995]
-		processing action swordAction:  in[1 - 785], out[6000 - 6785]
+		processing action ArmatureAction.005:  in[0 - 1249], out[0 - 1249]
+		processing action axeAction:  in[1 - 785], out[1260 - 2045]
+		processing action sword.001Action:  in[1 - 785], out[2050 - 2835]
+		processing action swordAction:  in[1 - 785], out[2840 - 3625]
 	processing begun of skeleton:  skeleton-player, id:  1
 		processing begun of bone:  Pole Target.L, index:  0
 		processing begun of bone:  Pole Target.R, index:  1
@@ -69,17 +62,10 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		processing begun of bone:  Thumb_R, index:  24
 		processing begun of bone:  Hand_Hold_R, index:  25
 		processing begun of bone:  Hand_R.001, index:  26
-		processing action Armature.001Action.001:  in[0 - 130], out[0 - 130]
-		processing action ArmatureAction:  in[0 - 30], out[140 - 170]
-		processing action ArmatureAction.001:  in[0 - 1249], out[180 - 1429]
-		processing action ArmatureAction.002:  in[0 - 460], out[1440 - 1900]
-		processing action ArmatureAction.003:  in[0 - 80], out[1910 - 1990]
-		processing action ArmatureAction.004:  in[0 - 1050], out[2000 - 3050]
-		processing action ArmatureAction.005:  in[0 - 1249], out[3060 - 4309]
-		processing action ArmatureAction.006:  in[0 - 90], out[4320 - 4410]
-		processing action axeAction:  in[1 - 785], out[4420 - 5205]
-		processing action sword.001Action:  in[1 - 785], out[5210 - 5995]
-		processing action swordAction:  in[1 - 785], out[6000 - 6785]
+		processing action ArmatureAction.005:  in[0 - 1249], out[0 - 1249]
+		processing action axeAction:  in[1 - 785], out[1260 - 2045]
+		processing action sword.001Action:  in[1 - 785], out[2050 - 2835]
+		processing action swordAction:  in[1 - 785], out[2840 - 3625]
 	processing begun of skeleton:  skeleton-bear, id:  2
 		processing begun of bone:  Root, index:  0
 		processing begun of bone:  bone.back.rear, index:  1
@@ -106,17 +92,10 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		processing begun of bone:  bone.foot.back.r.001 ik, index:  22
 		processing begun of bone:  right back foot, index:  23
 		processing begun of bone:  bone.foot.back.r.002 knee, index:  24
-		processing action Armature.001Action.001:  in[0 - 130], out[0 - 130]
-		processing action ArmatureAction:  in[0 - 30], out[140 - 170]
-		processing action ArmatureAction.001:  in[0 - 1249], out[180 - 1429]
-		processing action ArmatureAction.002:  in[0 - 460], out[1440 - 1900]
-		processing action ArmatureAction.003:  in[0 - 80], out[1910 - 1990]
-		processing action ArmatureAction.004:  in[0 - 1050], out[2000 - 3050]
-		processing action ArmatureAction.005:  in[0 - 1249], out[3060 - 4309]
-		processing action ArmatureAction.006:  in[0 - 90], out[4320 - 4410]
-		processing action axeAction:  in[1 - 785], out[4420 - 5205]
-		processing action sword.001Action:  in[1 - 785], out[5210 - 5995]
-		processing action swordAction:  in[1 - 785], out[6000 - 6785]
+		processing action ArmatureAction.005:  in[0 - 1249], out[0 - 1249]
+		processing action axeAction:  in[1 - 785], out[1260 - 2045]
+		processing action sword.001Action:  in[1 - 785], out[2050 - 2835]
+		processing action swordAction:  in[1 - 785], out[2840 - 3625]
 	processing begun of skeleton:  skeleton-cow, id:  3
 		processing begun of bone:  Root, index:  0
 		processing begun of bone:  bone.foot.front.l.001 ik, index:  1
@@ -143,17 +122,10 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		processing begun of bone:  bone.foot.back.l, index:  22
 		processing begun of bone:  bone.leg.back.r, index:  23
 		processing begun of bone:  bone.foot.back.r, index:  24
-		processing action Armature.001Action.001:  in[0 - 130], out[0 - 130]
-		processing action ArmatureAction:  in[0 - 30], out[140 - 170]
-		processing action ArmatureAction.001:  in[0 - 1249], out[180 - 1429]
-		processing action ArmatureAction.002:  in[0 - 460], out[1440 - 1900]
-		processing action ArmatureAction.003:  in[0 - 80], out[1910 - 1990]
-		processing action ArmatureAction.004:  in[0 - 1050], out[2000 - 3050]
-		processing action ArmatureAction.005:  in[0 - 1249], out[3060 - 4309]
-		processing action ArmatureAction.006:  in[0 - 90], out[4320 - 4410]
-		processing action axeAction:  in[1 - 785], out[4420 - 5205]
-		processing action sword.001Action:  in[1 - 785], out[5210 - 5995]
-		processing action swordAction:  in[1 - 785], out[6000 - 6785]
+		processing action ArmatureAction.005:  in[0 - 1249], out[0 - 1249]
+		processing action axeAction:  in[1 - 785], out[1260 - 2045]
+		processing action sword.001Action:  in[1 - 785], out[2050 - 2835]
+		processing action swordAction:  in[1 - 785], out[2840 - 3625]
 	processing begun of skeleton:  skeleton-horse, id:  4
 		processing begun of bone:  Root, index:  0
 		processing begun of bone:  bone.foot.front.l.001 ik, index:  1
@@ -183,17 +155,10 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		processing begun of bone:  bone.back.rear.001, index:  25
 		processing begun of bone:  bone.back.rear.002, index:  26
 		processing begun of bone:  bone.back.rear.003, index:  27
-		processing action Armature.001Action.001:  in[0 - 130], out[0 - 130]
-		processing action ArmatureAction:  in[0 - 30], out[140 - 170]
-		processing action ArmatureAction.001:  in[0 - 1249], out[180 - 1429]
-		processing action ArmatureAction.002:  in[0 - 460], out[1440 - 1900]
-		processing action ArmatureAction.003:  in[0 - 80], out[1910 - 1990]
-		processing action ArmatureAction.004:  in[0 - 1050], out[2000 - 3050]
-		processing action ArmatureAction.005:  in[0 - 1249], out[3060 - 4309]
-		processing action ArmatureAction.006:  in[0 - 90], out[4320 - 4410]
-		processing action axeAction:  in[1 - 785], out[4420 - 5205]
-		processing action sword.001Action:  in[1 - 785], out[5210 - 5995]
-		processing action swordAction:  in[1 - 785], out[6000 - 6785]
+		processing action ArmatureAction.005:  in[0 - 1249], out[0 - 1249]
+		processing action axeAction:  in[1 - 785], out[1260 - 2045]
+		processing action sword.001Action:  in[1 - 785], out[2050 - 2835]
+		processing action swordAction:  in[1 - 785], out[2840 - 3625]
 	processing begun of skeleton:  skeleton-pig, id:  5
 		processing begun of bone:  Root, index:  0
 		processing begun of bone:  bone.foot.front.l.001 ik, index:  1
@@ -220,50 +185,36 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		processing begun of bone:  bone.foot.back.l, index:  22
 		processing begun of bone:  bone.leg.back.r, index:  23
 		processing begun of bone:  bone.foot.back.r, index:  24
-		processing action Armature.001Action.001:  in[0 - 130], out[0 - 130]
-		processing action ArmatureAction:  in[0 - 30], out[140 - 170]
-		processing action ArmatureAction.001:  in[0 - 1249], out[180 - 1429]
-		processing action ArmatureAction.002:  in[0 - 460], out[1440 - 1900]
-		processing action ArmatureAction.003:  in[0 - 80], out[1910 - 1990]
-		processing action ArmatureAction.004:  in[0 - 1050], out[2000 - 3050]
-		processing action ArmatureAction.005:  in[0 - 1249], out[3060 - 4309]
-		processing action ArmatureAction.006:  in[0 - 90], out[4320 - 4410]
-		processing action axeAction:  in[1 - 785], out[4420 - 5205]
-		processing action sword.001Action:  in[1 - 785], out[5210 - 5995]
-		processing action swordAction:  in[1 - 785], out[6000 - 6785]
+		processing action ArmatureAction.005:  in[0 - 1249], out[0 - 1249]
+		processing action axeAction:  in[1 - 785], out[1260 - 2045]
+		processing action sword.001Action:  in[1 - 785], out[2050 - 2835]
+		processing action swordAction:  in[1 - 785], out[2840 - 3625]
 	processing begun of skeleton:  skeleton-flag, id:  6
 		processing begun of bone:  Bone, index:  0
 		processing begun of bone:  Bone.001, index:  1
 		processing begun of bone:  Bone.002, index:  2
 		processing begun of bone:  Bone.003, index:  3
-		processing action Armature.001Action.001:  in[0 - 130], out[0 - 130]
-		processing action ArmatureAction:  in[0 - 30], out[140 - 170]
-		processing action ArmatureAction.001:  in[0 - 1249], out[180 - 1429]
-		processing action ArmatureAction.002:  in[0 - 460], out[1440 - 1900]
-		processing action ArmatureAction.003:  in[0 - 80], out[1910 - 1990]
-		processing action ArmatureAction.004:  in[0 - 1050], out[2000 - 3050]
-		processing action ArmatureAction.005:  in[0 - 1249], out[3060 - 4309]
-		processing action ArmatureAction.006:  in[0 - 90], out[4320 - 4410]
-		processing action axeAction:  in[1 - 785], out[4420 - 5205]
-		processing action sword.001Action:  in[1 - 785], out[5210 - 5995]
-		processing action swordAction:  in[1 - 785], out[6000 - 6785]
+		processing action ArmatureAction.005:  in[0 - 1249], out[0 - 1249]
+		processing action axeAction:  in[1 - 785], out[1260 - 2045]
+		processing action sword.001Action:  in[1 - 785], out[2050 - 2835]
+		processing action swordAction:  in[1 - 785], out[2840 - 3625]
 	processing begun of mesh:  chicken
 		processing begun of material:  Texture Sheet
 			processing texture Texturesheet
 				texture type:  diffuseTexture, mapped using: "UVMap"
-		num positions      :  1600
-		num normals        :  1600
+		num positions      :  1608
+		num normals        :  1608
 		num tangents       :  0
-		num uvs            :  3200
+		num uvs            :  3216
 		num uvs2           :  0
 		num colors         :  0
 		num indices        :  1938
 		Skeleton stats:  
-			Total Influencers:  3381
-			Avg # of influencers per vertex:  2.1131
-			Highest # of influencers observed:  5, num vertices with this:  11
+			Total Influencers:  3385
+			Avg # of influencers per vertex:  2.1051
+			Highest # of influencers observed:  5, num vertices with this:  10
 			exported as 5 influencers
-			num skeletonWeights and skeletonIndices:  12800
+			num skeletonWeights and skeletonIndices:  12864
 		WARNING: # of 0 area faces found:  173
 		Shape Keys:
 	processing begun of mesh:  axe
@@ -1004,84 +955,78 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 	processing begun of mesh:  bear
 		processing begun of material:  Texture Sheet
 		registered as also a user of material:  Texture Sheet
-		num positions      :  1857
-		num normals        :  1857
+		num positions      :  1865
+		num normals        :  1865
 		num tangents       :  0
-		num uvs            :  3714
+		num uvs            :  3730
 		num uvs2           :  0
 		num colors         :  0
 		num indices        :  1884
 		Skeleton stats:  
-			WARNING: Maximum # of influencers exceeded for 1162 vertices, extras ignored
-			Total Influencers:  17881
-			Avg # of influencers per vertex:  9.629
-			Highest # of influencers observed:  17, num vertices with this:  1162
+			WARNING: Maximum # of influencers exceeded for 1166 vertices, extras ignored
+			Total Influencers:  17950
+			Avg # of influencers per vertex:  9.6247
+			Highest # of influencers observed:  17, num vertices with this:  1166
 			exported as 8 influencers
-			num skeletonWeights and skeletonIndices:  14856
+			num skeletonWeights and skeletonIndices:  14920
 	processing begun of mesh:  cow
 		processing begun of material:  Texture Sheet
 		registered as also a user of material:  Texture Sheet
-		num positions      :  1384
-		num normals        :  1384
+		num positions      :  1385
+		num normals        :  1385
 		num tangents       :  0
-		num uvs            :  2768
+		num uvs            :  2770
 		num uvs2           :  0
 		num colors         :  0
 		num indices        :  1407
 		Skeleton stats:  
-			Total Influencers:  3429
-			Avg # of influencers per vertex:  2.4776
-			Highest # of influencers observed:  7, num vertices with this:  12
+			Total Influencers:  3421
+			Avg # of influencers per vertex:  2.47
+			Highest # of influencers observed:  7, num vertices with this:  11
 			exported as 7 influencers
-			num skeletonWeights and skeletonIndices:  11072
+			num skeletonWeights and skeletonIndices:  11080
 	processing begun of mesh:  horse
 		processing begun of material:  Texture Sheet
 		registered as also a user of material:  Texture Sheet
-		num positions      :  2040
-		num normals        :  2040
+		num positions      :  2060
+		num normals        :  2060
 		num tangents       :  0
-		num uvs            :  4080
+		num uvs            :  4120
 		num uvs2           :  0
 		num colors         :  0
 		num indices        :  2070
-		Skeleton stats:  
-			Total Influencers:  5098
-			Avg # of influencers per vertex:  2.499
-			Highest # of influencers observed:  6, num vertices with this:  59
-			exported as 6 influencers
-			num skeletonWeights and skeletonIndices:  16320
 	processing begun of mesh:  saddle
 		processing begun of material:  Texture Sheet
 		registered as also a user of material:  Texture Sheet
-		num positions      :  123
-		num normals        :  123
+		num positions      :  130
+		num normals        :  130
 		num tangents       :  0
-		num uvs            :  246
+		num uvs            :  260
 		num uvs2           :  0
 		num colors         :  0
 		num indices        :  132
 		Skeleton stats:  
-			Total Influencers:  278
-			Avg # of influencers per vertex:  2.2602
-			Highest # of influencers observed:  3, num vertices with this:  32
+			Total Influencers:  296
+			Avg # of influencers per vertex:  2.2769
+			Highest # of influencers observed:  3, num vertices with this:  36
 			exported as 3 influencers
-			num skeletonWeights and skeletonIndices:  492
+			num skeletonWeights and skeletonIndices:  520
 	processing begun of mesh:  pig
 		processing begun of material:  Texture Sheet
 		registered as also a user of material:  Texture Sheet
-		num positions      :  927
-		num normals        :  927
+		num positions      :  915
+		num normals        :  915
 		num tangents       :  0
-		num uvs            :  1854
+		num uvs            :  1830
 		num uvs2           :  0
 		num colors         :  0
 		num indices        :  948
 		Skeleton stats:  
-			Total Influencers:  2592
-			Avg # of influencers per vertex:  2.7961
-			Highest # of influencers observed:  8, num vertices with this:  7
+			Total Influencers:  2553
+			Avg # of influencers per vertex:  2.7902
+			Highest # of influencers observed:  8, num vertices with this:  6
 			exported as 8 influencers
-			num skeletonWeights and skeletonIndices:  7416
+			num skeletonWeights and skeletonIndices:  7320
 	processing begun of mesh:  tree-maple-dark
 		processing begun of material:  Texture Sheet
 		registered as also a user of material:  Texture Sheet
@@ -2118,4 +2063,4 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 	writing mesh:  bamboo-full
 ========= Writing of JSON file completed =========
 ========= end of processing =========
-elapsed time:  1 min, 57.6738 secs
+elapsed time:  0 min, 55.0821 secs
