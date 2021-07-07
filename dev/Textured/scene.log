@@ -9,7 +9,7 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		Vert Color Precision:  3
 		Mat Weight Precision:  2
 		Keep Z-up r-handed  :  no
-		Texture directory   :  C:\Users\Levi\Desktop\morterra.github.io\dev\Textured\
+		Texture directory   :  D:\Desktop\morterra.github.io\dev\Textured\
 	Python World class constructor completed
 	processing begun of skeleton:  skeleton-chicken, id:  0
 		processing begun of bone:  Bone, index:  0
@@ -955,20 +955,20 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 	processing begun of mesh:  bear
 		processing begun of material:  Texture Sheet
 		registered as also a user of material:  Texture Sheet
-		num positions      :  1865
-		num normals        :  1865
+		num positions      :  1863
+		num normals        :  1863
 		num tangents       :  0
-		num uvs            :  3730
+		num uvs            :  3726
 		num uvs2           :  0
 		num colors         :  0
 		num indices        :  1884
 		Skeleton stats:  
-			WARNING: Maximum # of influencers exceeded for 1166 vertices, extras ignored
-			Total Influencers:  17950
-			Avg # of influencers per vertex:  9.6247
-			Highest # of influencers observed:  17, num vertices with this:  1166
+			WARNING: Maximum # of influencers exceeded for 1167 vertices, extras ignored
+			Total Influencers:  17940
+			Avg # of influencers per vertex:  9.6296
+			Highest # of influencers observed:  17, num vertices with this:  1167
 			exported as 8 influencers
-			num skeletonWeights and skeletonIndices:  14920
+			num skeletonWeights and skeletonIndices:  14904
 	processing begun of mesh:  cow
 		processing begun of material:  Texture Sheet
 		registered as also a user of material:  Texture Sheet
@@ -2063,4 +2063,4 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 	writing mesh:  bamboo-full
 ========= Writing of JSON file completed =========
 ========= end of processing =========
-elapsed time:  0 min, 55.0821 secs
+elapsed time:  1 min, 13.66 secs
