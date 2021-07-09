@@ -12,7 +12,9 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		Texture directory   :  D:\Desktop\morterra.github.io\dev\Textured\
 	Python World class constructor completed
 	WARNING: No active camera has been assigned, or is not in a currently selected Blender layer
-	processing begun of skeleton:  bear, id:  0
+	WARNING: The following armature not visible in scene thus ignored: skeleton-chicken
+	WARNING: The following armature not visible in scene thus ignored: skeleton-player
+	processing begun of skeleton:  skeleton-bear, id:  0
 		processing begun of bone:  Root, index:  0
 		processing begun of bone:  bone.back.rear, index:  1
 		processing begun of bone:  bone.back.mid, index:  2
@@ -38,27 +40,1608 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		processing begun of bone:  bone.foot.back.r.001 ik, index:  22
 		processing begun of bone:  right back foot, index:  23
 		processing begun of bone:  bone.foot.back.r.002 knee, index:  24
-		processing action ArmatureAction.002:  in[0 - 460], out[0 - 460]
-	processing begun of mesh:  Plane.010
+	WARNING: The following armature not visible in scene thus ignored: skeleton-cow
+	WARNING: The following armature not visible in scene thus ignored: skeleton-horse
+	WARNING: The following armature not visible in scene thus ignored: skeleton-pig
+	WARNING: The following armature not visible in scene thus ignored: skeleton-flag
+	processing begun of mesh:  chicken
+		WARNING: No skeleton with name "skeleton-chicken" found skeleton ignored.
 		processing begun of material:  Texture Sheet
 			processing texture Texturesheet
 				texture type:  diffuseTexture, mapped using: "UVMap"
-		num positions      :  1864
-		num normals        :  1864
+		num positions      :  1612
+		num normals        :  1612
 		num tangents       :  0
-		num uvs            :  3728
+		num uvs            :  3224
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  1938
+		WARNING: # of 0 area faces found:  173
+		Shape Keys:
+	processing begun of mesh:  axe
+		WARNING: No skeleton with name "skeleton-player" found skeleton ignored.
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  228
+		num normals        :  228
+		num tangents       :  0
+		num uvs            :  456
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  228
+	processing begun of mesh:  backpack
+		WARNING: No skeleton with name "skeleton-player" found skeleton ignored.
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  96
+		num normals        :  96
+		num tangents       :  0
+		num uvs            :  192
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  102
+	processing begun of mesh:  beard
+		WARNING: No skeleton with name "skeleton-player" found skeleton ignored.
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  261
+		num normals        :  261
+		num tangents       :  0
+		num uvs            :  522
+		num uvs2           :  0
+		num colors         :  1044
+		num indices        :  273
+	processing begun of mesh:  beardp1
+		WARNING: No skeleton with name "skeleton-player" found skeleton ignored.
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  334
+		num normals        :  334
+		num tangents       :  0
+		num uvs            :  668
+		num uvs2           :  0
+		num colors         :  1336
+		num indices        :  342
+	processing begun of mesh:  bearhelmet
+		WARNING: No skeleton with name "skeleton-player" found skeleton ignored.
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  573
+		num normals        :  573
+		num tangents       :  0
+		num uvs            :  1146
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  588
+	processing begun of mesh:  blowpipe
+		WARNING: No skeleton with name "skeleton-player" found skeleton ignored.
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  161
+		num normals        :  161
+		num tangents       :  0
+		num uvs            :  322
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  204
+	processing begun of mesh:  bluntrock
+		WARNING: No skeleton with name "skeleton-player" found skeleton ignored.
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  60
+		num normals        :  60
+		num tangents       :  0
+		num uvs            :  120
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  60
+	processing begun of mesh:  body
+		WARNING: No skeleton with name "skeleton-player" found skeleton ignored.
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  1605
+		num normals        :  1605
+		num tangents       :  0
+		num uvs            :  3210
+		num uvs2           :  0
+		num colors         :  6420
+		num indices        :  1608
+	processing begun of mesh:  bodyfemale
+		WARNING: No skeleton with name "skeleton-player" found skeleton ignored.
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  1605
+		num normals        :  1605
+		num tangents       :  0
+		num uvs            :  3210
+		num uvs2           :  0
+		num colors         :  6420
+		num indices        :  1608
+	processing begun of mesh:  bow
+		WARNING: No skeleton with name "skeleton-player" found skeleton ignored.
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  117
+		num normals        :  117
+		num tangents       :  0
+		num uvs            :  234
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  132
+	processing begun of mesh:  cape
+		WARNING: No skeleton with name "skeleton-player" found skeleton ignored.
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  178
+		num normals        :  178
+		num tangents       :  0
+		num uvs            :  356
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  180
+	processing begun of mesh:  chestwrap
+		WARNING: No skeleton with name "skeleton-player" found skeleton ignored.
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  212
+		num normals        :  212
+		num tangents       :  0
+		num uvs            :  424
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  228
+	processing begun of mesh:  crossbow
+		WARNING: No skeleton with name "skeleton-player" found skeleton ignored.
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  136
+		num normals        :  136
+		num tangents       :  0
+		num uvs            :  272
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  156
+	processing begun of mesh:  crown
+		WARNING: No skeleton with name "skeleton-player" found skeleton ignored.
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  287
+		num normals        :  287
+		num tangents       :  0
+		num uvs            :  574
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  336
+	processing begun of mesh:  fishingrod
+		WARNING: No skeleton with name "skeleton-player" found skeleton ignored.
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  114
+		num normals        :  114
+		num tangents       :  0
+		num uvs            :  228
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  120
+	processing begun of mesh:  flint
+		WARNING: No skeleton with name "skeleton-player" found skeleton ignored.
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  38
+		num normals        :  38
+		num tangents       :  0
+		num uvs            :  76
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  42
+	processing begun of mesh:  gem
+		WARNING: No skeleton with name "skeleton-player" found skeleton ignored.
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  60
+		num normals        :  60
+		num tangents       :  0
+		num uvs            :  120
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  60
+	processing begun of mesh:  goatee
+		WARNING: No skeleton with name "skeleton-player" found skeleton ignored.
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  183
+		num normals        :  183
+		num tangents       :  0
+		num uvs            :  366
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  192
+	processing begun of mesh:  hairf1
+		WARNING: No skeleton with name "skeleton-player" found skeleton ignored.
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  574
+		num normals        :  574
+		num tangents       :  0
+		num uvs            :  1148
+		num uvs2           :  0
+		num colors         :  2296
+		num indices        :  588
+	processing begun of mesh:  hairf2
+		WARNING: No skeleton with name "skeleton-player" found skeleton ignored.
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  518
+		num normals        :  518
+		num tangents       :  0
+		num uvs            :  1036
+		num uvs2           :  0
+		num colors         :  2072
+		num indices        :  528
+	processing begun of mesh:  hairm1
+		WARNING: No skeleton with name "skeleton-player" found skeleton ignored.
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  392
+		num normals        :  392
+		num tangents       :  0
+		num uvs            :  784
+		num uvs2           :  0
+		num colors         :  1568
+		num indices        :  408
+	processing begun of mesh:  hairm2
+		WARNING: No skeleton with name "skeleton-player" found skeleton ignored.
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  40
+		num normals        :  40
+		num tangents       :  0
+		num uvs            :  80
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  48
+	processing begun of mesh:  hairp1
+		WARNING: No skeleton with name "skeleton-player" found skeleton ignored.
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  397
+		num normals        :  397
+		num tangents       :  0
+		num uvs            :  794
+		num uvs2           :  0
+		num colors         :  1588
+		num indices        :  408
+	processing begun of mesh:  hairp2
+		WARNING: No skeleton with name "skeleton-player" found skeleton ignored.
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  676
+		num normals        :  676
+		num tangents       :  0
+		num uvs            :  1352
+		num uvs2           :  0
+		num colors         :  2704
+		num indices        :  684
+	processing begun of mesh:  hammer
+		WARNING: No skeleton with name "skeleton-player" found skeleton ignored.
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  99
+		num normals        :  99
+		num tangents       :  0
+		num uvs            :  198
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  108
+	processing begun of mesh:  hatchet
+		WARNING: No skeleton with name "skeleton-player" found skeleton ignored.
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  159
+		num normals        :  159
+		num tangents       :  0
+		num uvs            :  318
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  168
+	processing begun of mesh:  helmet
+		WARNING: No skeleton with name "skeleton-player" found skeleton ignored.
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  490
+		num normals        :  490
+		num tangents       :  0
+		num uvs            :  980
+		num uvs2           :  0
+		num colors         :  1960
+		num indices        :  510
+	processing begun of mesh:  hood
+		WARNING: No skeleton with name "skeleton-player" found skeleton ignored.
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  116
+		num normals        :  116
+		num tangents       :  0
+		num uvs            :  232
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  120
+	processing begun of mesh:  knife
+		WARNING: No skeleton with name "skeleton-player" found skeleton ignored.
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  69
+		num normals        :  69
+		num tangents       :  0
+		num uvs            :  138
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  78
+	processing begun of mesh:  legs
+		WARNING: No skeleton with name "skeleton-player" found skeleton ignored.
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  1577
+		num normals        :  1577
+		num tangents       :  0
+		num uvs            :  3154
+		num uvs2           :  0
+		num colors         :  6308
+		num indices        :  1578
+	processing begun of mesh:  loincloth
+		WARNING: No skeleton with name "skeleton-player" found skeleton ignored.
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  128
+		num normals        :  128
+		num tangents       :  0
+		num uvs            :  256
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  132
+	processing begun of mesh:  mace
+		WARNING: No skeleton with name "skeleton-player" found skeleton ignored.
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  89
+		num normals        :  89
+		num tangents       :  0
+		num uvs            :  178
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  96
+	processing begun of mesh:  maul
+		WARNING: No skeleton with name "skeleton-player" found skeleton ignored.
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  104
+		num normals        :  104
+		num tangents       :  0
+		num uvs            :  208
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  120
+	processing begun of mesh:  mustache
+		WARNING: No skeleton with name "skeleton-player" found skeleton ignored.
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  51
+		num normals        :  51
+		num tangents       :  0
+		num uvs            :  102
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  60
+	processing begun of mesh:  mustachep1
+		WARNING: No skeleton with name "skeleton-player" found skeleton ignored.
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  114
+		num normals        :  114
+		num tangents       :  0
+		num uvs            :  228
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  120
+	processing begun of mesh:  necklace
+		WARNING: No skeleton with name "skeleton-player" found skeleton ignored.
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  331
+		num normals        :  331
+		num tangents       :  0
+		num uvs            :  662
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  354
+	processing begun of mesh:  pickaxe
+		WARNING: No skeleton with name "skeleton-player" found skeleton ignored.
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  168
+		num normals        :  168
+		num tangents       :  0
+		num uvs            :  336
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  180
+	processing begun of mesh:  player
+		WARNING: No skeleton with name "skeleton-player" found skeleton ignored.
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  2318
+		num normals        :  2318
+		num tangents       :  0
+		num uvs            :  4636
+		num uvs2           :  0
+		num colors         :  9272
+		num indices        :  2382
+	processing begun of mesh:  playerfemale
+		WARNING: No skeleton with name "skeleton-player" found skeleton ignored.
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  2352
+		num normals        :  2352
+		num tangents       :  0
+		num uvs            :  4704
+		num uvs2           :  0
+		num colors         :  9408
+		num indices        :  2418
+	processing begun of mesh:  quiver
+		WARNING: No skeleton with name "skeleton-player" found skeleton ignored.
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  42
+		num normals        :  42
+		num tangents       :  0
+		num uvs            :  84
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  48
+	processing begun of mesh:  sharprock
+		WARNING: No skeleton with name "skeleton-player" found skeleton ignored.
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  44
+		num normals        :  44
+		num tangents       :  0
+		num uvs            :  88
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  48
+	processing begun of mesh:  shield
+		WARNING: No skeleton with name "skeleton-player" found skeleton ignored.
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  85
+		num normals        :  85
+		num tangents       :  0
+		num uvs            :  170
+		num uvs2           :  0
+		num colors         :  340
+		num indices        :  96
+	processing begun of mesh:  spear
+		WARNING: No skeleton with name "skeleton-player" found skeleton ignored.
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  36
+		num normals        :  36
+		num tangents       :  0
+		num uvs            :  72
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  42
+	processing begun of mesh:  stick
+		WARNING: No skeleton with name "skeleton-player" found skeleton ignored.
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  177
+		num normals        :  177
+		num tangents       :  0
+		num uvs            :  354
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  228
+	processing begun of mesh:  sword
+		WARNING: No skeleton with name "skeleton-player" found skeleton ignored.
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  148
+		num normals        :  148
+		num tangents       :  0
+		num uvs            :  296
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  162
+	processing begun of mesh:  bear
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  1863
+		num normals        :  1863
+		num tangents       :  0
+		num uvs            :  3726
 		num uvs2           :  0
 		num colors         :  0
 		num indices        :  1884
 		Skeleton stats:  
-			WARNING: Maximum # of influencers exceeded for 1165 vertices, extras ignored
-			Total Influencers:  17939
-			Avg # of influencers per vertex:  9.6239
-			Highest # of influencers observed:  17, num vertices with this:  1165
+			WARNING: Maximum # of influencers exceeded for 1167 vertices, extras ignored
+			Total Influencers:  17940
+			Avg # of influencers per vertex:  9.6296
+			Highest # of influencers observed:  17, num vertices with this:  1167
 			exported as 8 influencers
-			num skeletonWeights and skeletonIndices:  14912
+			num skeletonWeights and skeletonIndices:  14904
+	processing begun of mesh:  cow
+		WARNING: No skeleton with name "skeleton-cow" found skeleton ignored.
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  1385
+		num normals        :  1385
+		num tangents       :  0
+		num uvs            :  2770
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  1407
+	processing begun of mesh:  horse
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  2060
+		num normals        :  2060
+		num tangents       :  0
+		num uvs            :  4120
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2070
+	processing begun of mesh:  saddle
+		WARNING: No skeleton with name "skeleton-horse" found skeleton ignored.
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  130
+		num normals        :  130
+		num tangents       :  0
+		num uvs            :  260
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  132
+	processing begun of mesh:  pig
+		WARNING: No skeleton with name "skeleton-pig" found skeleton ignored.
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  916
+		num normals        :  916
+		num tangents       :  0
+		num uvs            :  1832
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  948
+	processing begun of mesh:  tree-maple-dark
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  487
+		num normals        :  487
+		num tangents       :  0
+		num uvs            :  974
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  534
+	processing begun of mesh:  tree-maple-dark-cut
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  260
+		num normals        :  260
+		num tangents       :  0
+		num uvs            :  520
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  306
+	processing begun of mesh:  tree-maple-dark-stump
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  54
+		num normals        :  54
+		num tangents       :  0
+		num uvs            :  108
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  54
+	processing begun of mesh:  tree-oak
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  297
+		num normals        :  297
+		num tangents       :  0
+		num uvs            :  594
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  tree-oak-cut
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  93
+		num normals        :  93
+		num tangents       :  0
+		num uvs            :  186
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  96
+	processing begun of mesh:  tree-oak-stump
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  43
+		num normals        :  43
+		num tangents       :  0
+		num uvs            :  86
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  48
+	processing begun of mesh:  tree-mango-fruit
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  402
+		num normals        :  402
+		num tangents       :  0
+		num uvs            :  804
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  402
+	processing begun of mesh:  tree-mango
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  258
+		num normals        :  258
+		num tangents       :  0
+		num uvs            :  516
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  258
+	processing begun of mesh:  tree-mango-cut
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  114
+		num normals        :  114
+		num tangents       :  0
+		num uvs            :  228
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  114
+	processing begun of mesh:  tree-mango-stump
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  48
+		num normals        :  48
+		num tangents       :  0
+		num uvs            :  96
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  48
+	processing begun of mesh:  tree-orange-fruit
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  587
+		num normals        :  587
+		num tangents       :  0
+		num uvs            :  1174
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  588
+	processing begun of mesh:  tree-orange
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  413
+		num normals        :  413
+		num tangents       :  0
+		num uvs            :  826
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  414
+	processing begun of mesh:  tree-orange-cut
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  179
+		num normals        :  179
+		num tangents       :  0
+		num uvs            :  358
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  180
+	processing begun of mesh:  tree-orange-stump
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  48
+		num normals        :  48
+		num tangents       :  0
+		num uvs            :  96
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  48
+	processing begun of mesh:  tree-apple-fruit
+		processing begun of material:  WoodFruit
+		processing begun of material:  Apple
+		processing begun of material:  AppleLeaves
+		processing begun of multimaterial:  bear.Multimaterial#0
+		num positions      :  501
+		num normals        :  501
+		num tangents       :  0
+		num uvs            :  1002
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  504
+	processing begun of mesh:  tree-apple
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  381
+		num normals        :  381
+		num tangents       :  0
+		num uvs            :  762
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  384
+	processing begun of mesh:  tree-apple-cut
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  171
+		num normals        :  171
+		num tangents       :  0
+		num uvs            :  342
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  174
+	processing begun of mesh:  tree-apple-stump
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  48
+		num normals        :  48
+		num tangents       :  0
+		num uvs            :  96
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  48
+	processing begun of mesh:  tree-maple-yellow
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  388
+		num normals        :  388
+		num tangents       :  0
+		num uvs            :  776
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  420
+	processing begun of mesh:  tree-maple-yellow-cut
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  178
+		num normals        :  178
+		num tangents       :  0
+		num uvs            :  356
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  210
+	processing begun of mesh:  tree-maple-yellow-stump
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  59
+		num normals        :  59
+		num tangents       :  0
+		num uvs            :  118
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  60
+	processing begun of mesh:  tree-oak-dark
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  353
+		num normals        :  353
+		num tangents       :  0
+		num uvs            :  706
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  411
+	processing begun of mesh:  tree-oak-dark-cut
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  198
+		num normals        :  198
+		num tangents       :  0
+		num uvs            :  396
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  240
+	processing begun of mesh:  tree-oak-dark-stump
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  41
+		num normals        :  41
+		num tangents       :  0
+		num uvs            :  82
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  48
+	processing begun of mesh:  tree-maple
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  202
+		num normals        :  202
+		num tangents       :  0
+		num uvs            :  404
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  204
+	processing begun of mesh:  tree-maple-cut
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  106
+		num normals        :  106
+		num tangents       :  0
+		num uvs            :  212
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  108
+	processing begun of mesh:  tree-maple-stump
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  54
+		num normals        :  54
+		num tangents       :  0
+		num uvs            :  108
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  54
+	processing begun of mesh:  logspike-oak
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  66
+		num normals        :  66
+		num tangents       :  0
+		num uvs            :  132
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  66
+	processing begun of mesh:  logspike-fruit
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  66
+		num normals        :  66
+		num tangents       :  0
+		num uvs            :  132
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  66
+	processing begun of mesh:  logspike-maple
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  66
+		num normals        :  66
+		num tangents       :  0
+		num uvs            :  132
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  66
+	processing begun of mesh:  door-metal-lock
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  31
+		num normals        :  31
+		num tangents       :  0
+		num uvs            :  62
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  door-metal
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  74
+		num normals        :  74
+		num tangents       :  0
+		num uvs            :  148
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  96
+	processing begun of mesh:  metalspike
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  49
+		num normals        :  49
+		num tangents       :  0
+		num uvs            :  98
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  60
+	processing begun of mesh:  alchemy-table-maple
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  496
+		num normals        :  496
+		num tangents       :  0
+		num uvs            :  992
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  570
+	processing begun of mesh:  alchemy-table-oak
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  496
+		num normals        :  496
+		num tangents       :  0
+		num uvs            :  992
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  570
+	processing begun of mesh:  kiln
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  263
+		num normals        :  263
+		num tangents       :  0
+		num uvs            :  526
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  foundry
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  698
+		num normals        :  698
+		num tangents       :  0
+		num uvs            :  1396
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  918
+	processing begun of mesh:  foundry-base
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  188
+		num normals        :  188
+		num tangents       :  0
+		num uvs            :  376
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  192
+	processing begun of mesh:  boulder-large
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  138
+		num normals        :  138
+		num tangents       :  0
+		num uvs            :  276
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  138
+	processing begun of mesh:  boulder-rubble
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  370
+		num normals        :  370
+		num tangents       :  0
+		num uvs            :  740
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  402
+	processing begun of mesh:  boulder-medium
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  135
+		num normals        :  135
+		num tangents       :  0
+		num uvs            :  270
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  135
+	processing begun of mesh:  boulder-small
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  126
+		num normals        :  126
+		num tangents       :  0
+		num uvs            :  252
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  126
+	processing begun of mesh:  bomb
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  250
+		num normals        :  250
+		num tangents       :  0
+		num uvs            :  500
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  288
+	processing begun of mesh:  dynamite
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  1130
+		num normals        :  1130
+		num tangents       :  0
+		num uvs            :  2260
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  1371
+		WARNING: # of 0 area faces found:  6
+	processing begun of mesh:  bush-strawberry-full
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  425
+		num normals        :  425
+		num tangents       :  0
+		num uvs            :  850
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  429
+	processing begun of mesh:  bush-strawberry
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  190
+		num normals        :  190
+		num tangents       :  0
+		num uvs            :  380
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  198
+	processing begun of mesh:  bush-blueberry-full
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  131
+		num normals        :  131
+		num tangents       :  0
+		num uvs            :  262
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  132
+	processing begun of mesh:  bush-blueberry
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  59
+		num normals        :  59
+		num tangents       :  0
+		num uvs            :  118
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  60
+	processing begun of mesh:  chest-wood-unlocked
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  488
+		num normals        :  488
+		num tangents       :  0
+		num uvs            :  976
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  696
+	processing begun of mesh:  chest-wood-lock
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  36
+		num normals        :  36
+		num tangents       :  0
+		num uvs            :  72
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  54
+	processing begun of mesh:  chest-wood-locked
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  371
+		num normals        :  371
+		num tangents       :  0
+		num uvs            :  742
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  558
+		WARNING: # of 0 area faces found:  24
+	processing begun of mesh:  anvil
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  103
+		num normals        :  103
+		num tangents       :  0
+		num uvs            :  206
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  114
+	processing begun of mesh:  pond
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  335
+		num normals        :  335
+		num tangents       :  0
+		num uvs            :  670
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  348
+	processing begun of mesh:  corn-empty
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  124
+		num normals        :  124
+		num tangents       :  0
+		num uvs            :  248
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  162
+	processing begun of mesh:  corn-grown
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  481
+		num normals        :  481
+		num tangents       :  0
+		num uvs            :  962
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  576
+	processing begun of mesh:  cotton-empty
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  96
+		num normals        :  96
+		num tangents       :  0
+		num uvs            :  192
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  96
+	processing begun of mesh:  cotton-grown
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  294
+		num normals        :  294
+		num tangents       :  0
+		num uvs            :  588
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  294
+	processing begun of mesh:  logsetup-oak
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  160
+		num normals        :  160
+		num tangents       :  0
+		num uvs            :  320
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  192
+	processing begun of mesh:  logsetup-maple
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  160
+		num normals        :  160
+		num tangents       :  0
+		num uvs            :  320
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  192
+	processing begun of mesh:  logsetup-fruit
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  160
+		num normals        :  160
+		num tangents       :  0
+		num uvs            :  320
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  192
+	processing begun of mesh:  door-wood-lock
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  door-wood
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  109
+		num normals        :  109
+		num tangents       :  0
+		num uvs            :  218
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  132
+	processing begun of mesh:  workbench-oak
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  276
+		num normals        :  276
+		num tangents       :  0
+		num uvs            :  552
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  348
+		WARNING: # of 0 area faces found:  4
+	processing begun of mesh:  workbench-maple
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  276
+		num normals        :  276
+		num tangents       :  0
+		num uvs            :  552
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  348
+		WARNING: # of 0 area faces found:  4
+	processing begun of mesh:  flag
+		WARNING: No skeleton with name "skeleton-flag" found skeleton ignored.
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  126
+		num normals        :  126
+		num tangents       :  0
+		num uvs            :  252
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  162
+	processing begun of mesh:  potato
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  60
+		num normals        :  60
+		num tangents       :  0
+		num uvs            :  120
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  60
+	processing begun of mesh:  potato-grown
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  158
+		num normals        :  158
+		num tangents       :  0
+		num uvs            :  316
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  180
+	processing begun of mesh:  sleepingbag-bear
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  241
+		num normals        :  241
+		num tangents       :  0
+		num uvs            :  482
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  246
+	processing begun of mesh:  sleepingbag
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  99
+		num normals        :  99
+		num tangents       :  0
+		num uvs            :  198
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  120
+	processing begun of mesh:  chest-metal-lock
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  24
+		num normals        :  24
+		num tangents       :  0
+		num uvs            :  48
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  30
+	processing begun of mesh:  chest-metal-locked
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  62
+		num normals        :  62
+		num tangents       :  0
+		num uvs            :  124
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  78
+	processing begun of mesh:  chest-metal-unlocked
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  98
+		num normals        :  98
+		num tangents       :  0
+		num uvs            :  196
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  120
+	processing begun of mesh:  pot-plant
+		processing begun of material:  Clay
+		processing begun of material:  Dirt
+		processing begun of multimaterial:  bear.Multimaterial#1
+		num positions      :  281
+		num normals        :  281
+		num tangents       :  0
+		num uvs            :  562
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  339
+	processing begun of mesh:  coffee-small
+		processing begun of material:  Clay
+		processing begun of material:  Dirt
+		processing begun of material:  OakLeaves
+		registered as also a user of material:  Clay
+		registered as also a user of material:  Dirt
+		processing begun of multimaterial:  bear.Multimaterial#2
+		num positions      :  18
+		num normals        :  18
+		num tangents       :  0
+		num uvs            :  36
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  18
+	processing begun of mesh:  coffee-medium
+		processing begun of material:  Clay
+		processing begun of material:  Dirt
+		processing begun of material:  OakLeaves
+		registered as also a user of material:  Clay
+		registered as also a user of material:  Dirt
+		registered as also a user of material:  OakLeaves
+		processing begun of multimaterial:  bear.Multimaterial#3
+		num positions      :  200
+		num normals        :  200
+		num tangents       :  0
+		num uvs            :  400
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  228
+	processing begun of mesh:  coffee
+		processing begun of material:  Clay
+		processing begun of material:  Dirt
+		processing begun of material:  OakLeaves
+		registered as also a user of material:  Clay
+		registered as also a user of material:  Dirt
+		registered as also a user of material:  OakLeaves
+		processing begun of multimaterial:  bear.Multimaterial#4
+		num positions      :  867
+		num normals        :  867
+		num tangents       :  0
+		num uvs            :  1734
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  990
+	processing begun of mesh:  coffee-full
+		processing begun of material:  Texture Sheet
+		processing begun of material:  Clay
+		processing begun of material:  Dirt
+		processing begun of material:  OakLeaves
+			processing texture Texturesheet
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  Clay
+		registered as also a user of material:  Dirt
+		registered as also a user of material:  OakLeaves
+		processing begun of multimaterial:  bear.Multimaterial#5
+		num positions      :  2129
+		num normals        :  2129
+		num tangents       :  0
+		num uvs            :  4258
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2250
+	processing begun of mesh:  poison-small
+		processing begun of material:  OakDarkLeaves
+		num positions      :  24
+		num normals        :  24
+		num tangents       :  0
+		num uvs            :  48
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  24
+	processing begun of mesh:  poison-medium
+		processing begun of material:  Titanium
+		processing begun of material:  OakDarkLeaves
+		registered as also a user of material:  OakDarkLeaves
+		processing begun of multimaterial:  bear.Multimaterial#6
+		num positions      :  374
+		num normals        :  374
+		num tangents       :  0
+		num uvs            :  748
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  402
+	processing begun of mesh:  poison
+		processing begun of material:  Titanium
+		processing begun of material:  OakDarkLeaves
+		processing begun of material:  Corn
+		registered as also a user of material:  Titanium
+		registered as also a user of material:  OakDarkLeaves
+		processing begun of multimaterial:  bear.Multimaterial#7
+		num positions      :  417
+		num normals        :  417
+		num tangents       :  0
+		num uvs            :  834
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  462
+	processing begun of mesh:  poison-full
+		processing begun of material:  TungstenAlloy
+		processing begun of material:  Titanium
+		processing begun of material:  OakDarkLeaves
+		processing begun of material:  Corn
+		registered as also a user of material:  Titanium
+		registered as also a user of material:  OakDarkLeaves
+		processing begun of multimaterial:  bear.Multimaterial#8
+		num positions      :  660
+		num normals        :  660
+		num tangents       :  0
+		num uvs            :  1320
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  702
+	processing begun of mesh:  pot-tree
+		processing begun of material:  Clay
+		processing begun of material:  Dirt
+		registered as also a user of material:  Clay
+		registered as also a user of material:  Dirt
+		processing begun of multimaterial:  bear.Multimaterial#9
+		num positions      :  2334
+		num normals        :  2334
+		num tangents       :  0
+		num uvs            :  4668
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2628
+	processing begun of mesh:  bamboo-small
+		processing begun of material:  Bamboo
+		num positions      :  276
+		num normals        :  276
+		num tangents       :  0
+		num uvs            :  552
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  324
+	processing begun of mesh:  bamboo-medium
+		processing begun of material:  Bamboo
+		registered as also a user of material:  Bamboo
+		num positions      :  276
+		num normals        :  276
+		num tangents       :  0
+		num uvs            :  552
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  324
+	processing begun of mesh:  bamboo-full
+		processing begun of material:  Bamboo
+		registered as also a user of material:  Bamboo
+		num positions      :  578
+		num normals        :  578
+		num tangents       :  0
+		num uvs            :  1156
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  684
 ========= Writing of JSON file started =========
-	writing mesh:  Plane.010
+	writing mesh:  chicken
+	writing mesh:  axe
+	writing mesh:  backpack
+	writing mesh:  beard
+	writing mesh:  beardp1
+	writing mesh:  bearhelmet
+	writing mesh:  blowpipe
+	writing mesh:  bluntrock
+	writing mesh:  body
+	writing mesh:  bodyfemale
+	writing mesh:  bow
+	writing mesh:  cape
+	writing mesh:  chestwrap
+	writing mesh:  crossbow
+	writing mesh:  crown
+	writing mesh:  fishingrod
+	writing mesh:  flint
+	writing mesh:  gem
+	writing mesh:  goatee
+	writing mesh:  hairf1
+	writing mesh:  hairf2
+	writing mesh:  hairm1
+	writing mesh:  hairm2
+	writing mesh:  hairp1
+	writing mesh:  hairp2
+	writing mesh:  hammer
+	writing mesh:  hatchet
+	writing mesh:  helmet
+	writing mesh:  hood
+	writing mesh:  knife
+	writing mesh:  legs
+	writing mesh:  loincloth
+	writing mesh:  mace
+	writing mesh:  maul
+	writing mesh:  mustache
+	writing mesh:  mustachep1
+	writing mesh:  necklace
+	writing mesh:  pickaxe
+	writing mesh:  player
+	writing mesh:  playerfemale
+	writing mesh:  quiver
+	writing mesh:  sharprock
+	writing mesh:  shield
+	writing mesh:  spear
+	writing mesh:  stick
+	writing mesh:  sword
+	writing mesh:  bear
+	writing mesh:  cow
+	writing mesh:  horse
+	writing mesh:  saddle
+	writing mesh:  pig
+	writing mesh:  tree-maple-dark
+	writing mesh:  tree-maple-dark-cut
+	writing mesh:  tree-maple-dark-stump
+	writing mesh:  tree-oak
+	writing mesh:  tree-oak-cut
+	writing mesh:  tree-oak-stump
+	writing mesh:  tree-mango-fruit
+	writing mesh:  tree-mango
+	writing mesh:  tree-mango-cut
+	writing mesh:  tree-mango-stump
+	writing mesh:  tree-orange-fruit
+	writing mesh:  tree-orange
+	writing mesh:  tree-orange-cut
+	writing mesh:  tree-orange-stump
+	writing mesh:  tree-apple-fruit
+	writing mesh:  tree-apple
+	writing mesh:  tree-apple-cut
+	writing mesh:  tree-apple-stump
+	writing mesh:  tree-maple-yellow
+	writing mesh:  tree-maple-yellow-cut
+	writing mesh:  tree-maple-yellow-stump
+	writing mesh:  tree-oak-dark
+	writing mesh:  tree-oak-dark-cut
+	writing mesh:  tree-oak-dark-stump
+	writing mesh:  tree-maple
+	writing mesh:  tree-maple-cut
+	writing mesh:  tree-maple-stump
+	writing mesh:  logspike-oak
+	writing mesh:  logspike-fruit
+	writing mesh:  logspike-maple
+	writing mesh:  door-metal-lock
+	writing mesh:  door-metal
+	writing mesh:  metalspike
+	writing mesh:  alchemy-table-maple
+	writing mesh:  alchemy-table-oak
+	writing mesh:  kiln
+	writing mesh:  foundry
+	writing mesh:  foundry-base
+	writing mesh:  boulder-large
+	writing mesh:  boulder-rubble
+	writing mesh:  boulder-medium
+	writing mesh:  boulder-small
+	writing mesh:  bomb
+	writing mesh:  dynamite
+	writing mesh:  bush-strawberry-full
+	writing mesh:  bush-strawberry
+	writing mesh:  bush-blueberry-full
+	writing mesh:  bush-blueberry
+	writing mesh:  chest-wood-unlocked
+	writing mesh:  chest-wood-lock
+	writing mesh:  chest-wood-locked
+	writing mesh:  anvil
+	writing mesh:  pond
+	writing mesh:  corn-empty
+	writing mesh:  corn-grown
+	writing mesh:  cotton-empty
+	writing mesh:  cotton-grown
+	writing mesh:  logsetup-oak
+	writing mesh:  logsetup-maple
+	writing mesh:  logsetup-fruit
+	writing mesh:  door-wood-lock
+	writing mesh:  door-wood
+	writing mesh:  workbench-oak
+	writing mesh:  workbench-maple
+	writing mesh:  flag
+	writing mesh:  potato
+	writing mesh:  potato-grown
+	writing mesh:  sleepingbag-bear
+	writing mesh:  sleepingbag
+	writing mesh:  chest-metal-lock
+	writing mesh:  chest-metal-locked
+	writing mesh:  chest-metal-unlocked
+	writing mesh:  pot-plant
+	writing mesh:  coffee-small
+	writing mesh:  coffee-medium
+	writing mesh:  coffee
+	writing mesh:  coffee-full
+	writing mesh:  poison-small
+	writing mesh:  poison-medium
+	writing mesh:  poison
+	writing mesh:  poison-full
+	writing mesh:  pot-tree
+	writing mesh:  bamboo-small
+	writing mesh:  bamboo-medium
+	writing mesh:  bamboo-full
 ========= Writing of JSON file completed =========
 ========= end of processing =========
-elapsed time:  0 min, 1.4603 secs
+elapsed time:  0 min, 3.9379 secs
