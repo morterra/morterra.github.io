@@ -886,35 +886,6 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		num uvs2           :  0
 		num colors         :  0
 		num indices        :  2628
-	processing begun of mesh:  bamboo-small
-		processing begun of material:  Bamboo
-		num positions      :  276
-		num normals        :  276
-		num tangents       :  0
-		num uvs            :  552
-		num uvs2           :  0
-		num colors         :  0
-		num indices        :  324
-	processing begun of mesh:  bamboo-medium
-		processing begun of material:  Bamboo
-		registered as also a user of material:  Bamboo
-		num positions      :  276
-		num normals        :  276
-		num tangents       :  0
-		num uvs            :  552
-		num uvs2           :  0
-		num colors         :  0
-		num indices        :  324
-	processing begun of mesh:  bamboo-full
-		processing begun of material:  Bamboo
-		registered as also a user of material:  Bamboo
-		num positions      :  578
-		num normals        :  578
-		num tangents       :  0
-		num uvs            :  1156
-		num uvs2           :  0
-		num colors         :  0
-		num indices        :  684
 ========= Writing of JSON file started =========
 	writing mesh:  tree-maple-dark
 	writing mesh:  tree-maple-dark-cut
@@ -998,9 +969,6 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 	writing mesh:  poison
 	writing mesh:  poison-full
 	writing mesh:  pot-tree
-	writing mesh:  bamboo-small
-	writing mesh:  bamboo-medium
-	writing mesh:  bamboo-full
 ========= Writing of JSON file completed =========
 ========= end of processing =========
-elapsed time:  0 min, 1.5689 secs
+elapsed time:  0 min, 1.3404 secs
