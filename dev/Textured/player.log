@@ -11,7 +11,6 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		Keep Z-up r-handed  :  no
 		Texture directory   :  D:\Desktop\morterra.github.io\dev\Textured\
 	Python World class constructor completed
-	WARNING: No active camera has been assigned, or is not in a currently selected Blender layer
 	processing begun of skeleton:  skeleton-player, id:  0
 		processing begun of bone:  Pole Target.L, index:  0
 		processing begun of bone:  Pole Target.R, index:  1
@@ -40,6 +39,7 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		processing begun of bone:  Thumb_R, index:  24
 		processing begun of bone:  Hand_Hold_R, index:  25
 		processing begun of bone:  Hand_R.001, index:  26
+		processing action ArmatureAction.005:  in[0 - 1249], out[0 - 1249]
 	processing begun of mesh:  axe
 		processing begun of material:  Texture Sheet
 			processing texture Texturesheet
@@ -632,20 +632,20 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 	processing begun of mesh:  pickaxe
 		processing begun of material:  Texture Sheet
 		registered as also a user of material:  Texture Sheet
-		num positions      :  168
-		num normals        :  168
+		num positions      :  169
+		num normals        :  169
 		num tangents       :  0
-		num uvs            :  336
+		num uvs            :  338
 		num uvs2           :  0
 		num colors         :  0
 		num indices        :  180
 		Skeleton stats:  
-			WARNING: Maximum # of influencers exceeded for 168 vertices, extras ignored
-			Total Influencers:  1698
-			Avg # of influencers per vertex:  10.1071
-			Highest # of influencers observed:  11, num vertices with this:  168
+			WARNING: Maximum # of influencers exceeded for 169 vertices, extras ignored
+			Total Influencers:  1708
+			Avg # of influencers per vertex:  10.1065
+			Highest # of influencers observed:  11, num vertices with this:  169
 			exported as 8 influencers
-			num skeletonWeights and skeletonIndices:  1344
+			num skeletonWeights and skeletonIndices:  1352
 	processing begun of mesh:  player
 		processing begun of material:  Texture Sheet
 		registered as also a user of material:  Texture Sheet
@@ -824,4 +824,4 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 	writing mesh:  sword
 ========= Writing of JSON file completed =========
 ========= end of processing =========
-elapsed time:  0 min, 12.1169 secs
+elapsed time:  0 min, 14.7404 secs

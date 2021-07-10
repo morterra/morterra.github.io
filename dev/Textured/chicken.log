@@ -11,7 +11,6 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		Keep Z-up r-handed  :  no
 		Texture directory   :  D:\Desktop\morterra.github.io\dev\Textured\
 	Python World class constructor completed
-	WARNING: No active camera has been assigned, or is not in a currently selected Blender layer
 	processing begun of skeleton:  skeleton-chicken, id:  0
 		processing begun of bone:  Bone, index:  0
 		processing begun of bone:  Bone.001, index:  1
@@ -31,6 +30,7 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		processing begun of bone:  Bone.008, index:  15
 		processing begun of bone:  Bone.009, index:  16
 		processing begun of bone:  Bone.011, index:  17
+		processing action ArmatureAction.005:  in[0 - 1249], out[0 - 1249]
 	processing begun of mesh:  chicken
 		processing begun of material:  Texture Sheet
 			processing texture Texturesheet
@@ -54,4 +54,4 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 	writing mesh:  chicken
 ========= Writing of JSON file completed =========
 ========= end of processing =========
-elapsed time:  0 min, 0.3581 secs
+elapsed time:  0 min, 1.6479 secs

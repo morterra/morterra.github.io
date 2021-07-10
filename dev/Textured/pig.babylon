@@ -5,56 +5,106 @@
 "multiMaterials":[],
 "skeletons":[{"name":"skeleton-pig","id":0,"dimensionsAtRest":[0.56,1.3151,3.4094],"bones":[
 {"name":"Root","index":0,"matrix":[-1,0,0,0,0,0,-1,0,0,1,0,0,-0.0433,0.062,0.4647,1],"rest":[-1,0,0,0,0,0,-1,0,0,1,0,0,-0.0433,0.062,0.4647,1],"parentBoneIndex":-1,"length":0.4597
-,"animation":{"dataType":3,"framePerSecond":60,"keys":[],"loopBehavior":1,"name":"anim","property":"_matrix"}},
+,"animation":{"dataType":3,"framePerSecond":60,"keys":[
+{"frame":0,"values":[-1,0,0,0,0,0,-1,0,0,1,0,0,-0.0433,0.062,0.4647,1]},
+{"frame":1249,"values":[-1,0,0,0,0,0,-1,0,0,1,0,0,-0.0433,0.062,0.4647,1]}],"loopBehavior":1,"name":"anim","property":"_matrix"}},
 {"name":"bone.foot.front.l.001 ik","index":1,"matrix":[-1,0,0,0,0,-1,0,0,0,0,1,0,-0.2183,1.2877,-0.0391,1],"rest":[-1,0,0,0,0,-1,0,0,0,0,1,0,-0.2183,1.2877,-0.0391,1],"parentBoneIndex":0,"length":0.2313
-,"animation":{"dataType":3,"framePerSecond":60,"keys":[],"loopBehavior":1,"name":"anim","property":"_matrix"}},
+,"animation":{"dataType":3,"framePerSecond":60,"keys":[
+{"frame":0,"values":[-1,0,0,0,0,-1,0,0,0,0,1,0,-0.2183,1.2877,-0.0391,1]},
+{"frame":1249,"values":[-1,0,0,0,0,-1,0,0,0,0,1,0,-0.2183,1.2877,-0.0391,1]}],"loopBehavior":1,"name":"anim","property":"_matrix"}},
 {"name":"left front foot","index":2,"matrix":[-1,0,0,0,0,-1,0,0,0,0,1,0,0,0,0,1],"rest":[-1,0,0,0,0,-1,0,0,0,0,1,0,0,0,0,1],"parentBoneIndex":1,"length":0.1545
-,"animation":{"dataType":3,"framePerSecond":60,"keys":[],"loopBehavior":1,"name":"anim","property":"_matrix"}},
+,"animation":{"dataType":3,"framePerSecond":60,"keys":[
+{"frame":0,"values":[-1,0,0,0,0,-1,0,0,0,0,1,0,0,0,0,1]},
+{"frame":1249,"values":[-1,0,0,0,0,-1,0,0,0,0,1,0,0,0,0,1]}],"loopBehavior":1,"name":"anim","property":"_matrix"}},
 {"name":"bone.foot.front.l.002 knee","index":3,"matrix":[1,0,0,0,0,0,1,0,0,-1,0,0,0,-0.2122,0.2314,1],"rest":[1,0,0,0,0,0,1,0,0,-1,0,0,0,-0.2122,0.2314,1],"parentBoneIndex":1,"length":0.2313
-,"animation":{"dataType":3,"framePerSecond":60,"keys":[],"loopBehavior":1,"name":"anim","property":"_matrix"}},
+,"animation":{"dataType":3,"framePerSecond":60,"keys":[
+{"frame":0,"values":[1,0,0,0,0,0,1,0,0,-1,0,0,0,-0.2122,0.2314,1]},
+{"frame":1249,"values":[1,0,0,0,0,0,1,0,0,-1,0,0,0,-0.2122,0.2314,1]}],"loopBehavior":1,"name":"anim","property":"_matrix"}},
 {"name":"bone.foot.front.r.001 ik","index":4,"matrix":[-1,0,0,0,0,-1,0,0,0,0,1,0,0.1164,1.2877,-0.0391,1],"rest":[-1,0,0,0,0,-1,0,0,0,0,1,0,0.1164,1.2877,-0.0391,1],"parentBoneIndex":0,"length":0.2313
-,"animation":{"dataType":3,"framePerSecond":60,"keys":[],"loopBehavior":1,"name":"anim","property":"_matrix"}},
+,"animation":{"dataType":3,"framePerSecond":60,"keys":[
+{"frame":0,"values":[-1,0,0,0,0,-1,0,0,0,0,1,0,0.1164,1.2877,-0.0391,1]},
+{"frame":1249,"values":[-1,0,0,0,0,-1,0,0,0,0,1,0,0.1164,1.2877,-0.0391,1]}],"loopBehavior":1,"name":"anim","property":"_matrix"}},
 {"name":"right front foot","index":5,"matrix":[-1,0,0,0,0,-1,0,0,0,0,1,0,0,0,0,1],"rest":[-1,0,0,0,0,-1,0,0,0,0,1,0,0,0,0,1],"parentBoneIndex":4,"length":0.1545
-,"animation":{"dataType":3,"framePerSecond":60,"keys":[],"loopBehavior":1,"name":"anim","property":"_matrix"}},
+,"animation":{"dataType":3,"framePerSecond":60,"keys":[
+{"frame":0,"values":[-1,0,0,0,0,-1,0,0,0,0,1,0,0,0,0,1]},
+{"frame":1249,"values":[-1,0,0,0,0,-1,0,0,0,0,1,0,0,0,0,1]}],"loopBehavior":1,"name":"anim","property":"_matrix"}},
 {"name":"bone.foot.front.r.002 knee","index":6,"matrix":[1,0,0,0,0,0,1,0,0,-1,0,0,0,-0.2122,0.2314,1],"rest":[1,0,0,0,0,0,1,0,0,-1,0,0,0,-0.2122,0.2314,1],"parentBoneIndex":4,"length":0.2313
-,"animation":{"dataType":3,"framePerSecond":60,"keys":[],"loopBehavior":1,"name":"anim","property":"_matrix"}},
+,"animation":{"dataType":3,"framePerSecond":60,"keys":[
+{"frame":0,"values":[1,0,0,0,0,0,1,0,0,-1,0,0,0,-0.2122,0.2314,1]},
+{"frame":1249,"values":[1,0,0,0,0,0,1,0,0,-1,0,0,0,-0.2122,0.2314,1]}],"loopBehavior":1,"name":"anim","property":"_matrix"}},
 {"name":"bone.foot.back.l.001 ik","index":7,"matrix":[-1,0,0,0,0,-1,0,0,0,0,1,0,-0.3254,-0.8903,-0.0362,1],"rest":[-1,0,0,0,0,-1,0,0,0,0,1,0,-0.3254,-0.8903,-0.0362,1],"parentBoneIndex":0,"length":0.2313
-,"animation":{"dataType":3,"framePerSecond":60,"keys":[],"loopBehavior":1,"name":"anim","property":"_matrix"}},
+,"animation":{"dataType":3,"framePerSecond":60,"keys":[
+{"frame":0,"values":[-1,0,0,0,0,-1,0,0,0,0,1,0,-0.3254,-0.8903,-0.0362,1]},
+{"frame":1249,"values":[-1,0,0,0,0,-1,0,0,0,0,1,0,-0.3254,-0.8903,-0.0362,1]}],"loopBehavior":1,"name":"anim","property":"_matrix"}},
 {"name":"left back foot","index":8,"matrix":[-1,0,0,0,0,-1,0,0,0,0,1,0,0,0,0,1],"rest":[-1,0,0,0,0,-1,0,0,0,0,1,0,0,0,0,1],"parentBoneIndex":7,"length":0.1545
-,"animation":{"dataType":3,"framePerSecond":60,"keys":[],"loopBehavior":1,"name":"anim","property":"_matrix"}},
+,"animation":{"dataType":3,"framePerSecond":60,"keys":[
+{"frame":0,"values":[-1,0,0,0,0,-1,0,0,0,0,1,0,0,0,0,1]},
+{"frame":1249,"values":[-1,0,0,0,0,-1,0,0,0,0,1,0,0,0,0,1]}],"loopBehavior":1,"name":"anim","property":"_matrix"}},
 {"name":"bone.foot.back.l.002 knee","index":9,"matrix":[1,0,0,0,0,0,1,0,0,-1,0,0,0,-0.3849,0.3119,1],"rest":[1,0,0,0,0,0,1,0,0,-1,0,0,0,-0.3849,0.3119,1],"parentBoneIndex":7,"length":0.2313
-,"animation":{"dataType":3,"framePerSecond":60,"keys":[],"loopBehavior":1,"name":"anim","property":"_matrix"}},
+,"animation":{"dataType":3,"framePerSecond":60,"keys":[
+{"frame":0,"values":[1,0,0,0,0,0,1,0,0,-1,0,0,0,-0.3849,0.3119,1]},
+{"frame":1249,"values":[1,0,0,0,0,0,1,0,0,-1,0,0,0,-0.3849,0.3119,1]}],"loopBehavior":1,"name":"anim","property":"_matrix"}},
 {"name":"bone.foot.back.r.001 ik","index":10,"matrix":[-1,0,0,0,0,-1,0,0,0,0,1,0,0.2347,-0.8871,-0.0269,1],"rest":[-1,0,0,0,0,-1,0,0,0,0,1,0,0.2347,-0.8871,-0.0269,1],"parentBoneIndex":0,"length":0.2313
-,"animation":{"dataType":3,"framePerSecond":60,"keys":[],"loopBehavior":1,"name":"anim","property":"_matrix"}},
+,"animation":{"dataType":3,"framePerSecond":60,"keys":[
+{"frame":0,"values":[-1,0,0,0,0,-1,0,0,0,0,1,0,0.2347,-0.8871,-0.0269,1]},
+{"frame":1249,"values":[-1,0,0,0,0,-1,0,0,0,0,1,0,0.2347,-0.8871,-0.0269,1]}],"loopBehavior":1,"name":"anim","property":"_matrix"}},
 {"name":"right back foot","index":11,"matrix":[-1,0,0,0,0,-1,0,0,0,0,1,0,0,0,0,1],"rest":[-1,0,0,0,0,-1,0,0,0,0,1,0,0,0,0,1],"parentBoneIndex":10,"length":0.1545
-,"animation":{"dataType":3,"framePerSecond":60,"keys":[],"loopBehavior":1,"name":"anim","property":"_matrix"}},
+,"animation":{"dataType":3,"framePerSecond":60,"keys":[
+{"frame":0,"values":[-1,0,0,0,0,-1,0,0,0,0,1,0,0,0,0,1]},
+{"frame":1249,"values":[-1,0,0,0,0,-1,0,0,0,0,1,0,0,0,0,1]}],"loopBehavior":1,"name":"anim","property":"_matrix"}},
 {"name":"bone.foot.back.r.002 knee","index":12,"matrix":[1,0,0,0,0,0,1,0,0,-1,0,0,0,-0.3849,0.3119,1],"rest":[1,0,0,0,0,0,1,0,0,-1,0,0,0,-0.3849,0.3119,1],"parentBoneIndex":10,"length":0.2313
-,"animation":{"dataType":3,"framePerSecond":60,"keys":[],"loopBehavior":1,"name":"anim","property":"_matrix"}},
+,"animation":{"dataType":3,"framePerSecond":60,"keys":[
+{"frame":0,"values":[1,0,0,0,0,0,1,0,0,-1,0,0,0,-0.3849,0.3119,1]},
+{"frame":1249,"values":[1,0,0,0,0,0,1,0,0,-1,0,0,0,-0.3849,0.3119,1]}],"loopBehavior":1,"name":"anim","property":"_matrix"}},
 {"name":"bone.back.rear","index":13,"matrix":[1,0,0,0,0,0.907,0.4211,0,0,-0.4211,0.907,0,-0.0236,-0.7388,0.9889,1],"rest":[1,0,0,0,0,0.907,0.4211,0,0,-0.4211,0.907,0,-0.0236,-0.7388,0.9889,1],"parentBoneIndex":0,"length":0.6818
-,"animation":{"dataType":3,"framePerSecond":60,"keys":[],"loopBehavior":1,"name":"anim","property":"_matrix"}},
+,"animation":{"dataType":3,"framePerSecond":60,"keys":[
+{"frame":0,"values":[1,0,0,0,0,0.907,0.4211,0,0,-0.4211,0.907,0,-0.0236,-0.7388,0.9889,1]},
+{"frame":1249,"values":[1,0,0,0,0,0.907,0.4211,0,0,-0.4211,0.907,0,-0.0236,-0.7388,0.9889,1]}],"loopBehavior":1,"name":"anim","property":"_matrix"}},
 {"name":"bone.back.mid","index":14,"matrix":[1,0,0,0,0,0.8999,-0.436,0,0,0.436,0.8999,0,0,0.6818,0,1],"rest":[1,0,0,0,0,0.8999,-0.436,0,0,0.4359,0.8997,0,0,0.6818,0,1],"parentBoneIndex":13,"length":1.2415
-,"animation":{"dataType":3,"framePerSecond":60,"keys":[],"loopBehavior":1,"name":"anim","property":"_matrix"}},
+,"animation":{"dataType":3,"framePerSecond":60,"keys":[
+{"frame":0,"values":[1,0,0,0,0,0.8999,-0.436,0,0,0.436,0.8999,0,0,0.6818,0,1]},
+{"frame":1249,"values":[1,0,0,0,0,0.8999,-0.436,0,0,0.436,0.8999,0,0,0.6818,0,1]}],"loopBehavior":1,"name":"anim","property":"_matrix"}},
 {"name":"bone.leg.front.r","index":15,"matrix":[0,0.9392,0.3433,0,0,0.3433,-0.9392,0,-1,0,0,0,0.14,1.1692,-0.3727,1],"rest":[0,0.9392,0.3434,0,0,0.3432,-0.9395,0,-1,0,0,0,0.14,1.1692,-0.3729,1],"parentBoneIndex":14,"length":0.6044
-,"animation":{"dataType":3,"framePerSecond":60,"keys":[],"loopBehavior":1,"name":"anim","property":"_matrix"}},
+,"animation":{"dataType":3,"framePerSecond":60,"keys":[
+{"frame":0,"values":[0,0.9392,0.3433,0,0,0.3433,-0.9392,0,-1,0,0,0,0.14,1.1692,-0.3727,1]},
+{"frame":1249,"values":[0,0.9392,0.3433,0,0,0.3433,-0.9392,0,-1,0,0,0,0.14,1.1692,-0.3727,1]}],"loopBehavior":1,"name":"anim","property":"_matrix"}},
 {"name":"bone.foot.front.r","index":16,"matrix":[0,0,-1,0,-0.1995,0.9799,0,0,0.9799,0.1995,0,0,0,0.6044,0,1],"rest":[0,0,-1,0,-0.1995,0.9799,0,0,0.9799,0.1995,0,0,0,0.6044,0,1],"parentBoneIndex":15,"length":0.3552
-,"animation":{"dataType":3,"framePerSecond":60,"keys":[],"loopBehavior":1,"name":"anim","property":"_matrix"}},
+,"animation":{"dataType":3,"framePerSecond":60,"keys":[
+{"frame":0,"values":[0,0,-1,0,-0.1995,0.9799,0,0,0.9799,0.1995,0,0,0,0.6044,0,1]},
+{"frame":1249,"values":[0,0,-1,0,-0.1995,0.9799,0,0,0.9799,0.1995,0,0,0,0.6044,0,1]}],"loopBehavior":1,"name":"anim","property":"_matrix"}},
 {"name":"bone.neck","index":17,"matrix":[1,0,0,0,0,0.9002,-0.4354,0,0,0.4354,0.9002,0,0,1.2415,0,1],"rest":[1,0,0,0,0,0.9002,-0.4356,0,0,0.4354,0.9005,0,0,1.2415,0,1],"parentBoneIndex":14,"length":0.4965
-,"animation":{"dataType":3,"framePerSecond":60,"keys":[],"loopBehavior":1,"name":"anim","property":"_matrix"}},
+,"animation":{"dataType":3,"framePerSecond":60,"keys":[
+{"frame":0,"values":[1,0,0,0,0,0.9002,-0.4354,0,0,0.4354,0.9002,0,0,1.2415,0,1]},
+{"frame":1249,"values":[1,0,0,0,0,0.9002,-0.4354,0,0,0.4354,0.9002,0,0,1.2415,0,1]}],"loopBehavior":1,"name":"anim","property":"_matrix"}},
 {"name":"bone.head","index":18,"matrix":[1,0,0,0,0,0.9995,-0.0325,0,0,0.0325,0.9995,0,0,0.4965,0,1],"rest":[1,0,0,0,0,0.9995,-0.0325,0,0,0.0325,0.9995,0,0,0.4965,0,1],"parentBoneIndex":17,"length":0.8242
-,"animation":{"dataType":3,"framePerSecond":60,"keys":[],"loopBehavior":1,"name":"anim","property":"_matrix"}},
+,"animation":{"dataType":3,"framePerSecond":60,"keys":[
+{"frame":0,"values":[1,0,0,0,0,0.9995,-0.0325,0,0,0.0325,0.9995,0,0,0.4965,0,1]},
+{"frame":1249,"values":[1,0,0,0,0,0.9995,-0.0325,0,0,0.0325,0.9995,0,0,0.4965,0,1]}],"loopBehavior":1,"name":"anim","property":"_matrix"}},
 {"name":"bone.leg.front.l","index":19,"matrix":[0,0.9392,0.3433,0,0,0.3433,-0.9392,0,-1,0,0,0,-0.1946,1.1692,-0.3727,1],"rest":[0,0.9392,0.3434,0,0,0.3432,-0.9395,0,-1,0,0,0,-0.1946,1.1692,-0.3729,1],"parentBoneIndex":14,"length":0.6044
-,"animation":{"dataType":3,"framePerSecond":60,"keys":[],"loopBehavior":1,"name":"anim","property":"_matrix"}},
+,"animation":{"dataType":3,"framePerSecond":60,"keys":[
+{"frame":0,"values":[0,0.9392,0.3433,0,0,0.3433,-0.9392,0,-1,0,0,0,-0.1946,1.1692,-0.3727,1]},
+{"frame":1249,"values":[0,0.9392,0.3433,0,0,0.3433,-0.9392,0,-1,0,0,0,-0.1946,1.1692,-0.3727,1]}],"loopBehavior":1,"name":"anim","property":"_matrix"}},
 {"name":"bone.foot.front.l","index":20,"matrix":[0,0,-1,0,-0.1995,0.9799,0,0,0.9799,0.1995,0,0,0,0.6044,0,1],"rest":[0,0,-1,0,-0.1995,0.9799,0,0,0.9799,0.1995,0,0,0,0.6044,0,1],"parentBoneIndex":19,"length":0.3552
-,"animation":{"dataType":3,"framePerSecond":60,"keys":[],"loopBehavior":1,"name":"anim","property":"_matrix"}},
+,"animation":{"dataType":3,"framePerSecond":60,"keys":[
+{"frame":0,"values":[0,0,-1,0,-0.1995,0.9799,0,0,0.9799,0.1995,0,0,0,0.6044,0,1]},
+{"frame":1249,"values":[0,0,-1,0,-0.1995,0.9799,0,0,0.9799,0.1995,0,0,0,0.6044,0,1]}],"loopBehavior":1,"name":"anim","property":"_matrix"}},
 {"name":"bone.leg.back.l","index":21,"matrix":[0,0.7884,-0.6151,0,0,-0.6151,-0.7884,0,-1,0,0,0,-0.3017,-0.0464,-0.0683,1],"rest":[0,0.7884,-0.6151,0,0,-0.6151,-0.7884,0,-1,0,0,0,-0.3017,-0.0464,-0.0683,1],"parentBoneIndex":13,"length":0.5862
-,"animation":{"dataType":3,"framePerSecond":60,"keys":[],"loopBehavior":1,"name":"anim","property":"_matrix"}},
+,"animation":{"dataType":3,"framePerSecond":60,"keys":[
+{"frame":0,"values":[0,0.7884,-0.6151,0,0,-0.6151,-0.7884,0,-1,0,0,0,-0.3017,-0.0464,-0.0683,1]},
+{"frame":1249,"values":[0,0.7884,-0.6151,0,0,-0.6151,-0.7884,0,-1,0,0,0,-0.3017,-0.0464,-0.0683,1]}],"loopBehavior":1,"name":"anim","property":"_matrix"}},
 {"name":"bone.foot.back.l","index":22,"matrix":[0,0,-1,0,0.2106,0.9776,0,0,0.9776,-0.2106,0,0,0,0.5862,0,1],"rest":[0,0,-1,0,0.2106,0.9776,0,0,0.9776,-0.2106,0,0,0,0.5862,0,1],"parentBoneIndex":21,"length":0.3726
-,"animation":{"dataType":3,"framePerSecond":60,"keys":[],"loopBehavior":1,"name":"anim","property":"_matrix"}},
+,"animation":{"dataType":3,"framePerSecond":60,"keys":[
+{"frame":0,"values":[0,0,-1,0,0.2106,0.9776,0,0,0.9776,-0.2106,0,0,0,0.5862,0,1]},
+{"frame":1249,"values":[0,0,-1,0,0.2106,0.9776,0,0,0.9776,-0.2106,0,0,0,0.5862,0,1]}],"loopBehavior":1,"name":"anim","property":"_matrix"}},
 {"name":"bone.leg.back.r","index":23,"matrix":[0,0.7884,-0.6151,0,0,-0.6151,-0.7884,0,-1,0,0,0,0.2583,-0.0395,-0.0612,1],"rest":[0,0.7884,-0.6151,0,0,-0.6151,-0.7884,0,-1,0,0,0,0.2583,-0.0395,-0.0612,1],"parentBoneIndex":13,"length":0.5862
-,"animation":{"dataType":3,"framePerSecond":60,"keys":[],"loopBehavior":1,"name":"anim","property":"_matrix"}},
+,"animation":{"dataType":3,"framePerSecond":60,"keys":[
+{"frame":0,"values":[0,0.7884,-0.6151,0,0,-0.6151,-0.7884,0,-1,0,0,0,0.2583,-0.0395,-0.0612,1]},
+{"frame":1249,"values":[0,0.7884,-0.6151,0,0,-0.6151,-0.7884,0,-1,0,0,0,0.2583,-0.0395,-0.0612,1]}],"loopBehavior":1,"name":"anim","property":"_matrix"}},
 {"name":"bone.foot.back.r","index":24,"matrix":[0,0,-1,0,0.2106,0.9776,0,0,0.9776,-0.2106,0,0,0,0.5862,0,1],"rest":[0,0,-1,0,0.2106,0.9776,0,0,0.9776,-0.2106,0,0,0,0.5862,0,1],"parentBoneIndex":23,"length":0.3726
-,"animation":{"dataType":3,"framePerSecond":60,"keys":[],"loopBehavior":1,"name":"anim","property":"_matrix"}}]
-,"ranges":[]}],
+,"animation":{"dataType":3,"framePerSecond":60,"keys":[
+{"frame":0,"values":[0,0,-1,0,0.2106,0.9776,0,0,0.9776,-0.2106,0,0,0,0.5862,0,1]},
+{"frame":1249,"values":[0,0,-1,0,0.2106,0.9776,0,0,0.9776,-0.2106,0,0,0,0.5862,0,1]}],"loopBehavior":1,"name":"anim","property":"_matrix"}}]
+,"ranges":[{"name":"ArmatureAction.005","from":0,"to":1249}]}],
 "meshes":[{"name":"pig","id":"pig","materialId":"Texture Sheet","billboardMode":0,"position":[0,0,0],"rotation":[0,0,0],"scaling":[1,1,1],"isVisible":true,"freezeWorldMatrix":false,"isEnabled":true,"checkCollisions":false,"receiveShadows":false,"pickable":true,"tags":"","skeletonId":0,"numBoneInfluencers":8
 ,"positions":[0.0045,1.5282,1.2033,0.0304,1.4438,1.3321,0.0315,1.5932,1.2805,0.132,1.2651,-1.3604,0.0405,1.4187,-1.3717,0.1686,1.3183,-1.5399,0.2389,1.5453,-1.1566,0.2465,1.6316,-0.9677,-0.2443,1.6309,-0.97,0.2409,1.7981,0.1461,0.2465,1.7771,0.6361,-0.2477,1.779,0.6026,0.1498,1.6069,-1.5421,0.0405,1.4187,-1.3717,0.0036,1.4187,-1.3717,0.1636,0.7431,1.3645,0.4101,1.1265,1.4263
 ,0.3286,0.7431,1.3645,0.3653,0.172,1.3525,0.3286,0.1868,1.412,0.3286,0.4497,1.3595,0.3057,0.6056,-0.5095,0.0875,0.5236,-0.5465,0.008,0.6056,-0.5095,0.0875,0.5133,-0.8278,0.2984,0.5998,-0.8274,-0.0034,0.5998,-0.8274,0.2166,1.1532,-1.5308,0.2482,1.063,-1.5257,0.2313,1.1241,-1.473,0.2482,1.063,-1.5257,0.2166,1.1532,-1.5308,0.202,1.0628,-1.5727,-0.0315,1.5932,1.2805
@@ -410,7 +460,7 @@
 ,"instances":[]}
 ],
 "morphTargetManagers":[],
-"cameras":[],
+"cameras":[],"activeCameraID":"Camera",
 "lights":[],
 "shadowGenerators":[]
 }

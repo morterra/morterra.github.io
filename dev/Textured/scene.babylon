@@ -23,14 +23,22 @@
 "multiMaterials":[{"name":"scene.Multimaterial#0","id":"scene.Multimaterial#0","materials":["WoodFruit","Apple","AppleLeaves"]},{"name":"scene.Multimaterial#1","id":"scene.Multimaterial#1","materials":["RawWood","Oak","Clay","Cloth","Gold","Iron"]},{"name":"scene.Multimaterial#2","id":"scene.Multimaterial#2","materials":["Clay","Dirt"]},{"name":"scene.Multimaterial#3","id":"scene.Multimaterial#3","materials":["Clay","Dirt","OakLeaves"]},{"name":"scene.Multimaterial#4","id":"scene.Multimaterial#4","materials":["Clay","Dirt","OakLeaves"]},{"name":"scene.Multimaterial#5","id":"scene.Multimaterial#5","materials":["Clay","Dirt","OakLeaves"]},{"name":"scene.Multimaterial#6","id":"scene.Multimaterial#6","materials":["coffee-full_baked","Clay","Dirt","OakLeaves"]},{"name":"scene.Multimaterial#7","id":"scene.Multimaterial#7","materials":["Titanium","OakDarkLeaves"]},{"name":"scene.Multimaterial#8","id":"scene.Multimaterial#8","materials":["Titanium","OakDarkLeaves","poison_baked"]},{"name":"scene.Multimaterial#9","id":"scene.Multimaterial#9","materials":["TungstenAlloy","Titanium","OakDarkLeaves","poison-full_baked"]},{"name":"scene.Multimaterial#10","id":"scene.Multimaterial#10","materials":["Clay","Dirt"]}],
 "skeletons":[{"name":"skeleton-flag","id":0,"dimensionsAtRest":[1.4531,1,0.0249],"bones":[
 {"name":"Bone","index":0,"matrix":[1,0,0,0,0,1,0,0,0,0,-1,0,0,3.2184,0,1],"rest":[1,0,0,0,0,1,0,0,0,0,-1,0,0,3.2184,0,1],"parentBoneIndex":-1,"length":1
-,"animation":{"dataType":3,"framePerSecond":60,"keys":[],"loopBehavior":1,"name":"anim","property":"_matrix"}},
+,"animation":{"dataType":3,"framePerSecond":60,"keys":[
+{"frame":0,"values":[1,0,0,0,0,1,0,0,0,0,-1,0,0,3.2184,0,1]},
+{"frame":1249,"values":[1,0,0,0,0,1,0,0,0,0,-1,0,0,3.2184,0,1]}],"loopBehavior":1,"name":"anim","property":"_matrix"}},
 {"name":"Bone.001","index":1,"matrix":[0.016,0,0.9999,0,0.996,-0.0882,-0.016,0,0.0882,0.9961,-0.0014,0,0,1,0,1],"rest":[0.016,0,0.9999,0,0.996,-0.0882,-0.016,0,0.0882,0.9961,-0.0014,0,0,1,0,1],"parentBoneIndex":0,"length":0.3829
-,"animation":{"dataType":3,"framePerSecond":60,"keys":[],"loopBehavior":1,"name":"anim","property":"_matrix"}},
+,"animation":{"dataType":3,"framePerSecond":60,"keys":[
+{"frame":0,"values":[0.016,0,0.9999,0,0.996,-0.0882,-0.016,0,0.0882,0.9961,-0.0014,0,0,1,0,1]},
+{"frame":1249,"values":[0.016,0,0.9999,0,0.996,-0.0882,-0.016,0,0.0882,0.9961,-0.0014,0,0,1,0,1]}],"loopBehavior":1,"name":"anim","property":"_matrix"}},
 {"name":"Bone.002","index":2,"matrix":[0.9997,-0.0232,-0.003,0,0.0233,0.9949,0.0981,0,0.0007,-0.0981,0.9952,0,0,0.3829,0,1],"rest":[0.9997,-0.0232,-0.003,0,0.0233,0.9949,0.0981,0,0.0007,-0.0981,0.9952,0,0,0.3829,0,1],"parentBoneIndex":1,"length":0.6018
-,"animation":{"dataType":3,"framePerSecond":60,"keys":[],"loopBehavior":1,"name":"anim","property":"_matrix"}},
+,"animation":{"dataType":3,"framePerSecond":60,"keys":[
+{"frame":0,"values":[0.9997,-0.0232,-0.003,0,0.0233,0.9949,0.0981,0,0.0007,-0.0981,0.9952,0,0,0.3829,0,1]},
+{"frame":1249,"values":[0.9997,-0.0232,-0.003,0,0.0233,0.9949,0.0981,0,0.0007,-0.0981,0.9952,0,0,0.3829,0,1]}],"loopBehavior":1,"name":"anim","property":"_matrix"}},
 {"name":"Bone.003","index":3,"matrix":[0.9993,-0.0363,0.0028,0,0.0363,0.9991,-0.0221,0,-0.002,0.0222,0.9998,0,0,0.6018,0,1],"rest":[0.9993,-0.0363,0.0028,0,0.0363,0.9991,-0.0221,0,-0.002,0.0222,0.9998,0,0,0.6018,0,1],"parentBoneIndex":2,"length":0.4704
-,"animation":{"dataType":3,"framePerSecond":60,"keys":[],"loopBehavior":1,"name":"anim","property":"_matrix"}}]
-,"ranges":[]}],
+,"animation":{"dataType":3,"framePerSecond":60,"keys":[
+{"frame":0,"values":[0.9993,-0.0363,0.0028,0,0.0363,0.9991,-0.0221,0,-0.002,0.0222,0.9998,0,0,0.6018,0,1]},
+{"frame":1249,"values":[0.9993,-0.0363,0.0028,0,0.0363,0.9991,-0.0221,0,-0.002,0.0222,0.9998,0,0,0.6018,0,1]}],"loopBehavior":1,"name":"anim","property":"_matrix"}}]
+,"ranges":[{"name":"ArmatureAction.005","from":0,"to":1249}]}],
 "meshes":[{"name":"tree-maple-dark","id":"tree-maple-dark","materialId":"Texture Sheet","billboardMode":0,"position":[0,0,0],"rotation":[0,0,0],"scaling":[1,1,1],"isVisible":true,"freezeWorldMatrix":false,"isEnabled":true,"checkCollisions":false,"receiveShadows":false,"pickable":true,"tags":""
 ,"positions":[0.7058,-0.1214,-1.3962,-1.2201,-0.1121,0.8625,1.4828,-0.0424,-0.3364,0.7141,-0.0525,1.3723,0.2598,4.6837,1.303,0.8464,4.8263,1.1155,0.6286,4.6438,-1.3012,1.4828,-0.0424,-0.3364,1.3786,4.9866,-0.4078,-1.148,4.59,1.1864,0.7141,-0.0525,1.3723,-1.2201,-0.1121,0.8625,0.8464,4.8263,1.1155,1.4828,-0.0424,-0.3364,0.7141,-0.0525,1.3723,-1.1148,4.4413,-0.9233,0.7058,-0.1214,-1.3962
 ,0.6286,4.6438,-1.3012,-1.1148,4.4413,-0.9233,-1.2201,-0.1121,0.8625,-1.2556,-0.022,-1.0118,0.8464,9.2192,1.1155,0.8464,8.1087,1.1155,0.2598,9.0766,1.303,0.6286,11.0757,-1.3012,-1.1148,12.0476,-0.9233,-1.1148,10.8732,-0.9233,0.6286,7.9262,-1.3012,-1.1148,8.8342,-0.9233,-1.1148,7.7237,-0.9233,0.8464,10.3504,1.1155,2.7405,12.5533,2.1227,0.8464,9.2192,1.1155,-1.1148,9.9654,-0.9233
@@ -4734,7 +4742,7 @@
 ,"instances":[]}
 ],
 "morphTargetManagers":[],
-"cameras":[],
+"cameras":[],"activeCameraID":"Camera",
 "lights":[],
 "shadowGenerators":[]
 }
