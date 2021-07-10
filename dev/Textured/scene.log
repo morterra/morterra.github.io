@@ -750,10 +750,26 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		num uvs2           :  0
 		num colors         :  0
 		num indices        :  120
+	processing begun of mesh:  bountyboard
+		processing begun of material:  RawWood
+		processing begun of material:  Oak
+		processing begun of material:  Clay
+		processing begun of material:  Cloth
+		processing begun of material:  Gold
+		processing begun of material:  Iron
+		processing begun of multimaterial:  scene.Multimaterial#1
+		num positions      :  578
+		num normals        :  578
+		num tangents       :  0
+		num uvs            :  1156
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  708
 	processing begun of mesh:  pot-plant
 		processing begun of material:  Clay
 		processing begun of material:  Dirt
-		processing begun of multimaterial:  scene.Multimaterial#1
+		registered as also a user of material:  Clay
+		processing begun of multimaterial:  scene.Multimaterial#2
 		num positions      :  281
 		num normals        :  281
 		num tangents       :  0
@@ -767,7 +783,7 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		processing begun of material:  OakLeaves
 		registered as also a user of material:  Clay
 		registered as also a user of material:  Dirt
-		processing begun of multimaterial:  scene.Multimaterial#2
+		processing begun of multimaterial:  scene.Multimaterial#3
 		num positions      :  18
 		num normals        :  18
 		num tangents       :  0
@@ -782,7 +798,7 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		registered as also a user of material:  Clay
 		registered as also a user of material:  Dirt
 		registered as also a user of material:  OakLeaves
-		processing begun of multimaterial:  scene.Multimaterial#3
+		processing begun of multimaterial:  scene.Multimaterial#4
 		num positions      :  200
 		num normals        :  200
 		num tangents       :  0
@@ -797,7 +813,7 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		registered as also a user of material:  Clay
 		registered as also a user of material:  Dirt
 		registered as also a user of material:  OakLeaves
-		processing begun of multimaterial:  scene.Multimaterial#4
+		processing begun of multimaterial:  scene.Multimaterial#5
 		num positions      :  867
 		num normals        :  867
 		num tangents       :  0
@@ -815,7 +831,7 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		registered as also a user of material:  Clay
 		registered as also a user of material:  Dirt
 		registered as also a user of material:  OakLeaves
-		processing begun of multimaterial:  scene.Multimaterial#5
+		processing begun of multimaterial:  scene.Multimaterial#6
 		num positions      :  2129
 		num normals        :  2129
 		num tangents       :  0
@@ -836,7 +852,7 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		processing begun of material:  Titanium
 		processing begun of material:  OakDarkLeaves
 		registered as also a user of material:  OakDarkLeaves
-		processing begun of multimaterial:  scene.Multimaterial#6
+		processing begun of multimaterial:  scene.Multimaterial#7
 		num positions      :  374
 		num normals        :  374
 		num tangents       :  0
@@ -850,7 +866,7 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		processing begun of material:  Corn
 		registered as also a user of material:  Titanium
 		registered as also a user of material:  OakDarkLeaves
-		processing begun of multimaterial:  scene.Multimaterial#7
+		processing begun of multimaterial:  scene.Multimaterial#8
 		num positions      :  417
 		num normals        :  417
 		num tangents       :  0
@@ -865,7 +881,7 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		processing begun of material:  Corn
 		registered as also a user of material:  Titanium
 		registered as also a user of material:  OakDarkLeaves
-		processing begun of multimaterial:  scene.Multimaterial#8
+		processing begun of multimaterial:  scene.Multimaterial#9
 		num positions      :  660
 		num normals        :  660
 		num tangents       :  0
@@ -878,7 +894,7 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		processing begun of material:  Dirt
 		registered as also a user of material:  Clay
 		registered as also a user of material:  Dirt
-		processing begun of multimaterial:  scene.Multimaterial#9
+		processing begun of multimaterial:  scene.Multimaterial#10
 		num positions      :  2334
 		num normals        :  2334
 		num tangents       :  0
@@ -886,6 +902,16 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		num uvs2           :  0
 		num colors         :  0
 		num indices        :  2628
+	processing begun of mesh:  sign
+		processing begun of material:  RawWood
+		registered as also a user of material:  RawWood
+		num positions      :  58
+		num normals        :  58
+		num tangents       :  0
+		num uvs            :  116
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  72
 ========= Writing of JSON file started =========
 	writing mesh:  tree-maple-dark
 	writing mesh:  tree-maple-dark-cut
@@ -959,6 +985,7 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 	writing mesh:  chest-metal-lock
 	writing mesh:  chest-metal-locked
 	writing mesh:  chest-metal-unlocked
+	writing mesh:  bountyboard
 	writing mesh:  pot-plant
 	writing mesh:  coffee-small
 	writing mesh:  coffee-medium
@@ -969,6 +996,7 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 	writing mesh:  poison
 	writing mesh:  poison-full
 	writing mesh:  pot-tree
+	writing mesh:  sign
 ========= Writing of JSON file completed =========
 ========= end of processing =========
-elapsed time:  0 min, 1.3404 secs
+elapsed time:  0 min, 1.8246 secs
