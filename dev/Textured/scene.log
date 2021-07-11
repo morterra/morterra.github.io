@@ -664,22 +664,6 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		num colors         :  0
 		num indices        :  348
 		WARNING: # of 0 area faces found:  4
-	processing begun of mesh:  flag
-		processing begun of material:  Texture Sheet
-		registered as also a user of material:  Texture Sheet
-		num positions      :  126
-		num normals        :  126
-		num tangents       :  0
-		num uvs            :  252
-		num uvs2           :  0
-		num colors         :  0
-		num indices        :  162
-		Skeleton stats:  
-			Total Influencers:  236
-			Avg # of influencers per vertex:  1.873
-			Highest # of influencers observed:  3, num vertices with this:  55
-			exported as 3 influencers
-			num skeletonWeights and skeletonIndices:  504
 	processing begun of mesh:  potato
 		processing begun of material:  Texture Sheet
 		registered as also a user of material:  Texture Sheet
@@ -912,6 +896,22 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		num uvs2           :  0
 		num colors         :  0
 		num indices        :  72
+	processing begun of mesh:  flag
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  138
+		num normals        :  138
+		num tangents       :  0
+		num uvs            :  276
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  162
+		Skeleton stats:  
+			Total Influencers:  270
+			Avg # of influencers per vertex:  1.9565
+			Highest # of influencers observed:  3, num vertices with this:  66
+			exported as 3 influencers
+			num skeletonWeights and skeletonIndices:  552
 ========= Writing of JSON file started =========
 	writing mesh:  tree-maple-dark
 	writing mesh:  tree-maple-dark-cut
@@ -977,7 +977,6 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 	writing mesh:  door-wood
 	writing mesh:  workbench-oak
 	writing mesh:  workbench-maple
-	writing mesh:  flag
 	writing mesh:  potato
 	writing mesh:  potato-grown
 	writing mesh:  sleepingbag-bear
@@ -997,6 +996,7 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 	writing mesh:  poison-full
 	writing mesh:  pot-tree
 	writing mesh:  sign
+	writing mesh:  flag
 ========= Writing of JSON file completed =========
 ========= end of processing =========
-elapsed time:  0 min, 2.0861 secs
+elapsed time:  0 min, 2.4553 secs
