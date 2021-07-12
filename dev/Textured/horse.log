@@ -53,6 +53,12 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		num uvs2           :  0
 		num colors         :  0
 		num indices        :  2070
+		Skeleton stats:  
+			Total Influencers:  5145
+			Avg # of influencers per vertex:  2.4976
+			Highest # of influencers observed:  6, num vertices with this:  59
+			exported as 6 influencers
+			num skeletonWeights and skeletonIndices:  16480
 	processing begun of mesh:  saddle
 		processing begun of material:  Texture Sheet
 		registered as also a user of material:  Texture Sheet
@@ -74,4 +80,4 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 	writing mesh:  saddle
 ========= Writing of JSON file completed =========
 ========= end of processing =========
-elapsed time:  0 min, 0.3981 secs
+elapsed time:  0 min, 0.6441 secs
