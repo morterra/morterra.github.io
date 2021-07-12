@@ -44,8 +44,8 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		num colors         :  0
 		num indices        :  1938
 		Skeleton stats:  
-			Total Influencers:  3371
-			Avg # of influencers per vertex:  2.1122
+			Total Influencers:  3369
+			Avg # of influencers per vertex:  2.1109
 			Highest # of influencers observed:  5, num vertices with this:  10
 			exported as 5 influencers
 			num skeletonWeights and skeletonIndices:  12768
@@ -55,4 +55,4 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 	writing mesh:  chicken
 ========= Writing of JSON file completed =========
 ========= end of processing =========
-elapsed time:  0 min, 0.3631 secs
+elapsed time:  0 min, 0.4131 secs
