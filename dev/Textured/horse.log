@@ -11,6 +11,7 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		Keep Z-up r-handed  :  no
 		Texture directory   :  D:\Desktop\morterra.github.io\dev\Textured\
 	Python World class constructor completed
+	WARNING: No active camera has been assigned, or is not in a currently selected Blender layer
 	processing begun of skeleton:  skeleton-horse, id:  0
 		processing begun of bone:  Root, index:  0
 		processing begun of bone:  bone.foot.front.l.001 ik, index:  1
@@ -40,7 +41,7 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		processing begun of bone:  bone.back.rear.001, index:  25
 		processing begun of bone:  bone.back.rear.002, index:  26
 		processing begun of bone:  bone.back.rear.003, index:  27
-		processing action ArmatureAction.005:  in[0 - 1249], out[0 - 1249]
+		processing action Armature.001Action.001:  in[0 - 130], out[0 - 130]
 	processing begun of mesh:  horse
 		processing begun of material:  Texture Sheet
 			processing texture Texturesheet
@@ -52,12 +53,6 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		num uvs2           :  0
 		num colors         :  0
 		num indices        :  2070
-		Skeleton stats:  
-			Total Influencers:  5145
-			Avg # of influencers per vertex:  2.4976
-			Highest # of influencers observed:  6, num vertices with this:  59
-			exported as 6 influencers
-			num skeletonWeights and skeletonIndices:  16480
 	processing begun of mesh:  saddle
 		processing begun of material:  Texture Sheet
 		registered as also a user of material:  Texture Sheet
@@ -79,4 +74,4 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 	writing mesh:  saddle
 ========= Writing of JSON file completed =========
 ========= end of processing =========
-elapsed time:  0 min, 2.5966 secs
+elapsed time:  0 min, 0.3981 secs

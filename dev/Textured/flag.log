@@ -11,6 +11,7 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		Keep Z-up r-handed  :  no
 		Texture directory   :  D:\Desktop\morterra.github.io\dev\Textured\
 	Python World class constructor completed
+	WARNING: No active camera has been assigned, or is not in a currently selected Blender layer
 	processing begun of skeleton:  skeleton-flag, id:  0
 		processing begun of bone:  Bone, index:  0
 		processing begun of bone:  Bone.001, index:  1
@@ -38,4 +39,4 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 	writing mesh:  flag
 ========= Writing of JSON file completed =========
 ========= end of processing =========
-elapsed time:  0 min, 0.6278 secs
+elapsed time:  0 min, 0.7572 secs

@@ -11,6 +11,7 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		Keep Z-up r-handed  :  no
 		Texture directory   :  D:\Desktop\morterra.github.io\dev\Textured\
 	Python World class constructor completed
+	WARNING: No active camera has been assigned, or is not in a currently selected Blender layer
 	processing begun of skeleton:  skeleton-bear, id:  0
 		processing begun of bone:  Root, index:  0
 		processing begun of bone:  bone.back.rear, index:  1
@@ -37,27 +38,27 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		processing begun of bone:  bone.foot.back.r.001 ik, index:  22
 		processing begun of bone:  right back foot, index:  23
 		processing begun of bone:  bone.foot.back.r.002 knee, index:  24
-		processing action ArmatureAction.005:  in[0 - 1249], out[0 - 1249]
+		processing action ArmatureAction.002:  in[0 - 460], out[0 - 460]
 	processing begun of mesh:  bear
 		processing begun of material:  Texture Sheet
 			processing texture Texturesheet
 				texture type:  diffuseTexture, mapped using: "UVMap"
-		num positions      :  1863
-		num normals        :  1863
+		num positions      :  1864
+		num normals        :  1864
 		num tangents       :  0
-		num uvs            :  3726
+		num uvs            :  3728
 		num uvs2           :  0
 		num colors         :  0
 		num indices        :  1884
 		Skeleton stats:  
-			WARNING: Maximum # of influencers exceeded for 1167 vertices, extras ignored
-			Total Influencers:  17940
-			Avg # of influencers per vertex:  9.6296
-			Highest # of influencers observed:  17, num vertices with this:  1167
+			WARNING: Maximum # of influencers exceeded for 1165 vertices, extras ignored
+			Total Influencers:  17939
+			Avg # of influencers per vertex:  9.6239
+			Highest # of influencers observed:  17, num vertices with this:  1165
 			exported as 8 influencers
-			num skeletonWeights and skeletonIndices:  14904
+			num skeletonWeights and skeletonIndices:  14912
 ========= Writing of JSON file started =========
 	writing mesh:  bear
 ========= Writing of JSON file completed =========
 ========= end of processing =========
-elapsed time:  0 min, 2.6051 secs
+elapsed time:  0 min, 1.5223 secs

@@ -153,10 +153,8 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		num colors         :  0
 		num indices        :  48
 	processing begun of mesh:  tree-apple-fruit
-		processing begun of material:  WoodFruit
-		processing begun of material:  Apple
-		processing begun of material:  AppleLeaves
-		processing begun of multimaterial:  scene.Multimaterial#0
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
 		num positions      :  501
 		num normals        :  501
 		num tangents       :  0
@@ -671,10 +669,10 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 	processing begun of mesh:  potato-grown
 		processing begun of material:  Texture Sheet
 		registered as also a user of material:  Texture Sheet
-		num positions      :  158
-		num normals        :  158
+		num positions      :  159
+		num normals        :  159
 		num tangents       :  0
-		num uvs            :  316
+		num uvs            :  318
 		num uvs2           :  0
 		num colors         :  0
 		num indices        :  180
@@ -721,175 +719,13 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 	processing begun of mesh:  chest-metal-unlocked
 		processing begun of material:  Texture Sheet
 		registered as also a user of material:  Texture Sheet
-		num positions      :  98
-		num normals        :  98
+		num positions      :  99
+		num normals        :  99
 		num tangents       :  0
-		num uvs            :  196
+		num uvs            :  198
 		num uvs2           :  0
 		num colors         :  0
 		num indices        :  120
-	processing begun of mesh:  bountyboard
-		processing begun of material:  RawWood
-		processing begun of material:  Oak
-		processing begun of material:  Clay
-		processing begun of material:  Cloth
-		processing begun of material:  Gold
-		processing begun of material:  Iron
-		processing begun of multimaterial:  scene.Multimaterial#1
-		num positions      :  578
-		num normals        :  578
-		num tangents       :  0
-		num uvs            :  1156
-		num uvs2           :  0
-		num colors         :  0
-		num indices        :  708
-	processing begun of mesh:  pot-plant
-		processing begun of material:  Clay
-		processing begun of material:  Dirt
-		registered as also a user of material:  Clay
-		processing begun of multimaterial:  scene.Multimaterial#2
-		num positions      :  281
-		num normals        :  281
-		num tangents       :  0
-		num uvs            :  562
-		num uvs2           :  0
-		num colors         :  0
-		num indices        :  339
-	processing begun of mesh:  coffee-small
-		processing begun of material:  Clay
-		processing begun of material:  Dirt
-		processing begun of material:  OakLeaves
-		registered as also a user of material:  Clay
-		registered as also a user of material:  Dirt
-		processing begun of multimaterial:  scene.Multimaterial#3
-		num positions      :  18
-		num normals        :  18
-		num tangents       :  0
-		num uvs            :  36
-		num uvs2           :  0
-		num colors         :  0
-		num indices        :  18
-	processing begun of mesh:  coffee-medium
-		processing begun of material:  Clay
-		processing begun of material:  Dirt
-		processing begun of material:  OakLeaves
-		registered as also a user of material:  Clay
-		registered as also a user of material:  Dirt
-		registered as also a user of material:  OakLeaves
-		processing begun of multimaterial:  scene.Multimaterial#4
-		num positions      :  200
-		num normals        :  200
-		num tangents       :  0
-		num uvs            :  400
-		num uvs2           :  0
-		num colors         :  0
-		num indices        :  228
-	processing begun of mesh:  coffee
-		processing begun of material:  Clay
-		processing begun of material:  Dirt
-		processing begun of material:  OakLeaves
-		registered as also a user of material:  Clay
-		registered as also a user of material:  Dirt
-		registered as also a user of material:  OakLeaves
-		processing begun of multimaterial:  scene.Multimaterial#5
-		num positions      :  867
-		num normals        :  867
-		num tangents       :  0
-		num uvs            :  1734
-		num uvs2           :  0
-		num colors         :  0
-		num indices        :  990
-	processing begun of mesh:  coffee-full
-		processing begun of material:  Texture Sheet
-		processing begun of material:  Clay
-		processing begun of material:  Dirt
-		processing begun of material:  OakLeaves
-			processing texture Texturesheet
-				texture type:  diffuseTexture, mapped using: "UVMap"
-		registered as also a user of material:  Clay
-		registered as also a user of material:  Dirt
-		registered as also a user of material:  OakLeaves
-		processing begun of multimaterial:  scene.Multimaterial#6
-		num positions      :  2129
-		num normals        :  2129
-		num tangents       :  0
-		num uvs            :  4258
-		num uvs2           :  0
-		num colors         :  0
-		num indices        :  2250
-	processing begun of mesh:  poison-small
-		processing begun of material:  OakDarkLeaves
-		num positions      :  24
-		num normals        :  24
-		num tangents       :  0
-		num uvs            :  48
-		num uvs2           :  0
-		num colors         :  0
-		num indices        :  24
-	processing begun of mesh:  poison-medium
-		processing begun of material:  Titanium
-		processing begun of material:  OakDarkLeaves
-		registered as also a user of material:  OakDarkLeaves
-		processing begun of multimaterial:  scene.Multimaterial#7
-		num positions      :  374
-		num normals        :  374
-		num tangents       :  0
-		num uvs            :  748
-		num uvs2           :  0
-		num colors         :  0
-		num indices        :  402
-	processing begun of mesh:  poison
-		processing begun of material:  Titanium
-		processing begun of material:  OakDarkLeaves
-		processing begun of material:  Corn
-		registered as also a user of material:  Titanium
-		registered as also a user of material:  OakDarkLeaves
-		processing begun of multimaterial:  scene.Multimaterial#8
-		num positions      :  417
-		num normals        :  417
-		num tangents       :  0
-		num uvs            :  834
-		num uvs2           :  0
-		num colors         :  0
-		num indices        :  462
-	processing begun of mesh:  poison-full
-		processing begun of material:  TungstenAlloy
-		processing begun of material:  Titanium
-		processing begun of material:  OakDarkLeaves
-		processing begun of material:  Corn
-		registered as also a user of material:  Titanium
-		registered as also a user of material:  OakDarkLeaves
-		processing begun of multimaterial:  scene.Multimaterial#9
-		num positions      :  660
-		num normals        :  660
-		num tangents       :  0
-		num uvs            :  1320
-		num uvs2           :  0
-		num colors         :  0
-		num indices        :  702
-	processing begun of mesh:  pot-tree
-		processing begun of material:  Clay
-		processing begun of material:  Dirt
-		registered as also a user of material:  Clay
-		registered as also a user of material:  Dirt
-		processing begun of multimaterial:  scene.Multimaterial#10
-		num positions      :  2334
-		num normals        :  2334
-		num tangents       :  0
-		num uvs            :  4668
-		num uvs2           :  0
-		num colors         :  0
-		num indices        :  2628
-	processing begun of mesh:  sign
-		processing begun of material:  RawWood
-		registered as also a user of material:  RawWood
-		num positions      :  58
-		num normals        :  58
-		num tangents       :  0
-		num uvs            :  116
-		num uvs2           :  0
-		num colors         :  0
-		num indices        :  72
 ========= Writing of JSON file started =========
 	writing mesh:  tree-maple-dark
 	writing mesh:  tree-maple-dark-cut
@@ -962,18 +798,6 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 	writing mesh:  chest-metal-lock
 	writing mesh:  chest-metal-locked
 	writing mesh:  chest-metal-unlocked
-	writing mesh:  bountyboard
-	writing mesh:  pot-plant
-	writing mesh:  coffee-small
-	writing mesh:  coffee-medium
-	writing mesh:  coffee
-	writing mesh:  coffee-full
-	writing mesh:  poison-small
-	writing mesh:  poison-medium
-	writing mesh:  poison
-	writing mesh:  poison-full
-	writing mesh:  pot-tree
-	writing mesh:  sign
 ========= Writing of JSON file completed =========
 ========= end of processing =========
-elapsed time:  0 min, 1.2722 secs
+elapsed time:  0 min, 0.8262 secs

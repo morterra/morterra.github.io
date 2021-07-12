@@ -11,6 +11,7 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		Keep Z-up r-handed  :  no
 		Texture directory   :  D:\Desktop\morterra.github.io\dev\Textured\
 	Python World class constructor completed
+	WARNING: No active camera has been assigned, or is not in a currently selected Blender layer
 	processing begun of skeleton:  skeleton-chicken, id:  0
 		processing begun of bone:  Bone, index:  0
 		processing begun of bone:  Bone.001, index:  1
@@ -30,28 +31,28 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		processing begun of bone:  Bone.008, index:  15
 		processing begun of bone:  Bone.009, index:  16
 		processing begun of bone:  Bone.011, index:  17
-		processing action ArmatureAction.005:  in[0 - 1249], out[0 - 1249]
+		processing action ArmatureAction.003:  in[0 - 80], out[0 - 80]
 	processing begun of mesh:  chicken
 		processing begun of material:  Texture Sheet
 			processing texture Texturesheet
 				texture type:  diffuseTexture, mapped using: "UVMap"
-		num positions      :  1612
-		num normals        :  1612
+		num positions      :  1596
+		num normals        :  1596
 		num tangents       :  0
-		num uvs            :  3224
+		num uvs            :  3192
 		num uvs2           :  0
 		num colors         :  0
 		num indices        :  1938
 		Skeleton stats:  
-			Total Influencers:  3389
-			Avg # of influencers per vertex:  2.1024
+			Total Influencers:  3371
+			Avg # of influencers per vertex:  2.1122
 			Highest # of influencers observed:  5, num vertices with this:  10
 			exported as 5 influencers
-			num skeletonWeights and skeletonIndices:  12896
+			num skeletonWeights and skeletonIndices:  12768
 		WARNING: # of 0 area faces found:  173
 		Shape Keys:
 ========= Writing of JSON file started =========
 	writing mesh:  chicken
 ========= Writing of JSON file completed =========
 ========= end of processing =========
-elapsed time:  0 min, 1.6479 secs
+elapsed time:  0 min, 0.3631 secs
