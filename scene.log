@@ -9,7 +9,7 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		Vert Color Precision:  3
 		Mat Weight Precision:  2
 		Keep Z-up r-handed  :  no
-		Texture directory   :  D:\Desktop\morterra.github.io\dev\
+		Texture directory   :  D:\Desktop\morterra.github.io\
 	Python World class constructor completed
 	processing begun of mesh:  tree-maple-dark
 		processing begun of material:  Texture Sheet
@@ -954,4 +954,4 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 	writing mesh:  bamboo-full
 ========= Writing of JSON file completed =========
 ========= end of processing =========
-elapsed time:  0 min, 1.2288 secs
+elapsed time:  0 min, 1.4278 secs
