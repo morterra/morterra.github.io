@@ -486,20 +486,21 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 	processing begun of mesh:  hood
 		processing begun of material:  Texture Sheet
 		registered as also a user of material:  Texture Sheet
-		num positions      :  116
-		num normals        :  116
+		num positions      :  338
+		num normals        :  338
 		num tangents       :  0
-		num uvs            :  232
+		num uvs            :  676
 		num uvs2           :  0
 		num colors         :  0
-		num indices        :  120
+		num indices        :  372
 		Skeleton stats:  
-			WARNING: Maximum # of influencers exceeded for 116 vertices, extras ignored
-			Total Influencers:  1624
+			WARNING: Maximum # of influencers exceeded for 338 vertices, extras ignored
+			Total Influencers:  4732
 			Avg # of influencers per vertex:  14
-			Highest # of influencers observed:  14, num vertices with this:  116
+			Highest # of influencers observed:  14, num vertices with this:  338
 			exported as 8 influencers
-			num skeletonWeights and skeletonIndices:  928
+			num skeletonWeights and skeletonIndices:  2704
+		WARNING: # of 0 area faces found:  16
 	processing begun of mesh:  knife
 		processing begun of material:  Texture Sheet
 		registered as also a user of material:  Texture Sheet
@@ -825,4 +826,4 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 	writing mesh:  sword
 ========= Writing of JSON file completed =========
 ========= end of processing =========
-elapsed time:  0 min, 10.5449 secs
+elapsed time:  0 min, 10.7525 secs
