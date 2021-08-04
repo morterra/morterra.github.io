@@ -43,22 +43,22 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		processing begun of material:  Texture Sheet
 			processing texture Texturesheet
 				texture type:  diffuseTexture, mapped using: "UVMap"
-		num positions      :  1866
-		num normals        :  1866
+		num positions      :  1864
+		num normals        :  1864
 		num tangents       :  0
-		num uvs            :  3732
+		num uvs            :  3728
 		num uvs2           :  0
 		num colors         :  0
 		num indices        :  1884
 		Skeleton stats:  
 			WARNING: Maximum # of influencers exceeded for 1166 vertices, extras ignored
-			Total Influencers:  17960
-			Avg # of influencers per vertex:  9.6249
+			Total Influencers:  17945
+			Avg # of influencers per vertex:  9.6271
 			Highest # of influencers observed:  17, num vertices with this:  1166
 			exported as 8 influencers
-			num skeletonWeights and skeletonIndices:  14928
+			num skeletonWeights and skeletonIndices:  14912
 ========= Writing of JSON file started =========
 	writing mesh:  bear
 ========= Writing of JSON file completed =========
 ========= end of processing =========
-elapsed time:  0 min, 1.5194 secs
+elapsed time:  0 min, 1.5124 secs
