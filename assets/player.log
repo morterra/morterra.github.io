@@ -9,7 +9,7 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		Vert Color Precision:  3
 		Mat Weight Precision:  2
 		Keep Z-up r-handed  :  no
-		Texture directory   :  D:\Desktop\morterra.github.io\dev\Textured\
+		Texture directory   :  D:\Desktop\morterra.github.io\assets\
 	Python World class constructor completed
 	WARNING: No active camera has been assigned, or is not in a currently selected Blender layer
 	processing begun of skeleton:  skeleton-player, id:  0
@@ -826,4 +826,4 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 	writing mesh:  sword
 ========= Writing of JSON file completed =========
 ========= end of processing =========
-elapsed time:  0 min, 10.9368 secs
+elapsed time:  0 min, 10.7525 secs
