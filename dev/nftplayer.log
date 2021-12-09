@@ -890,20 +890,20 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 	processing begun of mesh:  tophat
 		processing begun of material:  Texture Sheet
 		registered as also a user of material:  Texture Sheet
-		num positions      :  217
-		num normals        :  217
+		num positions      :  208
+		num normals        :  208
 		num tangents       :  0
-		num uvs            :  434
+		num uvs            :  416
 		num uvs2           :  0
 		num colors         :  0
 		num indices        :  252
 		Skeleton stats:  
-			WARNING: Maximum # of influencers exceeded for 217 vertices, extras ignored
-			Total Influencers:  5859
+			WARNING: Maximum # of influencers exceeded for 208 vertices, extras ignored
+			Total Influencers:  5616
 			Avg # of influencers per vertex:  27
-			Highest # of influencers observed:  27, num vertices with this:  217
+			Highest # of influencers observed:  27, num vertices with this:  208
 			exported as 8 influencers
-			num skeletonWeights and skeletonIndices:  1736
+			num skeletonWeights and skeletonIndices:  1664
 	processing begun of mesh:  chain
 		processing begun of material:  Texture Sheet
 		registered as also a user of material:  Texture Sheet
@@ -975,4 +975,4 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 	writing mesh:  chain
 ========= Writing of JSON file completed =========
 ========= end of processing =========
-elapsed time:  0 min, 11.5115 secs
+elapsed time:  0 min, 11.0598 secs
