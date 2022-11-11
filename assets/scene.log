@@ -1,4 +1,4 @@
-Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
+Exporter version: 3.3.0, Blender version: 3.3.1
 ========= Conversion from Blender to Babylon.js =========
 	Scene settings used :
 		Inline textures     :  false
@@ -11,17 +11,17 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		Keep Z-up r-handed  :  no
 		Texture directory   :  D:\Desktop\morterra.github.io\assets\
 	Python World class constructor completed
+	WARNING: No active camera has been assigned, or is not in a currently enabled collection
 	processing begun of mesh:  tree-maple-dark
 		processing begun of material:  Texture Sheet
 			processing texture Texturesheet
-				texture type:  diffuseTexture, mapped using: "UVMap"
 		num positions      :  487
 		num normals        :  487
 		num tangents       :  0
 		num uvs            :  974
 		num uvs2           :  0
 		num colors         :  0
-		num indices        :  534
+		num triangles      :  178
 	processing begun of mesh:  tree-maple-dark-cut
 		processing begun of material:  Texture Sheet
 		registered as also a user of material:  Texture Sheet
@@ -31,7 +31,7 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		num uvs            :  520
 		num uvs2           :  0
 		num colors         :  0
-		num indices        :  306
+		num triangles      :  102
 	processing begun of mesh:  tree-maple-dark-stump
 		processing begun of material:  Texture Sheet
 		registered as also a user of material:  Texture Sheet
@@ -41,7 +41,7 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		num uvs            :  108
 		num uvs2           :  0
 		num colors         :  0
-		num indices        :  54
+		num triangles      :  18
 	processing begun of mesh:  tree-oak
 		processing begun of material:  Texture Sheet
 		registered as also a user of material:  Texture Sheet
@@ -51,7 +51,7 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		num uvs            :  594
 		num uvs2           :  0
 		num colors         :  0
-		num indices        :  300
+		num triangles      :  100
 	processing begun of mesh:  tree-oak-cut
 		processing begun of material:  Texture Sheet
 		registered as also a user of material:  Texture Sheet
@@ -61,7 +61,7 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		num uvs            :  186
 		num uvs2           :  0
 		num colors         :  0
-		num indices        :  96
+		num triangles      :  32
 	processing begun of mesh:  tree-oak-stump
 		processing begun of material:  Texture Sheet
 		registered as also a user of material:  Texture Sheet
@@ -71,7 +71,7 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		num uvs            :  86
 		num uvs2           :  0
 		num colors         :  0
-		num indices        :  48
+		num triangles      :  16
 	processing begun of mesh:  tree-mango-fruit
 		processing begun of material:  Texture Sheet
 		registered as also a user of material:  Texture Sheet
@@ -81,7 +81,7 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		num uvs            :  804
 		num uvs2           :  0
 		num colors         :  0
-		num indices        :  402
+		num triangles      :  134
 	processing begun of mesh:  tree-mango
 		processing begun of material:  Texture Sheet
 		registered as also a user of material:  Texture Sheet
@@ -91,7 +91,7 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		num uvs            :  516
 		num uvs2           :  0
 		num colors         :  0
-		num indices        :  258
+		num triangles      :  86
 	processing begun of mesh:  tree-mango-cut
 		processing begun of material:  Texture Sheet
 		registered as also a user of material:  Texture Sheet
@@ -101,7 +101,7 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		num uvs            :  228
 		num uvs2           :  0
 		num colors         :  0
-		num indices        :  114
+		num triangles      :  38
 	processing begun of mesh:  tree-mango-stump
 		processing begun of material:  Texture Sheet
 		registered as also a user of material:  Texture Sheet
@@ -111,7 +111,7 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		num uvs            :  96
 		num uvs2           :  0
 		num colors         :  0
-		num indices        :  48
+		num triangles      :  16
 	processing begun of mesh:  tree-orange-fruit
 		processing begun of material:  Texture Sheet
 		registered as also a user of material:  Texture Sheet
@@ -121,7 +121,7 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		num uvs            :  1174
 		num uvs2           :  0
 		num colors         :  0
-		num indices        :  588
+		num triangles      :  196
 	processing begun of mesh:  tree-orange
 		processing begun of material:  Texture Sheet
 		registered as also a user of material:  Texture Sheet
@@ -131,7 +131,7 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		num uvs            :  826
 		num uvs2           :  0
 		num colors         :  0
-		num indices        :  414
+		num triangles      :  138
 	processing begun of mesh:  tree-orange-cut
 		processing begun of material:  Texture Sheet
 		registered as also a user of material:  Texture Sheet
@@ -141,7 +141,7 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		num uvs            :  358
 		num uvs2           :  0
 		num colors         :  0
-		num indices        :  180
+		num triangles      :  60
 	processing begun of mesh:  tree-orange-stump
 		processing begun of material:  Texture Sheet
 		registered as also a user of material:  Texture Sheet
@@ -151,7 +151,7 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		num uvs            :  96
 		num uvs2           :  0
 		num colors         :  0
-		num indices        :  48
+		num triangles      :  16
 	processing begun of mesh:  tree-apple-fruit
 		processing begun of material:  Texture Sheet
 		registered as also a user of material:  Texture Sheet
@@ -161,7 +161,7 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		num uvs            :  1002
 		num uvs2           :  0
 		num colors         :  0
-		num indices        :  504
+		num triangles      :  168
 	processing begun of mesh:  tree-apple
 		processing begun of material:  Texture Sheet
 		registered as also a user of material:  Texture Sheet
@@ -171,7 +171,7 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		num uvs            :  762
 		num uvs2           :  0
 		num colors         :  0
-		num indices        :  384
+		num triangles      :  128
 	processing begun of mesh:  tree-apple-cut
 		processing begun of material:  Texture Sheet
 		registered as also a user of material:  Texture Sheet
@@ -181,7 +181,7 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		num uvs            :  342
 		num uvs2           :  0
 		num colors         :  0
-		num indices        :  174
+		num triangles      :  58
 	processing begun of mesh:  tree-apple-stump
 		processing begun of material:  Texture Sheet
 		registered as also a user of material:  Texture Sheet
@@ -191,7 +191,7 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		num uvs            :  96
 		num uvs2           :  0
 		num colors         :  0
-		num indices        :  48
+		num triangles      :  16
 	processing begun of mesh:  tree-maple-yellow
 		processing begun of material:  Texture Sheet
 		registered as also a user of material:  Texture Sheet
@@ -201,7 +201,7 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		num uvs            :  776
 		num uvs2           :  0
 		num colors         :  0
-		num indices        :  420
+		num triangles      :  140
 	processing begun of mesh:  tree-maple-yellow-cut
 		processing begun of material:  Texture Sheet
 		registered as also a user of material:  Texture Sheet
@@ -211,7 +211,7 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		num uvs            :  356
 		num uvs2           :  0
 		num colors         :  0
-		num indices        :  210
+		num triangles      :  70
 	processing begun of mesh:  tree-maple-yellow-stump
 		processing begun of material:  Texture Sheet
 		registered as also a user of material:  Texture Sheet
@@ -221,7 +221,7 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		num uvs            :  118
 		num uvs2           :  0
 		num colors         :  0
-		num indices        :  60
+		num triangles      :  20
 	processing begun of mesh:  tree-oak-dark
 		processing begun of material:  Texture Sheet
 		registered as also a user of material:  Texture Sheet
@@ -231,7 +231,7 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		num uvs            :  706
 		num uvs2           :  0
 		num colors         :  0
-		num indices        :  411
+		num triangles      :  137
 	processing begun of mesh:  tree-oak-dark-cut
 		processing begun of material:  Texture Sheet
 		registered as also a user of material:  Texture Sheet
@@ -241,7 +241,7 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		num uvs            :  396
 		num uvs2           :  0
 		num colors         :  0
-		num indices        :  240
+		num triangles      :  80
 	processing begun of mesh:  tree-oak-dark-stump
 		processing begun of material:  Texture Sheet
 		registered as also a user of material:  Texture Sheet
@@ -251,7 +251,7 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		num uvs            :  82
 		num uvs2           :  0
 		num colors         :  0
-		num indices        :  48
+		num triangles      :  16
 	processing begun of mesh:  tree-maple
 		processing begun of material:  Texture Sheet
 		registered as also a user of material:  Texture Sheet
@@ -261,7 +261,7 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		num uvs            :  404
 		num uvs2           :  0
 		num colors         :  0
-		num indices        :  204
+		num triangles      :  68
 	processing begun of mesh:  tree-maple-cut
 		processing begun of material:  Texture Sheet
 		registered as also a user of material:  Texture Sheet
@@ -271,7 +271,7 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		num uvs            :  212
 		num uvs2           :  0
 		num colors         :  0
-		num indices        :  108
+		num triangles      :  36
 	processing begun of mesh:  tree-maple-stump
 		processing begun of material:  Texture Sheet
 		registered as also a user of material:  Texture Sheet
@@ -281,7 +281,7 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		num uvs            :  108
 		num uvs2           :  0
 		num colors         :  0
-		num indices        :  54
+		num triangles      :  18
 	processing begun of mesh:  logspike-oak
 		processing begun of material:  Texture Sheet
 		registered as also a user of material:  Texture Sheet
@@ -291,7 +291,7 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		num uvs            :  132
 		num uvs2           :  0
 		num colors         :  0
-		num indices        :  66
+		num triangles      :  22
 	processing begun of mesh:  logspike-fruit
 		processing begun of material:  Texture Sheet
 		registered as also a user of material:  Texture Sheet
@@ -301,7 +301,7 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		num uvs            :  132
 		num uvs2           :  0
 		num colors         :  0
-		num indices        :  66
+		num triangles      :  22
 	processing begun of mesh:  logspike-maple
 		processing begun of material:  Texture Sheet
 		registered as also a user of material:  Texture Sheet
@@ -311,7 +311,7 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		num uvs            :  132
 		num uvs2           :  0
 		num colors         :  0
-		num indices        :  66
+		num triangles      :  22
 	processing begun of mesh:  door-metal-lock
 		processing begun of material:  Texture Sheet
 		registered as also a user of material:  Texture Sheet
@@ -321,7 +321,7 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		num uvs            :  62
 		num uvs2           :  0
 		num colors         :  0
-		num indices        :  36
+		num triangles      :  12
 	processing begun of mesh:  door-metal
 		processing begun of material:  Texture Sheet
 		registered as also a user of material:  Texture Sheet
@@ -331,7 +331,7 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		num uvs            :  148
 		num uvs2           :  0
 		num colors         :  0
-		num indices        :  96
+		num triangles      :  32
 	processing begun of mesh:  metalspike
 		processing begun of material:  Texture Sheet
 		registered as also a user of material:  Texture Sheet
@@ -341,7 +341,7 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		num uvs            :  98
 		num uvs2           :  0
 		num colors         :  0
-		num indices        :  60
+		num triangles      :  20
 	processing begun of mesh:  alchemy-table-maple
 		processing begun of material:  Texture Sheet
 		registered as also a user of material:  Texture Sheet
@@ -351,7 +351,7 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		num uvs            :  992
 		num uvs2           :  0
 		num colors         :  0
-		num indices        :  570
+		num triangles      :  190
 	processing begun of mesh:  alchemy-table-oak
 		processing begun of material:  Texture Sheet
 		registered as also a user of material:  Texture Sheet
@@ -361,7 +361,7 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		num uvs            :  992
 		num uvs2           :  0
 		num colors         :  0
-		num indices        :  570
+		num triangles      :  190
 	processing begun of mesh:  kiln
 		processing begun of material:  Texture Sheet
 		registered as also a user of material:  Texture Sheet
@@ -371,7 +371,7 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		num uvs            :  526
 		num uvs2           :  0
 		num colors         :  0
-		num indices        :  300
+		num triangles      :  100
 	processing begun of mesh:  foundry
 		processing begun of material:  Texture Sheet
 		registered as also a user of material:  Texture Sheet
@@ -381,7 +381,7 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		num uvs            :  1396
 		num uvs2           :  0
 		num colors         :  0
-		num indices        :  918
+		num triangles      :  306
 	processing begun of mesh:  foundry-base
 		processing begun of material:  Texture Sheet
 		registered as also a user of material:  Texture Sheet
@@ -391,7 +391,7 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		num uvs            :  376
 		num uvs2           :  0
 		num colors         :  0
-		num indices        :  192
+		num triangles      :  64
 	processing begun of mesh:  boulder-large
 		processing begun of material:  Texture Sheet
 		registered as also a user of material:  Texture Sheet
@@ -401,7 +401,7 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		num uvs            :  276
 		num uvs2           :  0
 		num colors         :  0
-		num indices        :  138
+		num triangles      :  46
 	processing begun of mesh:  boulder-rubble
 		processing begun of material:  Texture Sheet
 		registered as also a user of material:  Texture Sheet
@@ -411,7 +411,7 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		num uvs            :  740
 		num uvs2           :  0
 		num colors         :  0
-		num indices        :  402
+		num triangles      :  134
 	processing begun of mesh:  boulder-medium
 		processing begun of material:  Texture Sheet
 		registered as also a user of material:  Texture Sheet
@@ -421,7 +421,7 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		num uvs            :  270
 		num uvs2           :  0
 		num colors         :  0
-		num indices        :  135
+		num triangles      :  45
 	processing begun of mesh:  boulder-small
 		processing begun of material:  Texture Sheet
 		registered as also a user of material:  Texture Sheet
@@ -431,7 +431,7 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		num uvs            :  252
 		num uvs2           :  0
 		num colors         :  0
-		num indices        :  126
+		num triangles      :  42
 	processing begun of mesh:  bomb
 		processing begun of material:  Texture Sheet
 		registered as also a user of material:  Texture Sheet
@@ -441,7 +441,7 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		num uvs            :  500
 		num uvs2           :  0
 		num colors         :  0
-		num indices        :  288
+		num triangles      :  96
 	processing begun of mesh:  dynamite
 		processing begun of material:  Texture Sheet
 		registered as also a user of material:  Texture Sheet
@@ -451,7 +451,7 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		num uvs            :  2260
 		num uvs2           :  0
 		num colors         :  0
-		num indices        :  1371
+		num triangles      :  457
 		WARNING: # of 0 area faces found:  6
 	processing begun of mesh:  bush-strawberry-full
 		processing begun of material:  Texture Sheet
@@ -462,7 +462,7 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		num uvs            :  850
 		num uvs2           :  0
 		num colors         :  0
-		num indices        :  429
+		num triangles      :  143
 	processing begun of mesh:  bush-strawberry
 		processing begun of material:  Texture Sheet
 		registered as also a user of material:  Texture Sheet
@@ -472,7 +472,7 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		num uvs            :  380
 		num uvs2           :  0
 		num colors         :  0
-		num indices        :  198
+		num triangles      :  66
 	processing begun of mesh:  bush-blueberry-full
 		processing begun of material:  Texture Sheet
 		registered as also a user of material:  Texture Sheet
@@ -482,7 +482,7 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		num uvs            :  262
 		num uvs2           :  0
 		num colors         :  0
-		num indices        :  132
+		num triangles      :  44
 	processing begun of mesh:  bush-blueberry
 		processing begun of material:  Texture Sheet
 		registered as also a user of material:  Texture Sheet
@@ -492,7 +492,7 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		num uvs            :  118
 		num uvs2           :  0
 		num colors         :  0
-		num indices        :  60
+		num triangles      :  20
 	processing begun of mesh:  chest-wood-unlocked
 		processing begun of material:  Texture Sheet
 		registered as also a user of material:  Texture Sheet
@@ -502,7 +502,7 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		num uvs            :  976
 		num uvs2           :  0
 		num colors         :  0
-		num indices        :  696
+		num triangles      :  232
 	processing begun of mesh:  chest-wood-lock
 		processing begun of material:  Texture Sheet
 		registered as also a user of material:  Texture Sheet
@@ -512,7 +512,7 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		num uvs            :  72
 		num uvs2           :  0
 		num colors         :  0
-		num indices        :  54
+		num triangles      :  18
 	processing begun of mesh:  chest-wood-locked
 		processing begun of material:  Texture Sheet
 		registered as also a user of material:  Texture Sheet
@@ -522,7 +522,7 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		num uvs            :  742
 		num uvs2           :  0
 		num colors         :  0
-		num indices        :  558
+		num triangles      :  186
 		WARNING: # of 0 area faces found:  24
 	processing begun of mesh:  anvil
 		processing begun of material:  Texture Sheet
@@ -533,7 +533,7 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		num uvs            :  206
 		num uvs2           :  0
 		num colors         :  0
-		num indices        :  114
+		num triangles      :  38
 	processing begun of mesh:  pond
 		processing begun of material:  Texture Sheet
 		registered as also a user of material:  Texture Sheet
@@ -543,7 +543,7 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		num uvs            :  670
 		num uvs2           :  0
 		num colors         :  0
-		num indices        :  348
+		num triangles      :  116
 	processing begun of mesh:  corn-empty
 		processing begun of material:  Texture Sheet
 		registered as also a user of material:  Texture Sheet
@@ -553,7 +553,7 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		num uvs            :  248
 		num uvs2           :  0
 		num colors         :  0
-		num indices        :  162
+		num triangles      :  54
 	processing begun of mesh:  corn-grown
 		processing begun of material:  Texture Sheet
 		registered as also a user of material:  Texture Sheet
@@ -563,7 +563,7 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		num uvs            :  962
 		num uvs2           :  0
 		num colors         :  0
-		num indices        :  576
+		num triangles      :  192
 	processing begun of mesh:  cotton-empty
 		processing begun of material:  Texture Sheet
 		registered as also a user of material:  Texture Sheet
@@ -573,7 +573,7 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		num uvs            :  192
 		num uvs2           :  0
 		num colors         :  0
-		num indices        :  96
+		num triangles      :  32
 	processing begun of mesh:  cotton-grown
 		processing begun of material:  Texture Sheet
 		registered as also a user of material:  Texture Sheet
@@ -583,7 +583,7 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		num uvs            :  588
 		num uvs2           :  0
 		num colors         :  0
-		num indices        :  294
+		num triangles      :  98
 	processing begun of mesh:  logsetup-oak
 		processing begun of material:  Texture Sheet
 		registered as also a user of material:  Texture Sheet
@@ -593,7 +593,7 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		num uvs            :  320
 		num uvs2           :  0
 		num colors         :  0
-		num indices        :  192
+		num triangles      :  64
 	processing begun of mesh:  logsetup-maple
 		processing begun of material:  Texture Sheet
 		registered as also a user of material:  Texture Sheet
@@ -603,7 +603,7 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		num uvs            :  320
 		num uvs2           :  0
 		num colors         :  0
-		num indices        :  192
+		num triangles      :  64
 	processing begun of mesh:  logsetup-fruit
 		processing begun of material:  Texture Sheet
 		registered as also a user of material:  Texture Sheet
@@ -613,7 +613,7 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		num uvs            :  320
 		num uvs2           :  0
 		num colors         :  0
-		num indices        :  192
+		num triangles      :  64
 	processing begun of mesh:  door-wood-lock
 		processing begun of material:  Texture Sheet
 		registered as also a user of material:  Texture Sheet
@@ -623,7 +623,7 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		num uvs            :  58
 		num uvs2           :  0
 		num colors         :  0
-		num indices        :  36
+		num triangles      :  12
 	processing begun of mesh:  door-wood
 		processing begun of material:  Texture Sheet
 		registered as also a user of material:  Texture Sheet
@@ -633,7 +633,7 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		num uvs            :  218
 		num uvs2           :  0
 		num colors         :  0
-		num indices        :  132
+		num triangles      :  44
 	processing begun of mesh:  workbench-oak
 		processing begun of material:  Texture Sheet
 		registered as also a user of material:  Texture Sheet
@@ -643,7 +643,7 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		num uvs            :  552
 		num uvs2           :  0
 		num colors         :  0
-		num indices        :  348
+		num triangles      :  116
 		WARNING: # of 0 area faces found:  4
 	processing begun of mesh:  workbench-maple
 		processing begun of material:  Texture Sheet
@@ -654,9 +654,9 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		num uvs            :  552
 		num uvs2           :  0
 		num colors         :  0
-		num indices        :  348
+		num triangles      :  116
 		WARNING: # of 0 area faces found:  4
-	processing begun of mesh:  potato
+	processing begun of mesh:  potato.001
 		processing begun of material:  Texture Sheet
 		registered as also a user of material:  Texture Sheet
 		num positions      :  60
@@ -665,7 +665,7 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		num uvs            :  120
 		num uvs2           :  0
 		num colors         :  0
-		num indices        :  60
+		num triangles      :  20
 	processing begun of mesh:  potato-grown
 		processing begun of material:  Texture Sheet
 		registered as also a user of material:  Texture Sheet
@@ -675,7 +675,7 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		num uvs            :  318
 		num uvs2           :  0
 		num colors         :  0
-		num indices        :  180
+		num triangles      :  60
 	processing begun of mesh:  sleepingbag-bear
 		processing begun of material:  Texture Sheet
 		registered as also a user of material:  Texture Sheet
@@ -685,7 +685,7 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		num uvs            :  482
 		num uvs2           :  0
 		num colors         :  0
-		num indices        :  246
+		num triangles      :  82
 	processing begun of mesh:  sleepingbag
 		processing begun of material:  Texture Sheet
 		registered as also a user of material:  Texture Sheet
@@ -695,7 +695,7 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		num uvs            :  198
 		num uvs2           :  0
 		num colors         :  0
-		num indices        :  120
+		num triangles      :  40
 	processing begun of mesh:  chest-metal-lock
 		processing begun of material:  Texture Sheet
 		registered as also a user of material:  Texture Sheet
@@ -705,7 +705,7 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		num uvs            :  48
 		num uvs2           :  0
 		num colors         :  0
-		num indices        :  30
+		num triangles      :  10
 	processing begun of mesh:  chest-metal-locked
 		processing begun of material:  Texture Sheet
 		registered as also a user of material:  Texture Sheet
@@ -715,7 +715,7 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		num uvs            :  124
 		num uvs2           :  0
 		num colors         :  0
-		num indices        :  78
+		num triangles      :  26
 	processing begun of mesh:  chest-metal-unlocked
 		processing begun of material:  Texture Sheet
 		registered as also a user of material:  Texture Sheet
@@ -725,7 +725,7 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		num uvs            :  198
 		num uvs2           :  0
 		num colors         :  0
-		num indices        :  120
+		num triangles      :  40
 	processing begun of mesh:  pot-plant
 		processing begun of material:  Texture Sheet
 		registered as also a user of material:  Texture Sheet
@@ -735,7 +735,7 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		num uvs            :  556
 		num uvs2           :  0
 		num colors         :  0
-		num indices        :  339
+		num triangles      :  113
 	processing begun of mesh:  coffee-small
 		processing begun of material:  Texture Sheet
 		registered as also a user of material:  Texture Sheet
@@ -745,7 +745,7 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		num uvs            :  36
 		num uvs2           :  0
 		num colors         :  0
-		num indices        :  18
+		num triangles      :  6
 	processing begun of mesh:  coffee-medium
 		processing begun of material:  Texture Sheet
 		registered as also a user of material:  Texture Sheet
@@ -755,7 +755,7 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		num uvs            :  400
 		num uvs2           :  0
 		num colors         :  0
-		num indices        :  228
+		num triangles      :  76
 	processing begun of mesh:  coffee
 		processing begun of material:  Texture Sheet
 		registered as also a user of material:  Texture Sheet
@@ -765,7 +765,7 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		num uvs            :  1728
 		num uvs2           :  0
 		num colors         :  0
-		num indices        :  990
+		num triangles      :  330
 	processing begun of mesh:  coffee-full
 		processing begun of material:  Texture Sheet
 		registered as also a user of material:  Texture Sheet
@@ -775,7 +775,7 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		num uvs            :  4254
 		num uvs2           :  0
 		num colors         :  0
-		num indices        :  2250
+		num triangles      :  750
 	processing begun of mesh:  poison-small
 		processing begun of material:  Texture Sheet
 		registered as also a user of material:  Texture Sheet
@@ -785,7 +785,7 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		num uvs            :  48
 		num uvs2           :  0
 		num colors         :  0
-		num indices        :  24
+		num triangles      :  8
 	processing begun of mesh:  poison-medium
 		processing begun of material:  Texture Sheet
 		registered as also a user of material:  Texture Sheet
@@ -795,7 +795,7 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		num uvs            :  752
 		num uvs2           :  0
 		num colors         :  0
-		num indices        :  402
+		num triangles      :  134
 	processing begun of mesh:  poison-full
 		processing begun of material:  Texture Sheet
 		registered as also a user of material:  Texture Sheet
@@ -805,7 +805,7 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		num uvs            :  858
 		num uvs2           :  0
 		num colors         :  0
-		num indices        :  462
+		num triangles      :  154
 	processing begun of mesh:  poison-fruit
 		processing begun of material:  Texture Sheet
 		registered as also a user of material:  Texture Sheet
@@ -815,7 +815,7 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		num uvs            :  1336
 		num uvs2           :  0
 		num colors         :  0
-		num indices        :  702
+		num triangles      :  234
 	processing begun of mesh:  pot-tree
 		processing begun of material:  Texture Sheet
 		registered as also a user of material:  Texture Sheet
@@ -825,7 +825,7 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		num uvs            :  4666
 		num uvs2           :  0
 		num colors         :  0
-		num indices        :  2628
+		num triangles      :  876
 	processing begun of mesh:  sign
 		processing begun of material:  Texture Sheet
 		registered as also a user of material:  Texture Sheet
@@ -835,7 +835,7 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		num uvs            :  116
 		num uvs2           :  0
 		num colors         :  0
-		num indices        :  72
+		num triangles      :  24
 	processing begun of mesh:  bamboo-small
 		processing begun of material:  Texture Sheet
 		registered as also a user of material:  Texture Sheet
@@ -845,7 +845,7 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		num uvs            :  552
 		num uvs2           :  0
 		num colors         :  0
-		num indices        :  324
+		num triangles      :  108
 	processing begun of mesh:  bamboo-medium
 		processing begun of material:  Texture Sheet
 		registered as also a user of material:  Texture Sheet
@@ -855,7 +855,7 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		num uvs            :  552
 		num uvs2           :  0
 		num colors         :  0
-		num indices        :  324
+		num triangles      :  108
 	processing begun of mesh:  bamboo-full
 		processing begun of material:  Texture Sheet
 		registered as also a user of material:  Texture Sheet
@@ -865,7 +865,7 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		num uvs            :  1150
 		num uvs2           :  0
 		num colors         :  0
-		num indices        :  684
+		num triangles      :  228
 	processing begun of mesh:  arrow
 		processing begun of material:  Texture Sheet
 		registered as also a user of material:  Texture Sheet
@@ -875,7 +875,47 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 		num uvs            :  296
 		num uvs2           :  0
 		num colors         :  0
-		num indices        :  162
+		num triangles      :  54
+	processing begun of mesh:  mushroom
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  112
+		num normals        :  112
+		num tangents       :  0
+		num uvs            :  224
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  42
+	processing begun of mesh:  ore-small
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  204
+		num normals        :  204
+		num tangents       :  0
+		num uvs            :  408
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  68
+	processing begun of mesh:  ore-medium
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  300
+		num normals        :  300
+		num tangents       :  0
+		num uvs            :  600
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  100
+	processing begun of mesh:  ore-large
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  228
+		num normals        :  228
+		num tangents       :  0
+		num uvs            :  456
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  76
 ========= Writing of JSON file started =========
 	writing mesh:  tree-maple-dark
 	writing mesh:  tree-maple-dark-cut
@@ -941,7 +981,7 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 	writing mesh:  door-wood
 	writing mesh:  workbench-oak
 	writing mesh:  workbench-maple
-	writing mesh:  potato
+	writing mesh:  potato.001
 	writing mesh:  potato-grown
 	writing mesh:  sleepingbag-bear
 	writing mesh:  sleepingbag
@@ -963,6 +1003,10 @@ Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
 	writing mesh:  bamboo-medium
 	writing mesh:  bamboo-full
 	writing mesh:  arrow
+	writing mesh:  mushroom
+	writing mesh:  ore-small
+	writing mesh:  ore-medium
+	writing mesh:  ore-large
 ========= Writing of JSON file completed =========
 ========= end of processing =========
-elapsed time:  0 min, 1.1903 secs
+elapsed time:  0 min, 1.756 secs
