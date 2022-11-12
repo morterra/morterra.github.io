@@ -405,10 +405,10 @@ Exporter version: 3.3.0, Blender version: 3.3.1
 	processing begun of mesh:  boulder-rubble
 		processing begun of material:  Texture Sheet
 		registered as also a user of material:  Texture Sheet
-		num positions      :  370
-		num normals        :  370
+		num positions      :  363
+		num normals        :  363
 		num tangents       :  0
-		num uvs            :  740
+		num uvs            :  726
 		num uvs2           :  0
 		num colors         :  0
 		num triangles      :  134
@@ -496,10 +496,10 @@ Exporter version: 3.3.0, Blender version: 3.3.1
 	processing begun of mesh:  chest-wood-unlocked
 		processing begun of material:  Texture Sheet
 		registered as also a user of material:  Texture Sheet
-		num positions      :  488
-		num normals        :  488
+		num positions      :  483
+		num normals        :  483
 		num tangents       :  0
-		num uvs            :  976
+		num uvs            :  966
 		num uvs2           :  0
 		num colors         :  0
 		num triangles      :  232
@@ -1009,4 +1009,4 @@ Exporter version: 3.3.0, Blender version: 3.3.1
 	writing mesh:  ore-large
 ========= Writing of JSON file completed =========
 ========= end of processing =========
-elapsed time:  0 min, 0.9723 secs
+elapsed time:  0 min, 0.956 secs
