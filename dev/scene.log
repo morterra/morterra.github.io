@@ -905,6 +905,16 @@ Exporter version: 3.3.0, Blender version: 3.3.1
 		num uvs2           :  0
 		num colors         :  0
 		num triangles      :  100
+	processing begun of mesh:  Cube.003
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  620
+		num normals        :  620
+		num tangents       :  0
+		num uvs            :  1240
+		num uvs2           :  0
+		num colors         :  2480
+		num triangles      :  216
 	processing begun of mesh:  ore-large
 		processing begun of material:  Texture Sheet
 		registered as also a user of material:  Texture Sheet
@@ -1005,7 +1015,8 @@ Exporter version: 3.3.0, Blender version: 3.3.1
 	writing mesh:  mushroom
 	writing mesh:  ore-small
 	writing mesh:  ore-medium
+	writing mesh:  Cube.003
 	writing mesh:  ore-large
 ========= Writing of JSON file completed =========
 ========= end of processing =========
-elapsed time:  0 min, 0.9695 secs
+elapsed time:  0 min, 1.1036 secs
