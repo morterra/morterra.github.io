@@ -10,7 +10,6 @@ Exporter version: 3.3.0, Blender version: 3.3.1
 		Mat Weight Precision:  2
 		Keep Z-up r-handed  :  no
 	Python World class constructor completed
-	WARNING: No active camera has been assigned, or is not in a currently enabled collection
 	processing begun of mesh:  tree-maple-dark
 		processing begun of material:  Texture Sheet
 			processing texture Texturesheet
@@ -915,6 +914,16 @@ Exporter version: 3.3.0, Blender version: 3.3.1
 		num uvs2           :  0
 		num colors         :  2480
 		num triangles      :  216
+	processing begun of mesh:  vault
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  444
+		num normals        :  444
+		num tangents       :  0
+		num uvs            :  888
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  170
 	processing begun of mesh:  ore-large
 		processing begun of material:  Texture Sheet
 		registered as also a user of material:  Texture Sheet
@@ -1016,7 +1025,8 @@ Exporter version: 3.3.0, Blender version: 3.3.1
 	writing mesh:  ore-small
 	writing mesh:  ore-medium
 	writing mesh:  skull
+	writing mesh:  vault
 	writing mesh:  ore-large
 ========= Writing of JSON file completed =========
 ========= end of processing =========
-elapsed time:  0 min, 1.493 secs
+elapsed time:  0 min, 1.3081 secs
