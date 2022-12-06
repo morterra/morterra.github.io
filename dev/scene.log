@@ -938,13 +938,14 @@ Exporter version: 3.3.0, Blender version: 3.3.1
 	processing begun of mesh:  login
 		processing begun of material:  Texture Sheet
 		registered as also a user of material:  Texture Sheet
-		num positions      :  17669
-		num normals        :  17669
+		num positions      :  22277
+		num normals        :  22277
 		num tangents       :  0
-		num uvs            :  35338
+		num uvs            :  44554
 		num uvs2           :  0
 		num colors         :  0
-		num triangles      :  6089
+		num triangles      :  7731
+		WARNING: # of 0 area faces found:  20
 	processing begun of mesh:  ore-large
 		processing begun of material:  Texture Sheet
 		registered as also a user of material:  Texture Sheet
@@ -1052,4 +1053,4 @@ Exporter version: 3.3.0, Blender version: 3.3.1
 	writing mesh:  ore-large
 ========= Writing of JSON file completed =========
 ========= end of processing =========
-elapsed time:  0 min, 1.9394 secs
+elapsed time:  0 min, 2.0033 secs
