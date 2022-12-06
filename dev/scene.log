@@ -935,6 +935,17 @@ Exporter version: 3.3.0, Blender version: 3.3.1
 		num colors         :  0
 		num triangles      :  394
 		WARNING: # of 0 area faces found:  60
+	processing begun of mesh:  login
+		processing begun of material:  Texture Sheet.007
+			processing texture Texturesheet
+		num positions      :  18202
+		num normals        :  18202
+		num tangents       :  0
+		num uvs            :  36404
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  6437
+		WARNING: # of 0 area faces found:  11
 	processing begun of mesh:  ore-large
 		processing begun of material:  Texture Sheet
 		registered as also a user of material:  Texture Sheet
@@ -1038,7 +1049,8 @@ Exporter version: 3.3.0, Blender version: 3.3.1
 	writing mesh:  skull
 	writing mesh:  vault
 	writing mesh:  tree-christmas
+	writing mesh:  login
 	writing mesh:  ore-large
 ========= Writing of JSON file completed =========
 ========= end of processing =========
-elapsed time:  0 min, 1.1099 secs
+elapsed time:  0 min, 2.7514 secs
