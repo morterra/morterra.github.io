@@ -10,9 +10,934 @@ Exporter version: 3.3.0, Blender version: 3.3.1
 		Mat Weight Precision:  2
 		Keep Z-up r-handed  :  no
 	Python World class constructor completed
-	processing begun of mesh:  login
+	processing begun of mesh:  tree-maple-dark
 		processing begun of material:  Texture Sheet
 			processing texture Texturesheet
+		num positions      :  516
+		num normals        :  516
+		num tangents       :  0
+		num uvs            :  1032
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  178
+	processing begun of mesh:  tree-maple-dark-cut
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  289
+		num normals        :  289
+		num tangents       :  0
+		num uvs            :  578
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  102
+	processing begun of mesh:  tree-maple-dark-stump
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  54
+		num normals        :  54
+		num tangents       :  0
+		num uvs            :  108
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  18
+	processing begun of mesh:  tree-oak
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  300
+		num normals        :  300
+		num tangents       :  0
+		num uvs            :  600
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  100
+	processing begun of mesh:  tree-oak-cut
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  96
+		num normals        :  96
+		num tangents       :  0
+		num uvs            :  192
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  32
+	processing begun of mesh:  tree-oak-stump
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  47
+		num normals        :  47
+		num tangents       :  0
+		num uvs            :  94
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  16
+	processing begun of mesh:  tree-mango-fruit
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  402
+		num normals        :  402
+		num tangents       :  0
+		num uvs            :  804
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  134
+	processing begun of mesh:  tree-mango
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  258
+		num normals        :  258
+		num tangents       :  0
+		num uvs            :  516
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  86
+	processing begun of mesh:  tree-mango-cut
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  114
+		num normals        :  114
+		num tangents       :  0
+		num uvs            :  228
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  38
+	processing begun of mesh:  tree-mango-stump
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  48
+		num normals        :  48
+		num tangents       :  0
+		num uvs            :  96
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  16
+	processing begun of mesh:  tree-orange-fruit
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  588
+		num normals        :  588
+		num tangents       :  0
+		num uvs            :  1176
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  196
+	processing begun of mesh:  tree-orange
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  414
+		num normals        :  414
+		num tangents       :  0
+		num uvs            :  828
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  138
+	processing begun of mesh:  tree-orange-cut
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  180
+		num normals        :  180
+		num tangents       :  0
+		num uvs            :  360
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  60
+	processing begun of mesh:  tree-orange-stump
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  48
+		num normals        :  48
+		num tangents       :  0
+		num uvs            :  96
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  16
+	processing begun of mesh:  tree-apple-fruit
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  504
+		num normals        :  504
+		num tangents       :  0
+		num uvs            :  1008
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  168
+	processing begun of mesh:  tree-apple
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  384
+		num normals        :  384
+		num tangents       :  0
+		num uvs            :  768
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  128
+	processing begun of mesh:  tree-apple-cut
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  174
+		num normals        :  174
+		num tangents       :  0
+		num uvs            :  348
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  58
+	processing begun of mesh:  tree-apple-stump
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  48
+		num normals        :  48
+		num tangents       :  0
+		num uvs            :  96
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  16
+	processing begun of mesh:  tree-maple-yellow
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  411
+		num normals        :  411
+		num tangents       :  0
+		num uvs            :  822
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  140
+	processing begun of mesh:  tree-maple-yellow-cut
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  201
+		num normals        :  201
+		num tangents       :  0
+		num uvs            :  402
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  70
+	processing begun of mesh:  tree-maple-yellow-stump
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  60
+		num normals        :  60
+		num tangents       :  0
+		num uvs            :  120
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  20
+	processing begun of mesh:  tree-oak-dark
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  373
+		num normals        :  373
+		num tangents       :  0
+		num uvs            :  746
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  137
+	processing begun of mesh:  tree-oak-dark-cut
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  211
+		num normals        :  211
+		num tangents       :  0
+		num uvs            :  422
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  80
+	processing begun of mesh:  tree-oak-dark-stump
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  44
+		num normals        :  44
+		num tangents       :  0
+		num uvs            :  88
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  16
+	processing begun of mesh:  tree-maple
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  202
+		num normals        :  202
+		num tangents       :  0
+		num uvs            :  404
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  68
+	processing begun of mesh:  tree-maple-cut
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  106
+		num normals        :  106
+		num tangents       :  0
+		num uvs            :  212
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  36
+	processing begun of mesh:  tree-maple-stump
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  54
+		num normals        :  54
+		num tangents       :  0
+		num uvs            :  108
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  18
+	processing begun of mesh:  logspike-oak
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  66
+		num normals        :  66
+		num tangents       :  0
+		num uvs            :  132
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  22
+	processing begun of mesh:  logspike-fruit
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  66
+		num normals        :  66
+		num tangents       :  0
+		num uvs            :  132
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  22
+	processing begun of mesh:  logspike-maple
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  66
+		num normals        :  66
+		num tangents       :  0
+		num uvs            :  132
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  22
+	processing begun of mesh:  door-metal-lock
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  31
+		num normals        :  31
+		num tangents       :  0
+		num uvs            :  62
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  door-metal
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  84
+		num normals        :  84
+		num tangents       :  0
+		num uvs            :  168
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  32
+	processing begun of mesh:  metalspike
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  51
+		num normals        :  51
+		num tangents       :  0
+		num uvs            :  102
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  20
+	processing begun of mesh:  alchemy-table-maple
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  539
+		num normals        :  539
+		num tangents       :  0
+		num uvs            :  1078
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  190
+	processing begun of mesh:  alchemy-table-oak
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  539
+		num normals        :  539
+		num tangents       :  0
+		num uvs            :  1078
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  190
+	processing begun of mesh:  kiln
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  272
+		num normals        :  272
+		num tangents       :  0
+		num uvs            :  544
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  100
+	processing begun of mesh:  foundry
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  805
+		num normals        :  805
+		num tangents       :  0
+		num uvs            :  1610
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  306
+	processing begun of mesh:  foundry-base
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  192
+		num normals        :  192
+		num tangents       :  0
+		num uvs            :  384
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  64
+	processing begun of mesh:  boulder-large
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  138
+		num normals        :  138
+		num tangents       :  0
+		num uvs            :  276
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  46
+	processing begun of mesh:  boulder-rubble
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  402
+		num normals        :  402
+		num tangents       :  0
+		num uvs            :  804
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  134
+	processing begun of mesh:  boulder-medium
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  135
+		num normals        :  135
+		num tangents       :  0
+		num uvs            :  270
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  45
+	processing begun of mesh:  boulder-small
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  126
+		num normals        :  126
+		num tangents       :  0
+		num uvs            :  252
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  42
+	processing begun of mesh:  bomb
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  272
+		num normals        :  272
+		num tangents       :  0
+		num uvs            :  544
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  96
+	processing begun of mesh:  dynamite
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  1328
+		num normals        :  1328
+		num tangents       :  0
+		num uvs            :  2656
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  457
+		WARNING: # of 0 area faces found:  6
+	processing begun of mesh:  bush-strawberry-full
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  429
+		num normals        :  429
+		num tangents       :  0
+		num uvs            :  858
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  143
+	processing begun of mesh:  bush-strawberry
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  198
+		num normals        :  198
+		num tangents       :  0
+		num uvs            :  396
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  66
+	processing begun of mesh:  bush-blueberry-full
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  132
+		num normals        :  132
+		num tangents       :  0
+		num uvs            :  264
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  44
+	processing begun of mesh:  bush-blueberry
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  60
+		num normals        :  60
+		num tangents       :  0
+		num uvs            :  120
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  20
+	processing begun of mesh:  chest-wood-unlocked
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  673
+		num normals        :  673
+		num tangents       :  0
+		num uvs            :  1346
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  232
+	processing begun of mesh:  chest-wood-lock
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  54
+		num normals        :  54
+		num tangents       :  0
+		num uvs            :  108
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  18
+	processing begun of mesh:  chest-wood-locked
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  484
+		num normals        :  484
+		num tangents       :  0
+		num uvs            :  968
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  186
+		WARNING: # of 0 area faces found:  24
+	processing begun of mesh:  anvil
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  110
+		num normals        :  110
+		num tangents       :  0
+		num uvs            :  220
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  38
+	processing begun of mesh:  pond
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  348
+		num normals        :  348
+		num tangents       :  0
+		num uvs            :  696
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  116
+	processing begun of mesh:  corn-empty
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  157
+		num normals        :  157
+		num tangents       :  0
+		num uvs            :  314
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  54
+	processing begun of mesh:  corn-grown
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  576
+		num normals        :  576
+		num tangents       :  0
+		num uvs            :  1152
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  192
+	processing begun of mesh:  cotton-empty
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  96
+		num normals        :  96
+		num tangents       :  0
+		num uvs            :  192
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  32
+	processing begun of mesh:  cotton-grown
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  294
+		num normals        :  294
+		num tangents       :  0
+		num uvs            :  588
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  98
+	processing begun of mesh:  logsetup-oak
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  188
+		num normals        :  188
+		num tangents       :  0
+		num uvs            :  376
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  64
+	processing begun of mesh:  logsetup-maple
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  188
+		num normals        :  188
+		num tangents       :  0
+		num uvs            :  376
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  64
+	processing begun of mesh:  logsetup-fruit
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  188
+		num normals        :  188
+		num tangents       :  0
+		num uvs            :  376
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  64
+	processing begun of mesh:  door-wood-lock
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  door-wood
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  114
+		num normals        :  114
+		num tangents       :  0
+		num uvs            :  228
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  44
+	processing begun of mesh:  workbench-oak
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  296
+		num normals        :  296
+		num tangents       :  0
+		num uvs            :  592
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  116
+		WARNING: # of 0 area faces found:  4
+	processing begun of mesh:  workbench-maple
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  296
+		num normals        :  296
+		num tangents       :  0
+		num uvs            :  592
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  116
+		WARNING: # of 0 area faces found:  4
+	processing begun of mesh:  potato
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  60
+		num normals        :  60
+		num tangents       :  0
+		num uvs            :  120
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  20
+	processing begun of mesh:  potato-grown
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  165
+		num normals        :  165
+		num tangents       :  0
+		num uvs            :  330
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  60
+	processing begun of mesh:  sleepingbag-bear
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  246
+		num normals        :  246
+		num tangents       :  0
+		num uvs            :  492
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  82
+	processing begun of mesh:  sleepingbag
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  114
+		num normals        :  114
+		num tangents       :  0
+		num uvs            :  228
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  40
+	processing begun of mesh:  chest-metal-lock
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  24
+		num normals        :  24
+		num tangents       :  0
+		num uvs            :  48
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  10
+	processing begun of mesh:  chest-metal-locked
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  62
+		num normals        :  62
+		num tangents       :  0
+		num uvs            :  124
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  26
+	processing begun of mesh:  chest-metal-unlocked
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  103
+		num normals        :  103
+		num tangents       :  0
+		num uvs            :  206
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  40
+	processing begun of mesh:  pot-plant
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  315
+		num normals        :  315
+		num tangents       :  0
+		num uvs            :  630
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  113
+	processing begun of mesh:  coffee-small
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  18
+		num normals        :  18
+		num tangents       :  0
+		num uvs            :  36
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  6
+	processing begun of mesh:  coffee-medium
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  228
+		num normals        :  228
+		num tangents       :  0
+		num uvs            :  456
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  76
+	processing begun of mesh:  coffee
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  974
+		num normals        :  974
+		num tangents       :  0
+		num uvs            :  1948
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  330
+	processing begun of mesh:  coffee-full
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  2242
+		num normals        :  2242
+		num tangents       :  0
+		num uvs            :  4484
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  750
+	processing begun of mesh:  poison-small
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  24
+		num normals        :  24
+		num tangents       :  0
+		num uvs            :  48
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  8
+	processing begun of mesh:  poison-medium
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  402
+		num normals        :  402
+		num tangents       :  0
+		num uvs            :  804
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  134
+	processing begun of mesh:  poison-full
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  462
+		num normals        :  462
+		num tangents       :  0
+		num uvs            :  924
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  154
+	processing begun of mesh:  poison-fruit
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  697
+		num normals        :  697
+		num tangents       :  0
+		num uvs            :  1394
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  234
+	processing begun of mesh:  pot-tree
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  2385
+		num normals        :  2385
+		num tangents       :  0
+		num uvs            :  4770
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  876
+	processing begun of mesh:  sign
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  58
+		num normals        :  58
+		num tangents       :  0
+		num uvs            :  116
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  24
+	processing begun of mesh:  bamboo-small
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  296
+		num normals        :  296
+		num tangents       :  0
+		num uvs            :  592
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  108
+	processing begun of mesh:  bamboo-medium
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  297
+		num normals        :  297
+		num tangents       :  0
+		num uvs            :  594
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  108
+	processing begun of mesh:  bamboo-full
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  648
+		num normals        :  648
+		num tangents       :  0
+		num uvs            :  1296
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  228
+	processing begun of mesh:  arrow
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  158
+		num normals        :  158
+		num tangents       :  0
+		num uvs            :  316
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  54
+	processing begun of mesh:  mushroom
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  122
+		num normals        :  122
+		num tangents       :  0
+		num uvs            :  244
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  42
+	processing begun of mesh:  ore-small
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  204
+		num normals        :  204
+		num tangents       :  0
+		num uvs            :  408
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  68
+	processing begun of mesh:  ore-medium
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  300
+		num normals        :  300
+		num tangents       :  0
+		num uvs            :  600
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  100
+	processing begun of mesh:  skull
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  620
+		num normals        :  620
+		num tangents       :  0
+		num uvs            :  1240
+		num uvs2           :  0
+		num colors         :  2480
+		num triangles      :  216
+	processing begun of mesh:  vault
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  444
+		num normals        :  444
+		num tangents       :  0
+		num uvs            :  888
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  170
+	processing begun of mesh:  tree-christmas
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  1172
+		num normals        :  1172
+		num tangents       :  0
+		num uvs            :  2344
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  394
+		WARNING: # of 0 area faces found:  60
+	processing begun of mesh:  login
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
 		num positions      :  17669
 		num normals        :  17669
 		num tangents       :  0
@@ -20,8 +945,111 @@ Exporter version: 3.3.0, Blender version: 3.3.1
 		num uvs2           :  0
 		num colors         :  0
 		num triangles      :  6089
+	processing begun of mesh:  ore-large
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  228
+		num normals        :  228
+		num tangents       :  0
+		num uvs            :  456
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  76
 ========= Writing of JSON file started =========
+	writing mesh:  tree-maple-dark
+	writing mesh:  tree-maple-dark-cut
+	writing mesh:  tree-maple-dark-stump
+	writing mesh:  tree-oak
+	writing mesh:  tree-oak-cut
+	writing mesh:  tree-oak-stump
+	writing mesh:  tree-mango-fruit
+	writing mesh:  tree-mango
+	writing mesh:  tree-mango-cut
+	writing mesh:  tree-mango-stump
+	writing mesh:  tree-orange-fruit
+	writing mesh:  tree-orange
+	writing mesh:  tree-orange-cut
+	writing mesh:  tree-orange-stump
+	writing mesh:  tree-apple-fruit
+	writing mesh:  tree-apple
+	writing mesh:  tree-apple-cut
+	writing mesh:  tree-apple-stump
+	writing mesh:  tree-maple-yellow
+	writing mesh:  tree-maple-yellow-cut
+	writing mesh:  tree-maple-yellow-stump
+	writing mesh:  tree-oak-dark
+	writing mesh:  tree-oak-dark-cut
+	writing mesh:  tree-oak-dark-stump
+	writing mesh:  tree-maple
+	writing mesh:  tree-maple-cut
+	writing mesh:  tree-maple-stump
+	writing mesh:  logspike-oak
+	writing mesh:  logspike-fruit
+	writing mesh:  logspike-maple
+	writing mesh:  door-metal-lock
+	writing mesh:  door-metal
+	writing mesh:  metalspike
+	writing mesh:  alchemy-table-maple
+	writing mesh:  alchemy-table-oak
+	writing mesh:  kiln
+	writing mesh:  foundry
+	writing mesh:  foundry-base
+	writing mesh:  boulder-large
+	writing mesh:  boulder-rubble
+	writing mesh:  boulder-medium
+	writing mesh:  boulder-small
+	writing mesh:  bomb
+	writing mesh:  dynamite
+	writing mesh:  bush-strawberry-full
+	writing mesh:  bush-strawberry
+	writing mesh:  bush-blueberry-full
+	writing mesh:  bush-blueberry
+	writing mesh:  chest-wood-unlocked
+	writing mesh:  chest-wood-lock
+	writing mesh:  chest-wood-locked
+	writing mesh:  anvil
+	writing mesh:  pond
+	writing mesh:  corn-empty
+	writing mesh:  corn-grown
+	writing mesh:  cotton-empty
+	writing mesh:  cotton-grown
+	writing mesh:  logsetup-oak
+	writing mesh:  logsetup-maple
+	writing mesh:  logsetup-fruit
+	writing mesh:  door-wood-lock
+	writing mesh:  door-wood
+	writing mesh:  workbench-oak
+	writing mesh:  workbench-maple
+	writing mesh:  potato
+	writing mesh:  potato-grown
+	writing mesh:  sleepingbag-bear
+	writing mesh:  sleepingbag
+	writing mesh:  chest-metal-lock
+	writing mesh:  chest-metal-locked
+	writing mesh:  chest-metal-unlocked
+	writing mesh:  pot-plant
+	writing mesh:  coffee-small
+	writing mesh:  coffee-medium
+	writing mesh:  coffee
+	writing mesh:  coffee-full
+	writing mesh:  poison-small
+	writing mesh:  poison-medium
+	writing mesh:  poison-full
+	writing mesh:  poison-fruit
+	writing mesh:  pot-tree
+	writing mesh:  sign
+	writing mesh:  bamboo-small
+	writing mesh:  bamboo-medium
+	writing mesh:  bamboo-full
+	writing mesh:  arrow
+	writing mesh:  mushroom
+	writing mesh:  ore-small
+	writing mesh:  ore-medium
+	writing mesh:  skull
+	writing mesh:  vault
+	writing mesh:  tree-christmas
 	writing mesh:  login
+	writing mesh:  ore-large
 ========= Writing of JSON file completed =========
 ========= end of processing =========
-elapsed time:  0 min, 1.1127 secs
+elapsed time:  0 min, 1.9394 secs
