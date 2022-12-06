@@ -654,7 +654,7 @@ Exporter version: 3.3.0, Blender version: 3.3.1
 		num colors         :  0
 		num triangles      :  116
 		WARNING: # of 0 area faces found:  4
-	processing begun of mesh:  potato.001
+	processing begun of mesh:  potato
 		processing begun of material:  Texture Sheet
 		registered as also a user of material:  Texture Sheet
 		num positions      :  60
@@ -924,6 +924,17 @@ Exporter version: 3.3.0, Blender version: 3.3.1
 		num uvs2           :  0
 		num colors         :  0
 		num triangles      :  170
+	processing begun of mesh:  tree-christmas
+		processing begun of material:  Texture Sheet
+		registered as also a user of material:  Texture Sheet
+		num positions      :  1172
+		num normals        :  1172
+		num tangents       :  0
+		num uvs            :  2344
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  394
+		WARNING: # of 0 area faces found:  60
 	processing begun of mesh:  ore-large
 		processing begun of material:  Texture Sheet
 		registered as also a user of material:  Texture Sheet
@@ -999,7 +1010,7 @@ Exporter version: 3.3.0, Blender version: 3.3.1
 	writing mesh:  door-wood
 	writing mesh:  workbench-oak
 	writing mesh:  workbench-maple
-	writing mesh:  potato.001
+	writing mesh:  potato
 	writing mesh:  potato-grown
 	writing mesh:  sleepingbag-bear
 	writing mesh:  sleepingbag
@@ -1026,7 +1037,8 @@ Exporter version: 3.3.0, Blender version: 3.3.1
 	writing mesh:  ore-medium
 	writing mesh:  skull
 	writing mesh:  vault
+	writing mesh:  tree-christmas
 	writing mesh:  ore-large
 ========= Writing of JSON file completed =========
 ========= end of processing =========
-elapsed time:  0 min, 1.302 secs
+elapsed time:  0 min, 1.1099 secs
