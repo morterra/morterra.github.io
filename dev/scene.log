@@ -1,4 +1,4 @@
-Exporter version: 3.3.0, Blender version: 3.3.1
+Exporter version: 3.3.0, Blender version: 3.3.2
 ========= Conversion from Blender to Babylon.js =========
 	Scene settings used :
 		Inline textures     :  true
@@ -494,10 +494,10 @@ Exporter version: 3.3.0, Blender version: 3.3.1
 	processing begun of mesh:  chest-wood-unlocked
 		processing begun of material:  Texture Sheet
 		registered as also a user of material:  Texture Sheet
-		num positions      :  673
-		num normals        :  673
+		num positions      :  672
+		num normals        :  672
 		num tangents       :  0
-		num uvs            :  1346
+		num uvs            :  1344
 		num uvs2           :  0
 		num colors         :  0
 		num triangles      :  232
@@ -1053,4 +1053,4 @@ Exporter version: 3.3.0, Blender version: 3.3.1
 	writing mesh:  ore-large
 ========= Writing of JSON file completed =========
 ========= end of processing =========
-elapsed time:  0 min, 2.0033 secs
+elapsed time:  0 min, 2.338 secs
